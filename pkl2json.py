@@ -10,7 +10,7 @@ import re
 def main():
     bible = read('pkl-poj.txt')
     for book, content in sorted(bible.items(), key=lambda x: x[1]['bookno']): 
-        with open(book + '.json', 'w') as file:
+        with open('{:02}-{}.json'.format(content['bookno'], book), 'w') as file:
             json.dump(
                 content, file,
                 ensure_ascii=False, sort_keys=True, indent=2
