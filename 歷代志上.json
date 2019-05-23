@@ -1,0 +1,3829 @@
+{
+  "1": {
+    "1": {
+      "mp3": "13/13_001_01.mp3", 
+      "text": " A-tong, Siat, Í-lô-sū;"
+    }, 
+    "2": {
+      "mp3": "13/13_001_02.mp3", 
+      "text": " Kai-lâm, Má-le̍k-lia̍t, Ngá-lia̍t;"
+    }, 
+    "3": {
+      "mp3": "13/13_001_03.mp3", 
+      "text": " Í-lo̍k, Má-thó͘-sat-la̍h, La̍h-be̍k;"
+    }, 
+    "4": {
+      "mp3": "13/13_001_04.mp3", 
+      "text": " Ná-a, Siám, Hâm, Ngá-hut."
+    }, 
+    "5": {
+      "mp3": "13/13_001_05.mp3", 
+      "text": " Ngá-hut ê kiáⁿ; Ko-bia̍t, Má-kok, Má-tāi, Ngá-oân, Thó͘-pa, Bí-siat, Thê-la̍h."
+    }, 
+    "6": {
+      "mp3": "13/13_001_06.mp3", 
+      "text": " Ko-bia̍t ê kiáⁿ; A-si̍t-ki-ná, Te-hoat, To-ka-má."
+    }, 
+    "7": {
+      "mp3": "13/13_001_07.mp3", 
+      "text": " Ngá-oân ê kiáⁿ; Í-lī-sa, Tha-sì, Ki-thê, Lô-tan."
+    }, 
+    "8": {
+      "mp3": "13/13_001_08.mp3", 
+      "text": " Hâm ê kiáⁿ; Kó͘-si̍t, Be̍k-se-im, Hut, Ka-lâm."
+    }, 
+    "9": {
+      "mp3": "13/13_001_09.mp3", 
+      "text": " Kó͘-si̍t ê kiáⁿ; Se-pa, Hap-hui-la̍h, Sat-hut-tha, La̍h-má, Sat-hut-thê-ka.  La̍h-má ê kiáⁿ, Sī-pa, Tí-tàn."
+    }, 
+    "10": {
+      "mp3": "13/13_001_10.mp3", 
+      "text": " Kó͘-si̍t siⁿ Lêng-lio̍k; i chòe sè-chiūⁿ eng-hiông ê khí-thâu."
+    }, 
+    "11": {
+      "mp3": "13/13_001_11.mp3", 
+      "text": " Be̍k-se-im siⁿ Lō͘-téng-im, A-ná-bí-im, Lī-hap-pí-im, Ná-hut-thó͘-hi-im;"
+    }, 
+    "12": {
+      "mp3": "13/13_001_12.mp3", 
+      "text": " Phàⁿ-su-ló͘-sè-im, Ka-su-lō͘-hi-im, (tùi in chhut Hui-lī-sū lâng), Ka-hui-thok-im."
+    }, 
+    "13": {
+      "mp3": "13/13_001_13.mp3", 
+      "text": " Ka-lâm siⁿ tōa-kiáⁿ Se-tùn, kap Hek;"
+    }, 
+    "14": {
+      "mp3": "13/13_001_14.mp3", 
+      "text": " í-ki̍p Iâ-pò͘-su, A-mô͘-lī, Kek-ka-sat;"
+    }, 
+    "15": {
+      "mp3": "13/13_001_15.mp3", 
+      "text": " Hi-bī, A-ki, Sé-nî;"
+    }, 
+    "16": {
+      "mp3": "13/13_001_16.mp3", 
+      "text": " A-óa-tí, Sé-má-lī, Hap-má, chiah ê cho̍k."
+    }, 
+    "17": {
+      "mp3": "13/13_001_17.mp3", 
+      "text": " Siám ê kiáⁿ; Í-lân, A-sūt, A-hoat-sat, Lō͘-tek, A-lân, O͘-su, Hō͘-le̍k, Ki-thiap, Bí-siat."
+    }, 
+    "18": {
+      "mp3": "13/13_001_18.mp3", 
+      "text": " A-hoat-sat siⁿ Sa-la̍h, Sa-la̍h siⁿ Hi-pek."
+    }, 
+    "19": {
+      "mp3": "13/13_001_19.mp3", 
+      "text": " Hi-pek siⁿ nn̄g ê kiáⁿ; chi̍t-ê miâ-kiò Hoat-le̍k, in-ūi tī i hit-sî tōe-chiūⁿ chiū hun-kài; Hoat-le̍k ê sió-tī miâ-kiò Iok-tan."
+    }, 
+    "20": {
+      "mp3": "13/13_001_20.mp3", 
+      "text": " Iok-tan siⁿ A-mô͘-tap, Sa-lia̍t, Hap-sat-má-hui, Iâ-la̍h;"
+    }, 
+    "21": {
+      "mp3": "13/13_001_21.mp3", 
+      "text": " Hap-to-lân, O͘-sat, Tek-la̍h;"
+    }, 
+    "22": {
+      "mp3": "13/13_001_22.mp3", 
+      "text": " Í-pa-lio̍k, A-pí-má-lī, Sī-pa;"
+    }, 
+    "23": {
+      "mp3": "13/13_001_23.mp3", 
+      "text": " O͘-hui, Hap-hui-la̍h, Iok-pa;  chiah-ê lóng sī Iok-tan ê kiáⁿ."
+    }, 
+    "24": {
+      "mp3": "13/13_001_24.mp3", 
+      "text": " Siám, A-hoat-sat, Sa-la̍h;"
+    }, 
+    "25": {
+      "mp3": "13/13_001_25.mp3", 
+      "text": " Hi-pek, Hoat-le̍k, La̍h-ngô͘;"
+    }, 
+    "26": {
+      "mp3": "13/13_001_26.mp3", 
+      "text": " Se-lo̍k, Ná-ho̍k, Tha-la̍h;"
+    }, 
+    "27": {
+      "mp3": "13/13_001_27.mp3", 
+      "text": " A-pek-lân, (A-pek-lân chiū-sī A-pek-la̍h-hán)."
+    }, 
+    "28": {
+      "mp3": "13/13_001_28.mp3", 
+      "text": " A-pek-la̍h-hán ê kiáⁿ; Í-sat, Í-si̍t-má-lī."
+    }, 
+    "29": {
+      "mp3": "13/13_001_29.mp3", 
+      "text": " In ê sè-hē kì tī ē-tóe: Í-si̍t-má-lī ê tōa-kiáⁿ, Nî-pài-iok; koh ū Ki-ta̍t, Ap-tek-pia̍t, Bí-pí-sam;"
+    }, 
+    "30": {
+      "mp3": "13/13_001_30.mp3", 
+      "text": " Bí-si-má, Tō͘-má, Má-sat, Hap-ta̍t, Thê-má;"
+    }, 
+    "31": {
+      "mp3": "13/13_001_31.mp3", 
+      "text": " I-tu̍t, Ná-hui-si, Ki-tí-má.  Chiah-ê lóng sī Í-si̍t-má-lī ê kiáⁿ."
+    }, 
+    "32": {
+      "mp3": "13/13_001_32.mp3", 
+      "text": " A-pek-la̍h-hán ê sòe-î Ki-thó͘-la̍h só͘ siⁿ ê kiáⁿ chiū-sī Sim-lân, Iok-san, Bí-tàn, Bí-tiân, I-si-pa, Su-a.  Iok-san ê kiáⁿ; Sī-pa, Tí-tàn."
+    }, 
+    "33": {
+      "mp3": "13/13_001_33.mp3", 
+      "text": " Bí-tiân ê kiáⁿ; Í-hoat, Í-hut, Hap-lo̍k, A-pí-tāi, Í-le̍k-tāi.  Chiah-ê lóng sī Ki-thó͘-la̍h ê kiáⁿ-sun."
+    }, 
+    "34": {
+      "mp3": "13/13_001_34.mp3", 
+      "text": " A-pek-la̍h-hán siⁿ Í-sat.  Í-sat ê kiáⁿ; Í-sò kap Í-sek-lia̍t."
+    }, 
+    "35": {
+      "mp3": "13/13_001_35.mp3", 
+      "text": " Í-sò ê kiáⁿ: Í-lī-hoat, Liû-jíⁿ, Iâ-o͘-si, Ngá-lân, Khó-la̍h."
+    }, 
+    "36": {
+      "mp3": "13/13_001_36.mp3", 
+      "text": " Í-lī-hoat ê kiáⁿ; Thê-bān, O-boa̍t, Sé-phi, Ka-thán, Ki-la̍p-su, Têng-la̍p, A-má-le̍k."
+    }, 
+    "37": {
+      "mp3": "13/13_001_37.mp3", 
+      "text": " Liû-jíⁿ ê kiáⁿ; Ná-hap, Siā-la̍h, Sa-má, Bí-sat."
+    }, 
+    "38": {
+      "mp3": "13/13_001_38.mp3", 
+      "text": " Se-jíⁿ ê kiáⁿ; Lô-tan, Sok-pa, Chè-piān, A-ná, Tí-sūn, Í-chhat, Tí-san."
+    }, 
+    "39": {
+      "mp3": "13/13_001_39.mp3", 
+      "text": " Lô-tan ê kiáⁿ; Hô-lī, Hô-bān;  Lô-tan ê chí-bē sī Têng-la̍p."
+    }, 
+    "40": {
+      "mp3": "13/13_001_40.mp3", 
+      "text": " Sok-pa ê kiáⁿ; A-le̍k-bûn, Má-ná-hat, Í-pa-lio̍k, Sī-hui, O-lâm.  Chè-piān ê kiáⁿ; A-ngá, A-ná.  A-ná ê kiáⁿ; Tí-sūn."
+    }, 
+    "41": {
+      "mp3": "13/13_001_41.mp3", 
+      "text": " Tí-sūn ê kiáⁿ; Hap-bek-lân, I-sī-pan, Ek-lân, Ki-lân."
+    }, 
+    "42": {
+      "mp3": "13/13_001_42.mp3", 
+      "text": " Í-chhat ê kiáⁿ; Phek-hán, Sat-hoan, A-kan.  Tí-san ê kiáⁿ; O͘-su, A-lân."
+    }, 
+    "43": {
+      "mp3": "13/13_001_43.mp3", 
+      "text": " Tng Í-sek-lia̍t lâng bē ū kun-ông tī-lí ê tāi-seng, tī Í-tong tōe chòe-ông lâi tī-lí--ê kì tī ē-tóe:  Pí-jíⁿ ê kiáⁿ Pí-la̍h; i ê kiaⁿ-siâⁿ miâ kiò Têng-hap-pa."
+    }, 
+    "44": {
+      "mp3": "13/13_001_44.mp3", 
+      "text": " Pí-la̍h sí-liáu, Pho-su-la̍h lâng Siā-la̍h ê kiáⁿ Iok-pa sòa-chiap i chòe-ông."
+    }, 
+    "45": {
+      "mp3": "13/13_001_45.mp3", 
+      "text": " Iok-pa sí-liáu, Thê-bān tōe ê lâng Hō͘-san sòa-chiap i chòe-ông."
+    }, 
+    "46": {
+      "mp3": "13/13_001_46.mp3", 
+      "text": " Hō͘-san sí-liáu, Pí-ta̍t ê kiáⁿ Hap-ta̍t sòa-chiap i chòe-ông; i chiū-sī tī Mô͘-ap tōe thâi-iâⁿ Bí-tiân lâng ê; i ê kiaⁿ-siâⁿ miâ-kiò A-bī-tek."
+    }, 
+    "47": {
+      "mp3": "13/13_001_47.mp3", 
+      "text": " Hap-ta̍t sí-liáu, Má-sū-lī-ka lâng Song-la̍h sòa-chiap i chòe-ông."
+    }, 
+    "48": {
+      "mp3": "13/13_001_48.mp3", 
+      "text": " Song-la̍h sí-liáu, Hô-piⁿ Lī-hô-pek lâng Sò-lô sòa-chiap i chòe-ông."
+    }, 
+    "49": {
+      "mp3": "13/13_001_49.mp3", 
+      "text": " Sò-lô sí-liáu, A-kek-pho ê kiáⁿ Pa-le̍k-hap-lâm sòa-chiap i chòe-ông."
+    }, 
+    "50": {
+      "mp3": "13/13_001_50.mp3", 
+      "text": " Pa-le̍k-hap-lâm sí-liáu, Hap-ta̍t sòa-chiap i chòe-ông; i ê kiaⁿ-siâⁿ miâ-kiò Pa-i; i ê bó͘ miâ-kiò Bí-hi-tha-piat, sī Bí-sat-ha̍p ê cha-bó͘-sun, Má-te̍k-lia̍t ê cha-bó͘-kiáⁿ. Hap-ta̍t sí."
+    }, 
+    "51": {
+      "mp3": "13/13_001_51.mp3", 
+      "text": " Ū Í-tong lâng ê cho̍k-tiúⁿ, chiū-sī Têng-la̍p cho̍k-tiúⁿ, A-le̍k-óa cho̍k-tiúⁿ, Iâ-thiap cho̍k-tiúⁿ;"
+    }, 
+    "52": {
+      "mp3": "13/13_001_52.mp3", 
+      "text": " A-hô-lī-pa-má cho̍k-tiúⁿ, Í-la̍h cho̍k-tiúⁿ, Pí-lùn cho̍k-tiúⁿ;"
+    }, 
+    "53": {
+      "mp3": "13/13_001_53.mp3", 
+      "text": " Ki-la̍p-su cho̍k-tiúⁿ, Thê-bān cho̍k-tiúⁿ, Bí-pí-sat cho̍k-tiúⁿ;"
+    }, 
+    "54": {
+      "mp3": "13/13_001_54.mp3", 
+      "text": " Má-ki-tia̍p cho̍k-tiúⁿ, Í-lân cho̍k-tiúⁿ.  Chiah-ê chiū-sī Í-tong lâng ê cho̍k-tiúⁿ."
+    }
+  }, 
+  "2": {
+    "1": {
+      "mp3": "13/13_002_01.mp3", 
+      "text": " Í-sek-lia̍t ê kiáⁿ; Liû-piān, Se-biān, Lī-bī, Iû-tāi, Í-sat-ka, Se-pò͘-lûn;"
+    }, 
+    "2": {
+      "mp3": "13/13_002_02.mp3", 
+      "text": " Tàn, Iok-sek, Piān-ngá-bín, Ná-hut-tha-lī, Ka-tek, A-siat."
+    }, 
+    "3": {
+      "mp3": "13/13_002_03.mp3", 
+      "text": " Iû-tāi ê kiáⁿ; Jíⁿ, Gô-lâm, Sī-la̍h; chit saⁿ-ê sī Ka-lâm lâng Su-a ê cha-bó͘-kiáⁿ só͘ siⁿ--ê.  Iû-tāi ê tōa-kiáⁿ Jíⁿ chòe-pháiⁿ tī Iâ-hô-hoa ê bīn-chêng, I chiū hō͘ i sí."
+    }, 
+    "4": {
+      "mp3": "13/13_002_04.mp3", 
+      "text": " Iû-tāi ê sim-pū Tha-má kā i siⁿ Hoat-le̍k-su kap Siā-la̍h.  Iû-tāi kiōng gō͘ ê kiáⁿ."
+    }, 
+    "5": {
+      "mp3": "13/13_002_05.mp3", 
+      "text": " Hoat-le̍k-su ê kiáⁿ; Hi-su-lûn, Hap-bó͘-le̍k."
+    }, 
+    "6": {
+      "mp3": "13/13_002_06.mp3", 
+      "text": " Siā-la̍h ê kiáⁿ; Sim-lī, Í-thàm, Hi-bān, Kah-kok, Tāi-la̍h; kiōng gō͘-lâng."
+    }, 
+    "7": {
+      "mp3": "13/13_002_07.mp3", 
+      "text": " Ka-bí ê kiáⁿ; A-kan, chit ê A-kan tī eng-kai bia̍t ê mi̍h hoān-chōe, liân-lūi Í-sek-lia̍t lâng."
+    }, 
+    "8": {
+      "mp3": "13/13_002_08.mp3", 
+      "text": " Í-thàm ê kiáⁿ; A-sat-lī-ngá."
+    }, 
+    "9": {
+      "mp3": "13/13_002_09.mp3", 
+      "text": " Hi-su-lûn só͘ siⁿ ê kiáⁿ; Iâ-la̍h-bia̍t, Lân, Ki-lō͘-pài."
+    }, 
+    "10": {
+      "mp3": "13/13_002_10.mp3", 
+      "text": " Lân siⁿ A-bí-ngá-ta̍t; A-bí-ngá-ta̍t siⁿ Ná-sūn, chòe Iû-tāi lâng ê siú-léng;"
+    }, 
+    "11": {
+      "mp3": "13/13_002_11.mp3", 
+      "text": " Ná-sūn siⁿ Sat-bûn, Sat-bûn siⁿ Pho-a-su;"
+    }, 
+    "12": {
+      "mp3": "13/13_002_12.mp3", 
+      "text": " Pho-a-su siⁿ Gô-pī-tek;  Gô-pī-tek siⁿ Iâ-se;"
+    }, 
+    "13": {
+      "mp3": "13/13_002_13.mp3", 
+      "text": " Iâ-se siⁿ tōa-kiáⁿ Í-lī-ap, tē-jī kiáⁿ A-pí-ná-ta̍t, tē-saⁿ kiáⁿ Sī-bí-a;"
+    }, 
+    "14": {
+      "mp3": "13/13_002_14.mp3", 
+      "text": " tē-sì kiáⁿ Ná-thán-gia̍p, tē-gō͘ kiáⁿ La̍h-tāi;"
+    }, 
+    "15": {
+      "mp3": "13/13_002_15.mp3", 
+      "text": " tē-la̍k kiáⁿ O-sián, tē-chhit kiáⁿ Tāi-pi̍t."
+    }, 
+    "16": {
+      "mp3": "13/13_002_16.mp3", 
+      "text": " In ê chí-bē sī Sé-ló͘-ngá kap A-pí-kai.  Sé-ló͘-ngá ê kiáⁿ sī A-pí-su, Iok-ap, A-sat-hek, kiōng saⁿ-ê."
+    }, 
+    "17": {
+      "mp3": "13/13_002_17.mp3", 
+      "text": " A-pí-kai siⁿ A-má-sat; A-má-sat ê lāu-pē sī Í-si̍t-má-lī lâng Ek-thiap."
+    }, 
+    "18": {
+      "mp3": "13/13_002_18.mp3", 
+      "text": " Hi-su-lûn ê kiáⁿ Ka-le̍k tùi i ê bó͘ A-so͘-pa, iā tùi Iâ-lio̍k, lâi siⁿ-kiáⁿ; i ê kiáⁿ chiū-sī Iâ-siat, Sok-pa, Ap-tun."
+    }, 
+    "19": {
+      "mp3": "13/13_002_19.mp3", 
+      "text": " A-so͘-pa sí-liáu, Ka-le̍k koh chhōa Í-hoat-tha, i kā i siⁿ Hō͘-jíⁿ."
+    }, 
+    "20": {
+      "mp3": "13/13_002_20.mp3", 
+      "text": " Hō͘-jíⁿ siⁿ O͘-lī, O͘-lī siⁿ Pí-sat-lia̍t."
+    }, 
+    "21": {
+      "mp3": "13/13_002_21.mp3", 
+      "text": " Liáu-āu Hi-su-lûn kap Ki-lia̍t ê lāu-pē Má-kiat ê cha-bó͘-kiáⁿ tâng-pâng; Hi-su-lûn la̍k-cha̍p hè chhōa i chòe-bó͘;"
+    }, 
+    "22": {
+      "mp3": "13/13_002_22.mp3", 
+      "text": " i kā i siⁿ Se-kat, Se-kat siⁿ Gâi-jíⁿ, i tī Ki-lia̍t tōe ū jī-cha̍p-saⁿ ê siâⁿ."
+    }, 
+    "23": {
+      "mp3": "13/13_002_23.mp3", 
+      "text": " Āu-lâi Ki-su̍t lâng kap A-lân lâng tùi in chhiúⁿ Gâi-jíⁿ chiah ê siâⁿ, kap Ki-la̍p kap i ê hiuⁿ-chhng, kiōng la̍k-cha̍p ê siâⁿ.  Chiah-ê lóng sī Ki-lia̍t ê lāu-pē Má-kiat ê kiáⁿ."
+    }, 
+    "24": {
+      "mp3": "13/13_002_24.mp3", 
+      "text": " Hi-su-lûn tī Ka-le̍k-í-hoat-tha sí-āu, i ê bó͘ A-pí-ngá kā i siⁿ A-si-hō͘, Thê-ko-a ê lāu-pē."
+    }, 
+    "25": {
+      "mp3": "13/13_002_25.mp3", 
+      "text": " Hi-su-lûn ê tōa-kiáⁿ Iâ-la̍h-bia̍t siⁿ tōa-kiáⁿ Lân, koh siⁿ Pò͘-ná, O-liân, O-sián, A-hi-ngá."
+    }, 
+    "26": {
+      "mp3": "13/13_002_26.mp3", 
+      "text": " Iâ-la̍h-bia̍t koh chhōa chi̍t ê bó͘, miâ A-tha-la̍h;  i sī O-lâm ê lāu-bú."
+    }, 
+    "27": {
+      "mp3": "13/13_002_27.mp3", 
+      "text": " Iâ-la̍h-bia̍t ê tōa-kiáⁿ Lân ê kiáⁿ; Má-su, Ngá-bín, Í-kiat."
+    }, 
+    "28": {
+      "mp3": "13/13_002_28.mp3", 
+      "text": " O-lâm ê kiáⁿ, Sa-mái, Ngá-tāi;  Sa-mái ê kiáⁿ, Ná-tap, A-pí-su̍t."
+    }, 
+    "29": {
+      "mp3": "13/13_002_29.mp3", 
+      "text": " A-pí-su̍t ê bó͘ miâ A-pí-hâi; i kā i siⁿ A-piān, kap Mô͘-lī."
+    }, 
+    "30": {
+      "mp3": "13/13_002_30.mp3", 
+      "text": " Ná-tap ê kiáⁿ; Se-lia̍t, A-piàn;  Se-lia̍t bô kiáⁿ chiū sí."
+    }, 
+    "31": {
+      "mp3": "13/13_002_31.mp3", 
+      "text": " A-piàn ê kiáⁿ; Í-sī; Í-sī ê kiáⁿ; Sī-san.  Sī-san ê kiáⁿ; A-lâi."
+    }, 
+    "32": {
+      "mp3": "13/13_002_32.mp3", 
+      "text": " Sa-mái ê sió-tī Ngá-tāi ê kiáⁿ; Ek-thiap, Iok-ná-tan; Ek-thiap bô kiáⁿ, chiū sí."
+    }, 
+    "33": {
+      "mp3": "13/13_002_33.mp3", 
+      "text": " Iok-ná-tan ê kiáⁿ; Pí-le̍k, Sat-sat.  Chiah-ê lóng sī Iâ-la̍h-bia̍t ê kiáⁿ-sun."
+    }, 
+    "34": {
+      "mp3": "13/13_002_34.mp3", 
+      "text": " Sī-san bô kiáⁿ, chí ū cha-bó͘-kiáⁿ.  Sī-san ū chi̍t ê lô͘-po̍k, miâ Iâ-hap, sī Ai-ki̍p lâng."
+    }, 
+    "35": {
+      "mp3": "13/13_002_35.mp3", 
+      "text": " Sī-san chiong i ê cha-bó͘-kiáⁿ hō͘ lô͘-po̍k Iâ-hap chòe bó͘; i kā i siⁿ-kiáⁿ A-thài."
+    }, 
+    "36": {
+      "mp3": "13/13_002_36.mp3", 
+      "text": " A-thài siⁿ Ná-tan, Ná-tan siⁿ Sat-poa̍t;"
+    }, 
+    "37": {
+      "mp3": "13/13_002_37.mp3", 
+      "text": " Sat-poa̍t siⁿ Í-hut-la̍h, Í-hut-la̍h siⁿ Gô-pī-tek;"
+    }, 
+    "38": {
+      "mp3": "13/13_002_38.mp3", 
+      "text": " Gô-pī-tek siⁿ Iâ-hō͘, Iâ-hō͘ siⁿ A-sat-lī-ngá;"
+    }, 
+    "39": {
+      "mp3": "13/13_002_39.mp3", 
+      "text": " A-sat-lī-ngá siⁿ Hi-lī-su, Hi-lī-su siⁿ Í-lī-a-sat;"
+    }, 
+    "40": {
+      "mp3": "13/13_002_40.mp3", 
+      "text": " Í-lī-a-sat siⁿ Se-su-mái, Se-su-mái siⁿ Sa-liông;"
+    }, 
+    "41": {
+      "mp3": "13/13_002_41.mp3", 
+      "text": " Sa-liông siⁿ Iâ-ka-bí-ngá, Iâ-ka-bí-ngá siⁿ Í-lī-sa-má."
+    }, 
+    "42": {
+      "mp3": "13/13_002_42.mp3", 
+      "text": " Iâ-la̍h-bia̍t ê hiaⁿ-tī Ka-le̍k ū kiáⁿ, tōa-kiáⁿ Bí-sa, sī Se-hut ê lāu-pē; koh Hi-pek-lûn ê lāu-pē Má-lí-sa ê kiáⁿ."
+    }, 
+    "43": {
+      "mp3": "13/13_002_43.mp3", 
+      "text": " Hi-pek-lûn ê kiáⁿ; Κhó-la̍h, Tha-phó͘-a, Lī-khéng, Sī-má."
+    }, 
+    "44": {
+      "mp3": "13/13_002_44.mp3", 
+      "text": " Sī-má siⁿ La̍h-hâm, sī Iok-kan ê lāu-pē;  Lī-khéng siⁿ Sa-mái.  Sa-mái ê kiáⁿ Má-hûn;"
+    }, 
+    "45": {
+      "mp3": "13/13_002_45.mp3", 
+      "text": " Má-hûn sī Pek-siok ê lāu-pē."
+    }, 
+    "46": {
+      "mp3": "13/13_002_46.mp3", 
+      "text": " Ka-le̍k ê sòe-î Í-hoat siⁿ Hap-lân, Mô͘-sat, Ka-siā;  Hap-lân siⁿ Ka-siā."
+    }, 
+    "47": {
+      "mp3": "13/13_002_47.mp3", 
+      "text": " Ngá-tāi ê kiáⁿ; Lī-kiān, Iok-thán, Ki-san, Pí-le̍k, Í-hoat, Sa-a-hut."
+    }, 
+    "48": {
+      "mp3": "13/13_002_48.mp3", 
+      "text": " Ka-le̍k ê sòe-î Má-ka siⁿ Sī-pia̍t, Te̍k-hap-ná."
+    }, 
+    "49": {
+      "mp3": "13/13_002_49.mp3", 
+      "text": " Koh siⁿ Be̍k-má-ná ê lāu-pē Sa-a-hut, Boat-pí-ná kap Ki-pí-a ê lāu-pē Sī-hoat;  Ka-le̍k ê cha-bó͘-kiáⁿ sī Ap-sat."
+    }, 
+    "50": {
+      "mp3": "13/13_002_50.mp3", 
+      "text": " Ka-le̍k ê kiáⁿ-sun; Í-hoat-tha ê tōa-kiáⁿ; Hō͘-jíⁿ ê kiáⁿ, Ki-lia̍t-iâ-lîm ê lāu-pē Sok-pa;"
+    }, 
+    "51": {
+      "mp3": "13/13_002_51.mp3", 
+      "text": " Pek-lī-hêng ê lāu-pē Sat-má, Pek-ka-tek ê lāu-pē Hap-le̍k."
+    }, 
+    "52": {
+      "mp3": "13/13_002_52.mp3", 
+      "text": " Ki-lia̍t-iâ-lîm ê lāu-pē Sok-pa ū kiáⁿ; Hap-lô-í kap Bí-lô͘-hap lâng ê chi̍t-pòaⁿ."
+    }, 
+    "53": {
+      "mp3": "13/13_002_53.mp3", 
+      "text": " Ki-lia̍t-iâ-lîm hiah ê cho̍k; Í-thiap lâng, Pò͘-te̍k lâng, Sū-má lâng, Bi̍t-lâi lâng; koh tùi chiah ê cho̍k ū siⁿ-chhut Só-la̍h lâng kap Í-si̍t-tô lâng."
+    }, 
+    "54": {
+      "mp3": "13/13_002_54.mp3", 
+      "text": " Sat-má ê kiáⁿ-sun; Pek-lī-hêng, Nî-tô-hoat lâng, A-tha-lio̍k-pek-iok-ap, Má-ná-hap lâng ê chi̍t-pòaⁿ, Só-lī lâng."
+    }, 
+    "55": {
+      "mp3": "13/13_002_55.mp3", 
+      "text": " Koh ū khiā-khí tī Ngá-pí-su chiah ê keng-ha̍k-sū ê ke, chiū-sī Tek-la̍h lâng, Sī-bí-ap lâng, Só͘-kah lâng. Chiah-ê lóng sī Ki-nî lâng, Lī-kah ê ke ê lāu-pē Hap-boa̍t só͘ siⁿ ê."
+    }
+  }, 
+  "3": {
+    "1": {
+      "mp3": "13/13_003_01.mp3", 
+      "text": " Tāi-pi̍t tī Hi-pek-lûn só͘ siⁿ ê kiáⁿ kì tī ē-tóe: tōa-kiáⁿ Àm-lùn, sī Iâ-su-lia̍t lâng A-hi-loán siⁿ--ê; tē-jī kiáⁿ Tàn-í-lí, chiū-sī Ka-bi̍t lâng A-pí-kai siⁿ--ê;"
+    }, 
+    "2": {
+      "mp3": "13/13_003_02.mp3", 
+      "text": " tē-saⁿ kiáⁿ Ap-sa-liông, sī Ki-su̍t ông Ta̍t-mái ê cha-bó͘-kiáⁿ Má-ka siⁿ--ê; tē-sì kiáⁿ A-to-nî-ngá, sī Hap-ki̍p siⁿ--ê;"
+    }, 
+    "3": {
+      "mp3": "13/13_003_03.mp3", 
+      "text": " tē-gō͘ kiáⁿ Sī-hoat-thê-ngá, sī A-pí-tha siⁿ--ê; tē-la̍k kiáⁿ Í-te̍k-liām, sī i ê bó͘ Í-khek-la̍h siⁿ--ê."
+    }, 
+    "4": {
+      "mp3": "13/13_003_04.mp3", 
+      "text": " Chit la̍k lâng lóng sī Tāi-pi̍t tī Hi-pek-lûn siⁿ--ê; i tī-hia chòe-ông chhit-nî koh la̍k-ge̍h-ji̍t;  tī Iâ-lō͘-sat-léng chòe-ông saⁿ-cha̍p-saⁿ nî."
+    }, 
+    "5": {
+      "mp3": "13/13_003_05.mp3", 
+      "text": " Tāi-pi̍t tī Iâ-lō͘-sat-léng só͘ siⁿ ê kiáⁿ chiū-sī Sī-bí-a, Sok-pa, Ná-tan, Só͘-lô-bûn; chí(**chit) sì-ê sī A-bí-lī ê cha-bó͘-kiáⁿ Poa̍t-su-a só͘ siⁿ--ê."
+    }, 
+    "6": {
+      "mp3": "13/13_003_06.mp3", 
+      "text": " Iáu ū Ek-hat, Í-lī-sa-má, Í-lī-hoat-lia̍t;"
+    }, 
+    "7": {
+      "mp3": "13/13_003_07.mp3", 
+      "text": " Lô-ka, Nî-húi, Ngá-hui-a;"
+    }, 
+    "8": {
+      "mp3": "13/13_003_08.mp3", 
+      "text": " Í-lī-sa-má, Í-lī-ngá-tāi, Í-lī-hoat-lia̍t, kiōng káu-ê."
+    }, 
+    "9": {
+      "mp3": "13/13_003_09.mp3", 
+      "text": " Chiah-ê lóng sī Tāi-pi̍t ê kiáⁿ; í-gōa iáu ū hō͘-hui ê kiáⁿ; Tha-má sī in ê chí-bē."
+    }, 
+    "10": {
+      "mp3": "13/13_003_10.mp3", 
+      "text": " Só͘-lô-bûn ê kiáⁿ sī Lô-phò-àm, Lô-phò-àm ê kiáⁿ sī A-pí-ngá, A-pí-ngá ê kiáⁿ sī A-sat, A-sat ê kiáⁿ sī Iok-sa-hoat;"
+    }, 
+    "11": {
+      "mp3": "13/13_003_11.mp3", 
+      "text": " Iok-sa-hoat ê kiáⁿ sī Iok-lân, Iok-lân ê kiáⁿ sī A-hap-siā, A-hap-siā ê kiáⁿ sī Iok-a-si;"
+    }, 
+    "12": {
+      "mp3": "13/13_003_12.mp3", 
+      "text": " Iok-a-si ê kiáⁿ sī A-má-siā, A-má-siā ê kiáⁿ sī A-sat-lī-ngá, A-sat-lī-ngá ê kiáⁿ sī Iok-thán;"
+    }, 
+    "13": {
+      "mp3": "13/13_003_13.mp3", 
+      "text": " Iok-thán ê kiáⁿ sī A-hap-su, A-hap-su ê kiáⁿ sī Hi-se-ka, Hi-se-ka ê kiáⁿ sī Má-ná-se;"
+    }, 
+    "14": {
+      "mp3": "13/13_003_14.mp3", 
+      "text": " Má-ná-se ê kiáⁿ sī A-bûn, A-bûn ê kiáⁿ sī Iok-se-a;"
+    }, 
+    "15": {
+      "mp3": "13/13_003_15.mp3", 
+      "text": " Iok-se-a ê kiáⁿ, tōa--ê sī Iok-hap-lân, tē-jī-ê sī Iok-ngá-kèng, tē-saⁿ-ê Se-tí-ka, tē-sì-ê Sa-liông."
+    }, 
+    "16": {
+      "mp3": "13/13_003_16.mp3", 
+      "text": " Iok-ngá-kèng hiah ê kiáⁿ; Iâ-ko-nî-ngá, Iâ-ko-nî-ngá ê kiáⁿ Se-tí-ka."
+    }, 
+    "17": {
+      "mp3": "13/13_003_17.mp3", 
+      "text": " Siū-lia̍h ê Iâ-ko-nî-ngá ê kiáⁿ; Sat-la̍h-thiat,"
+    }, 
+    "18": {
+      "mp3": "13/13_003_18.mp3", 
+      "text": " Má-ki-lân, Pí-tāi-ngá, Sī-ná-sat, Iâ-ka-bí, Hô-sa-má, Nî-tāi-pí-ngá."
+    }, 
+    "19": {
+      "mp3": "13/13_003_19.mp3", 
+      "text": " Pí-tāi-ngá ê kiáⁿ; Só͘-lô-pa-pek, Sī-múi; Só͘-lô-pa-pek ê kiáⁿ; Bí-su-lân, Hap-ná-nî-ngá; in ê chí-bē Sī-lô-bi̍t;"
+    }, 
+    "20": {
+      "mp3": "13/13_003_20.mp3", 
+      "text": " koh ū Hap-su-pa, O-hek, Pí-lī-ka, Hap-sat-tí, U-sa-hi-sek, kiōng gō͘-ê."
+    }, 
+    "21": {
+      "mp3": "13/13_003_21.mp3", 
+      "text": " Hap-ná-nî-ngá ê kiáⁿ; Pí-la-thê, Iâ-su-a; koh ū S[L]ī-hoat-ngá chiah ê kiáⁿ, A-jíⁿ-lân chiah ê kiáⁿ, Gô-pa-tí-a chiah ê kiáⁿ, Sī-ka-nî chiah ê kiáⁿ."
+    }, 
+    "22": {
+      "mp3": "13/13_003_22.mp3", 
+      "text": " Sī-ka-nî ê kiáⁿ Sī-má-ngá; Sī-má-ngá ê kiáⁿ; Hap-tu̍t, Í-kah, Pa-lī-a, Nî-lī-ngá, Sa-hoat, kiōng la̍k-ê."
+    }, 
+    "23": {
+      "mp3": "13/13_003_23.mp3", 
+      "text": " Nî-lī-ngá ê kiáⁿ; Í-lī-iok-nái, Hi-se-ka, A-su-lí-kan, kiōng saⁿ-ê."
+    }, 
+    "24": {
+      "mp3": "13/13_003_24.mp3", 
+      "text": " Í-lī-iok-nái ê kiáⁿ; Hô-tāi-ngá, Í-lī-a-si̍t, Pí-lâi-ngá, A-kok, Iok-hap-lân, Tē-lâi-ngá, A-ná-nî, kiōng chhit-ê."
+    }
+  }, 
+  "4": {
+    "1": {
+      "mp3": "13/13_004_01.mp3", 
+      "text": " Iû-tāi ê kiáⁿ; Hoat-le̍k-su, Hi-su-lûn, Ka-bí, Hō͘-jíⁿ, Sok-pa."
+    }, 
+    "2": {
+      "mp3": "13/13_004_02.mp3", 
+      "text": " Sok-pa ê kiáⁿ Lī-a-ngá siⁿ Ngá-hap; Ngá-hap siⁿ A-hō͘-mái kap La̍h-hap.  Che sī Só-la̍h lâng ê chèng-cho̍k."
+    }, 
+    "3": {
+      "mp3": "13/13_004_03.mp3", 
+      "text": " Í-thán ê lāu-pē ê kiáⁿ; Iâ-su-lia̍t, I-si-má, I-tek-pa; in ê chí-bē miâ-kiò Hap-sek-le̍k-pho-nî;"
+    }, 
+    "4": {
+      "mp3": "13/13_004_04.mp3", 
+      "text": " Ki-to ê lāu-pē Pí-lô͘-i-le̍k, Hō͘-sa ê lāu-pē Í-siā-jíⁿ.  Chiah-ê lóng sī Pek-lī-hêng ê lāu-pē Í-hoat-tha ê tōa-kiáⁿ Hō͘-jíⁿ só͘-siⁿ--ê."
+    }, 
+    "5": {
+      "mp3": "13/13_004_05.mp3", 
+      "text": " Thê-ko-a ê lāu-pē A-si-hō͘ ū nn̄g ê bó͘; miâ Hi-la̍h, Ná-la̍h."
+    }, 
+    "6": {
+      "mp3": "13/13_004_06.mp3", 
+      "text": " Ná-la̍h kā i siⁿ A-hō͘-sat, Hi-hut, Thê-bí-nî, Hap-hat-su-tha-lī; chiah-ê lóng sī Ná-la̍h ê kiáⁿ."
+    }, 
+    "7": {
+      "mp3": "13/13_004_07.mp3", 
+      "text": " Hi-la̍h ê kiáⁿ sī Sé-lia̍t, Só-hat, I-thê-lâm."
+    }, 
+    "8": {
+      "mp3": "13/13_004_08.mp3", 
+      "text": " Ko-su siⁿ A-lo̍k, So-pí-pa; kap Hap-lûn ê kiáⁿ A-hap-hek chiah ê cho̍k."
+    }, 
+    "9": {
+      "mp3": "13/13_004_09.mp3", 
+      "text": " Ngá-pí-su pí i ê chèng hiaⁿ-tī khah chun-kùi, i ê lāu-bú kā i hō miâ Ngá-pí-su, chiū-sī kóng, Góa siⁿ i sī chin kan-khó͘."
+    }, 
+    "10": {
+      "mp3": "13/13_004_10.mp3", 
+      "text": " Ngá-pí-su kiû Í-sek-lia̍t ê Siōng-tè, kóng, Goān Lí chin-si̍t siúⁿ-sù hok-khì hō͘ góa, khui-khoah góa ê kéng-kài; goān Lí ê chhiú siông-siông kap góa tī-teh, pó-pì góa bô tú-tio̍h hoān-lān, hō͘ góa put-tì iu-būn.  Siōng-tè chiū siúⁿ-sù i só͘ kiû--ê."
+    }, 
+    "11": {
+      "mp3": "13/13_004_11.mp3", 
+      "text": " Sū-hap ê hiaⁿ-tī Ki-lio̍k siⁿ Bí-hek, chiū-sī I-sī-tun ê lāu-pē."
+    }, 
+    "12": {
+      "mp3": "13/13_004_12.mp3", 
+      "text": " Í-sī-tun siⁿ Pek-la̍h-pa, Pa-se-a, í-ki̍p Jíⁿ-ná-hat ê lāu-pē Thê-him-ná.  Chiah-ê lóng sī Lī-ka lâng."
+    }, 
+    "13": {
+      "mp3": "13/13_004_13.mp3", 
+      "text": " Ki-la̍p-su ê kiáⁿ; Gô-tô-liap, Se-lâi-ngá; Gô-tô-liap ê kiáⁿ, Hap-thap."
+    }, 
+    "14": {
+      "mp3": "13/13_004_14.mp3", 
+      "text": " Bín-lô-thài siⁿ Gô-hut-la̍h; Se-lâi-ngá siⁿ Kek-hā-la̍p-him lâng ê lāu-pē Iok-ap; in-ūi in lóng sī sai-hū."
+    }, 
+    "15": {
+      "mp3": "13/13_004_15.mp3", 
+      "text": " Iâ-hu-nî ê kiáⁿ Ka-le̍k, i ê kiáⁿ Í-lō͘, Í-la̍h, Ná-an; Í-la̍h ê kiáⁿ Ki-la̍p-su."
+    }, 
+    "16": {
+      "mp3": "13/13_004_16.mp3", 
+      "text": " Iâ-hap-bī-le̍k ê kiáⁿ; Se-hut, Se-hoat, Thê-lī, A-sat-lia̍t."
+    }, 
+    "17": {
+      "mp3": "13/13_004_17.mp3", 
+      "text": " Í-sū-la̍h ê kiáⁿ: Ek-thiap, Bí-lia̍t, Í-hut, Ngá-lûn; Bí-lia̍t chhōa Hoat-ló ê cha-bó͘-kiáⁿ Pí-thê-ngá chòe bó͘, siⁿ Bí-lī-àm, Sa-mái, kap Í-si̍t-thê-mô͘ ê lāu-pē E̍k-pa; Bí-lia̍t koh chhōa Iû-tāi lâng chòe bó͘, siⁿ Ki-to ê lāu-pē Ngá-lia̍t, So-ko ê lāu-pē Hi-pek, kap Sat-lô-a ê lāu-pē Iâ-kó͘-thiat."
+    }, 
+    "18": {
+      "mp3": "13/13_004_18.mp3", 
+      "text": " c"
+    }, 
+    "19": {
+      "mp3": "13/13_004_19.mp3", 
+      "text": " Hô-tē-ngá ê bó͘ sī Ná-hâm ê chí-bē, i só͘ siⁿ ê kiáⁿ sī Ka-bí lâng Ki-la̍h ê lāu-pē kap Má-ka lâng Í-si̍t-thê-mô͘."
+    }, 
+    "20": {
+      "mp3": "13/13_004_20.mp3", 
+      "text": " Sī-bûn ê kiáⁿ; Àm-lùn, Lîm-ná, Piān-ha̍p-lâm, Thê-lûn.  Í-sī ê kiáⁿ; So-hek, Piān-so-hek."
+    }, 
+    "21": {
+      "mp3": "13/13_004_21.mp3", 
+      "text": " Iû-tāi ê kiáⁿ, Sī-la̍h; Sī-la̍h ê kiáⁿ; Lī-ka ê lāu-pē Jíⁿ, Má-lī-sa ê lāu-pē La̍h-tāi, í-ki̍p sio̍k A-si̍t-tí cho̍k, chit iù-môa-pò͘ chiah ê ke;"
+    }, 
+    "22": {
+      "mp3": "13/13_004_22.mp3", 
+      "text": " iáu-ū Iok-kèng, Ko-se-pa lâng, Iok-a-si, Sat-la̍h, chiū-sī tī Mô͘-ap tōe chiáng-koân-ê; koh ū Ngá-siok-pí-lī-hêng.  Che lóng sī chá-sî só͘ kì-chài-ê."
+    }, 
+    "23": {
+      "mp3": "13/13_004_23.mp3", 
+      "text": " Chiah ê lâng lóng sī sio-hûi sai-hū, sī Nî-tha-èng kap Ki-te-la̍h khiā-khí ê peh-sìⁿ; in tī-hia kap ông khiā-khí, chòe ông ê kang."
+    }, 
+    "24": {
+      "mp3": "13/13_004_24.mp3", 
+      "text": " Se-biān ê kiáⁿ; Nî-bó͘-lī,(Ngá-bín,) Ngá-li̍p, Siā-la̍h, Sò-lô;"
+    }, 
+    "25": {
+      "mp3": "13/13_004_25.mp3", 
+      "text": " Sò-lô ê kiáⁿ Sa-liông; Sa-liông ê kiáⁿ Bí-pí-sam; Bí-pí-sam ê kiáⁿ Bí-si-má."
+    }, 
+    "26": {
+      "mp3": "13/13_004_26.mp3", 
+      "text": " Bí-si-má ê kiáⁿ kì tī ē-tóe: Bí-si-má siⁿ Hap-bó͘-lī, Hap-bó͘-lī ê kiáⁿ, Sat-khek, Sat-khek ê kiáⁿ, Sī-múi."
+    }, 
+    "27": {
+      "mp3": "13/13_004_27.mp3", 
+      "text": " Sī-múi ū cha̍p-la̍k ê kiáⁿ, la̍k ê cha-bó͘-kiáⁿ; i ê hiaⁿ-tī ê kiáⁿ-jî bô lōa-chōe, in ta̍k-ke bô chhin-chhiūⁿ Iû-tāi cho̍k ê jîn-teng hiah-chōe."
+    }, 
+    "28": {
+      "mp3": "13/13_004_28.mp3", 
+      "text": " In khiā-khí tī Pia̍t-sī-pa, Mô͘-la̍h-tāi, Hap-sat-su-a;"
+    }, 
+    "29": {
+      "mp3": "13/13_004_29.mp3", 
+      "text": " Phek-la̍h, Í-sim, Tô-lia̍p;"
+    }, 
+    "30": {
+      "mp3": "13/13_004_30.mp3", 
+      "text": " Pí-thó͘-lī, Hô-ní-má, Sé-kek-la̍h;"
+    }, 
+    "31": {
+      "mp3": "13/13_004_31.mp3", 
+      "text": " Pek-má-ka-phok, Hap-sat-so͘-sat, Pek-pí-lī, Sa-la̍h-im."
+    }, 
+    "32": {
+      "mp3": "13/13_004_32.mp3", 
+      "text": " Chiah ê siâⁿ lóng sio̍k tī in, kàu Tāi-pi̍t chòe-ông ê sî.  In ê hiuⁿ-lí chiū-sī Í-thán, A-in, Lîm-bûn, To-kiān, A-san, kiōng gō͘ ê siâⁿ."
+    }, 
+    "33": {
+      "mp3": "13/13_004_33.mp3", 
+      "text": " Iáu ū sio̍k hiah ê siâⁿ ê hiuⁿ-lí kàu tī Pa-le̍k.  Che sī in khiā-khí ê só͘-chāi, in lóng ū ka-phó͘."
+    }, 
+    "34": {
+      "mp3": "13/13_004_34.mp3", 
+      "text": " Iáu ū Bí-só͘-pa, Ngá-bí-le̍k, A-má-siā ê kiáⁿ Iok-sa;"
+    }, 
+    "35": {
+      "mp3": "13/13_004_35.mp3", 
+      "text": " Iok-jíⁿ, Iok-sī-pí ê kiáⁿ Iâ-hō͘, Iok-sī-pí sī Se-lâi-ngá ê kiáⁿ, Se-lâi-ngá sī A-siat ê kiáⁿ."
+    }, 
+    "36": {
+      "mp3": "13/13_004_36.mp3", 
+      "text": " Iáu ū Í-lī-iok-nái, Ngá-ko-pa, Iok-sok-hái, A-sùi-ngá, A-tí-gia̍p, Iâ-se-bia̍t, Pí-ná-ngá;"
+    }, 
+    "37": {
+      "mp3": "13/13_004_37.mp3", 
+      "text": " Sī-hui ê kiáⁿ Sè-sat, Sī-hui sī A-liông ê kiáⁿ, A-liông sī Iâ-tāi-ngá ê kiáⁿ, Iâ-tāi-ngá sī Sin-lī ê kiáⁿ, Sin-lī sī Sī-má-ngá ê kiáⁿ."
+    }, 
+    "38": {
+      "mp3": "13/13_004_38.mp3", 
+      "text": " Téng-bīn só͘ kì-chài chiah ê miâ lóng sī chòe cho̍k-tiúⁿ ê; in chong-cho̍k ê lâng-gia̍h ke-thiⁿ chōe-chōe."
+    }, 
+    "39": {
+      "mp3": "13/13_004_39.mp3", 
+      "text": " In khì soaⁿ-kok ê tang--sì, kàu Ki-to ê kháu-bīn, chhē chhī-iûⁿ ê chháu-tiûⁿ."
+    }, 
+    "40": {
+      "mp3": "13/13_004_40.mp3", 
+      "text": " In chhē-tio̍h pûi-súi ê chháu-tiûⁿ, hit ê tōe khoah, koh an-chēng iā hô-pêng; in-ūi chá-sî ū Hâm cho̍k ê lâng khiā-khí tī-hia."
+    }, 
+    "41": {
+      "mp3": "13/13_004_41.mp3", 
+      "text": " Téng-bīn só͘ kì ê lâng, tī Iû-tāi ông Hi-se-ka ê sî, lâi kong-kek in ê pò͘-pîⁿ, kap hia só͘ ū ê Bí-o͘-nî lâng, chiong in it-chīn châu-bia̍t, chiū khiā-khí tī in ê tōe-hng kàu tī kin-á-ji̍t; in-ūi hia ū chháu-tiûⁿ thang lâi chhī in ê iûⁿ-kûn."
+    }, 
+    "42": {
+      "mp3": "13/13_004_42.mp3", 
+      "text": " Se-biān ê cho̍k-tiong ū gō͘-pah lâng, khì kàu Se-ní soaⁿ; in ê kun-tiúⁿ chiū-sī Í-sī chiah ê kiáⁿ Pí-la̍h-thê, Nî-lī-ngá, Lī-hoat-ngá kap O͘-siat."
+    }, 
+    "43": {
+      "mp3": "13/13_004_43.mp3", 
+      "text": " In thâi-sí tô-cháu chhun ê A-má-le̍k lâng, chiū khiā-khí tī-hia kàu kin-á-ji̍t."
+    }
+  }, 
+  "5": {
+    "1": {
+      "mp3": "13/13_005_01.mp3", 
+      "text": " Í-sek-lia̍t ê tōa-kiáⁿ Liû-piān, ( i pún sī tōa-kiáⁿ; in-ūi i phah lâ-sâm i ê lāu-pē ê bîn-chhn̂g, só͘-í tōa-kiáⁿ ê bêng-hūn chiū kui tī Í-sek-lia̍t ê kiáⁿ Iok-sek ê hō͘-è; to̍k-to̍k sè-hē bô chiàu tōa-kiáⁿ ê lē lâi sǹg."
+    }, 
+    "2": {
+      "mp3": "13/13_005_02.mp3", 
+      "text": " In-ūi Iû-tāi iâⁿ-kè i lóng-chóng ê hiaⁿ-tī, kun-ông iā sī tùi i chhut; chóng-sī tōa-kiáⁿ ê bêng-hūn kui tī Iok-sek.)"
+    }, 
+    "3": {
+      "mp3": "13/13_005_03.mp3", 
+      "text": " Í-sek-lia̍t ê tōa-kiáⁿ Liû-piān ê kiáⁿ; Hap-lo̍k, Hoat-lō͘, Hi-su-lûn, Ka-bí."
+    }, 
+    "4": {
+      "mp3": "13/13_005_04.mp3", 
+      "text": " Iok-ní ê kiáⁿ, Sī-má-ngá; Sī-má-ngá ê kiáⁿ, Ko-kek; Ko-kek ê kiáⁿ, Sī-múi;"
+    }, 
+    "5": {
+      "mp3": "13/13_005_05.mp3", 
+      "text": " Sī-múi ê kiáⁿ, Bí-ka; Bí-ka ê kiáⁿ Lī-a-ngá; Lī-a-ngá ê kiáⁿ Pa-le̍k;"
+    }, 
+    "6": {
+      "mp3": "13/13_005_06.mp3", 
+      "text": " Pa-le̍k ê kiáⁿ Pī-la̍h, chit ê Pī-la̍h chòe Liû-piān chi-phài ê siú-léng, hō͘ A-su̍t ông Thê-kek-la̍h-pí-nî-sek lia̍h-khì;"
+    }, 
+    "7": {
+      "mp3": "13/13_005_07.mp3", 
+      "text": " i ê hiaⁿ-tī, chiàu chong-cho̍k chiàu sè-hē ê cho̍k-phó͘, chòe cho̍k-tiúⁿ-ê, sī Iâ-lī, Sat-ka-lī-ngá, Pí-la̍h;"
+    }, 
+    "8": {
+      "mp3": "13/13_005_08.mp3", 
+      "text": " Pí-la̍h sī A-sat ê kiáⁿ; A-sat sī Sī-má ê kiáⁿ; Sī-má sī Iok-ní ê kiáⁿ; Iok-ní só͘ khiā-khí ê tōe-hng chiū-sī A-lô-ní kàu Nî-pho kap Pa-le̍k-bián;"
+    }, 
+    "9": {
+      "mp3": "13/13_005_09.mp3", 
+      "text": " koh tùi tang sòa kàu Pek-la̍h hô chit-pêng ê khòng-iá; in-ūi in tī Ki-lia̍t ê tōe in ê cheng-siⁿ chin-chōe."
+    }, 
+    "10": {
+      "mp3": "13/13_005_10.mp3", 
+      "text": " Sò-lô ê sî, in kap Hā-kah lâng kau-chiàn, Hā-kah lâng sí tī in ê chhiú-ē; in chiū tī Ki-lia̍t tang--sì ê choân-tōe khiā-khí tī in ê pò͘-pîⁿ."
+    }, 
+    "11": {
+      "mp3": "13/13_005_11.mp3", 
+      "text": " Ka-tek ê kiáⁿ-sun tī Liû-piān ê tùi-bīn khiā-khí tī Pa-san ê tōe kàu tī Sat-ka;"
+    }, 
+    "12": {
+      "mp3": "13/13_005_12.mp3", 
+      "text": " in tiong-kan chòe cho̍k-tiúⁿ--ê Iok-jíⁿ, ū chòe hù cho̍k-tiúⁿ--ê Sa-hoan, koh ū Ngá-nái kap khiā-khí tī Pa-san ê Sa-hoat."
+    }, 
+    "13": {
+      "mp3": "13/13_005_13.mp3", 
+      "text": " In chong-cho̍k ê hiaⁿ-tī; Bí-ka-le̍k, Bí-su-lân, Sī-pa, Iok-nāi, Ngá-kan, Sè-a, Hi-pek, kiōng chhit lâng."
+    }, 
+    "14": {
+      "mp3": "13/13_005_14.mp3", 
+      "text": " Chiah-ê lóng sī A-pí-hâi ê kiáⁿ, A-pí-hâi sī Hō͘-lī ê kiáⁿ, Hō͘-lī sī Iâ-lô-a ê kiáⁿ, Iâ-lô-a sī Ki-lia̍t ê kiáⁿ, Ki-lia̍t sī Bí-ka-le̍k ê kiáⁿ, Bí-ka-le̍k sī Iâ-sī-su ê kiáⁿ, Iâ-sī-su sī Iâ-hap-to ê kiáⁿ, Iâ-hap-to sī Pò͘-su ê kiáⁿ;"
+    }, 
+    "15": {
+      "mp3": "13/13_005_15.mp3", 
+      "text": " koh ū Kó͘-nî ê sun, Ap-pí-tia̍p ê kiáⁿ A-hi; chiah-ê lóng sī chòe cho̍k-tiúⁿ--ê."
+    }, 
+    "16": {
+      "mp3": "13/13_005_16.mp3", 
+      "text": " In khiā-khí tī Ki-lia̍t kap Pa-san, kap i ê hiuⁿ-lí, í-ki̍p Sa-lûn ê kau-iá, ti̍t-kàu sì-ûi ê kau-kài."
+    }, 
+    "17": {
+      "mp3": "13/13_005_17.mp3", 
+      "text": " Chiah ê lâng tī Iû-tāi ông Iok-thán ê sî, kap Í-sek-lia̍t ông Iâ-lô-phò-àm ê sî, lóng kì tī in ê sè-hē ê cho̍k-phó͘."
+    }, 
+    "18": {
+      "mp3": "13/13_005_18.mp3", 
+      "text": " Liû-piān  lâng Ka-tek lâng kap Má-ná-se pòaⁿ-chi-phài ê lâng, ōe kōaⁿ tîn-pâi kia̍h-to, khui-keng siā-chìⁿ, chhut-cheng gâu saⁿ-thâi ê ióng-sū, kiōng ū sì-bān sì-chheng chhit-pah la̍k-cha̍p lâng."
+    }, 
+    "19": {
+      "mp3": "13/13_005_19.mp3", 
+      "text": " In kap Hā-kah lâng, I-tu̍t lâng, Ná-hui-si lâng, Lô-tap lâng kau-chiàn."
+    }, 
+    "20": {
+      "mp3": "13/13_005_20.mp3", 
+      "text": " In tit-tio̍h pang-chān, Hā-kah lâng kap kun-tè in ê lâng lóng kau tī in ê chhiú; in-ūi in tī chiàn-tīn ê tiong-kan kiû-kiò Siōng-tè; in-ūi in óa-khò Siōng-tè, I chiū thiaⁿ in."
+    }, 
+    "21": {
+      "mp3": "13/13_005_21.mp3", 
+      "text": " In chhiúⁿ-lia̍h Hā-kah lâng ê cheng-siⁿ; ū lo̍k-tô gō͘-bān chiah, iûⁿ jī-cha̍p-gō͘ bān chiah, lû nn̄g-chheng chiah, koh ū lâng cha̍p-bān."
+    }, 
+    "22": {
+      "mp3": "13/13_005_22.mp3", 
+      "text": " Tùi-te̍k sí-ê chin chōe, in-ūi chit ê kau-chiàn sī tùi Siōng-tè.  In chiū tòa tī tùi-te̍k ê tōe kàu in siū-lia̍h ê sî."
+    }, 
+    "23": {
+      "mp3": "13/13_005_23.mp3", 
+      "text": " Má-ná-se pòaⁿ-chi-phài ê lâng khiā-khí tī hit ê só͘-chāi, tùi Pa-san sòa-kàu Pa-le̍k-hek-bûn, Sī-nî-jíⁿ, kap Hek-bûn soaⁿ."
+    }, 
+    "24": {
+      "mp3": "13/13_005_24.mp3", 
+      "text": " In ê cho̍k-tiúⁿ chiū-sī Í-hut, Í-sī, Í-lia̍t, A-su-lia̍t, Iâ-lī-bí, Hô-ta̍t-úi-ngá, Ngá-tia̍p; lóng sī tōa koân-lêng ê ióng-sū, ū miâ-siaⁿ ê lâng, iā sī chòe cho̍k-tiúⁿ--ê."
+    }, 
+    "25": {
+      "mp3": "13/13_005_25.mp3", 
+      "text": " In tek-chōe in lia̍t-chó͘ ê Siōng-tè, thàn hit só͘-chāi ê peh-sìⁿ ê siōng-tè, kiâⁿ siâ-îm; chiah ê peh-sìⁿ chiū-sī Siōng-tè tī in ê bīn-chêng só͘ tû-bia̍t--ê."
+    }, 
+    "26": {
+      "mp3": "13/13_005_26.mp3", 
+      "text": " Só͘-í Í-sek-lia̍t ê Siōng-tè kek-tōng A-su̍t ông Phó͘-le̍k, kap A-su̍t ông Thê-kek-la̍h-pí-nî-sek ê sim, i chiong Liû-piān lâng, Ka-tek lâng, Má-ná-se pòaⁿ-chi-phài ê lâng, lia̍h kàu Hap-lia̍p, Hap-phok, Hap-la̍h, kap Ko-sàn ê hô, kàu kin-á-ji̍t."
+    }
+  }, 
+  "6": {
+    "1": {
+      "mp3": "13/13_006_01.mp3", 
+      "text": " Lī-bī ê kiáⁿ; Kek-sūn, Ko-hat, Bí-la̍h-lī."
+    }, 
+    "2": {
+      "mp3": "13/13_006_02.mp3", 
+      "text": " Ko-hat ê kiáⁿ; Àm-lân, Í-su-hap, Hi-pek-lûn, O͘-siat."
+    }, 
+    "3": {
+      "mp3": "13/13_006_03.mp3", 
+      "text": " Àm-lân ê kiáⁿ; A-lûn, Mô͘-se, Bí-lī-àm.  A-lûn ê kiáⁿ; Ná-tap, A-pí-hō͘, Í-lī-a-sat, Í-tha-má."
+    }, 
+    "4": {
+      "mp3": "13/13_006_04.mp3", 
+      "text": " Í-lī-a-sat siⁿ Hui-nî-hap, Hui-nî-hap siⁿ A-pí-su;"
+    }, 
+    "5": {
+      "mp3": "13/13_006_05.mp3", 
+      "text": " A-pí-su siⁿ Pò͘-ki, Pò͘-ki siⁿ O͘-se;"
+    }, 
+    "6": {
+      "mp3": "13/13_006_06.mp3", 
+      "text": " O͘-se siⁿ Se-la̍h-hi-ngá, Se-la̍h-hi-ngá siⁿ Bí-la̍h-iok;"
+    }, 
+    "7": {
+      "mp3": "13/13_006_07.mp3", 
+      "text": " Bí-la̍h-iok siⁿ A-má-lī-ngá, A-má-lī-ngá siⁿ A-hi-tu̍t;"
+    }, 
+    "8": {
+      "mp3": "13/13_006_08.mp3", 
+      "text": " A-hi-tu̍t siⁿ Sat-tok, Sat-tok siⁿ A-hi-má-su;"
+    }, 
+    "9": {
+      "mp3": "13/13_006_09.mp3", 
+      "text": " A-hi-má-su siⁿ A-sat-lī-ngá,  A-sat-lī-ngá siⁿ Iok-ha̍p-lân;"
+    }, 
+    "10": {
+      "mp3": "13/13_006_10.mp3", 
+      "text": " Iok-ha̍p-lân siⁿ A-sat-lī-ngá, (chit ê A-sat-lī-ngá tī Só͘-lô-bûn tī Iâ-lō͘-sat-léng só͘ khí ê tiān tam-tng chè-si ê chit;)"
+    }, 
+    "11": {
+      "mp3": "13/13_006_11.mp3", 
+      "text": " A-sat-lī-ngá siⁿ A-má-lī-ngá, A-má-lī-ngá siⁿ A-hi-tu̍t;"
+    }, 
+    "12": {
+      "mp3": "13/13_006_12.mp3", 
+      "text": " A-hi-tu̍t siⁿ Sat-tok, Sat-tok siⁿ Sa-liông;"
+    }, 
+    "13": {
+      "mp3": "13/13_006_13.mp3", 
+      "text": " Sa-liông siⁿ Hi-le̍k-ka, Hi-le̍k-ka siⁿ A-sat-lī-ngá;"
+    }, 
+    "14": {
+      "mp3": "13/13_006_14.mp3", 
+      "text": " A-sat-lī-ngá siⁿ Se-lâi-ngá, Se-lâi-ngá siⁿ Iok-sat-tap;"
+    }, 
+    "15": {
+      "mp3": "13/13_006_15.mp3", 
+      "text": " tng Iâ-hô-hoa ēng Nî-pò͘-kah-nî-sat ê chhiú lia̍h Iû-tāi kap Iâ-lō͘-sat-léng ê sî, chit ê Iok-sat-tap iā siū-lia̍h khì."
+    }, 
+    "16": {
+      "mp3": "13/13_006_16.mp3", 
+      "text": " Lī-bī ê kiáⁿ, Kek-sūn, Ko-hat, Bí-la̍h-lī."
+    }, 
+    "17": {
+      "mp3": "13/13_006_17.mp3", 
+      "text": " Kek-sūn ê kiáⁿ miâ kiò-chòe Li̍p-nî, Sī-múi."
+    }, 
+    "18": {
+      "mp3": "13/13_006_18.mp3", 
+      "text": " Ko-hat ê kiáⁿ; Àm-lûn, Í-su-hap, Hi-pek-lûn, O͘-siat."
+    }, 
+    "19": {
+      "mp3": "13/13_006_19.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ; Boa̍t-lī, Bó͘-sī.  Chiah-ê chiū-sī Lī-bī-lâng ê ke, chiàu in ê lia̍t-chó͘ pâi-lia̍t."
+    }, 
+    "20": {
+      "mp3": "13/13_006_20.mp3", 
+      "text": " Kek-sūn ê kiáⁿ; Li̍p-nî, Li̍p-nî ê kiáⁿ Ngá-hap, Ngá-hap ê kiáⁿ Sin-má;"
+    }, 
+    "21": {
+      "mp3": "13/13_006_21.mp3", 
+      "text": " Sin-má ê kiáⁿ Iok-a, Iok-a ê kiáⁿ E̍k-to, E̍k-to ê kiáⁿ Siā-la̍h; Siā-la̍h ê kiáⁿ Iâ-te̍k-nāi."
+    }, 
+    "22": {
+      "mp3": "13/13_006_22.mp3", 
+      "text": " Ko-hat ê kiáⁿ A-bí-ná-ta̍t, A-bí-ná-ta̍t ê kiáⁿ Khó-la̍h, Khó-la̍h ê kiáⁿ A-sek;"
+    }, 
+    "23": {
+      "mp3": "13/13_006_23.mp3", 
+      "text": " A-sek ê kiáⁿ Í-lī-ka-ná, Í-lī-ka-ná ê kiáⁿ Í-pí-ngá-sat, Í-pí-ngá-sat ê kiáⁿ A-sek;"
+    }, 
+    "24": {
+      "mp3": "13/13_006_24.mp3", 
+      "text": " A-sek ê kiáⁿ Tha-hap, Tha-hap ê kiáⁿ O͘-lia̍t, O͘-lia̍t ê kiáⁿ O͘-se-ngá, O͘-se-ngá ê kiáⁿ Sò-lô."
+    }, 
+    "25": {
+      "mp3": "13/13_006_25.mp3", 
+      "text": " Í-lī-ka-ná ê kiáⁿ; A-má-sài kap A-hi-mô͘."
+    }, 
+    "26": {
+      "mp3": "13/13_006_26.mp3", 
+      "text": " A-hi-mô͘ ê kiáⁿ Í-lī-ka-ná; Í-lī-ka-ná ê kiáⁿ Só-hui, Só-hui ê kiáⁿ Ná-hap;"
+    }, 
+    "27": {
+      "mp3": "13/13_006_27.mp3", 
+      "text": " Ná-hap ê kiáⁿ Í-lī-ap, Í-lī-ap ê kiáⁿ Iâ-lô-hán, Iâ-lô-hán ê kiáⁿ Í-lī-ka-ná."
+    }, 
+    "28": {
+      "mp3": "13/13_006_28.mp3", 
+      "text": " Sat-bó͘-jíⁿ ê tōa-kiáⁿ Iok-jíⁿ, tē-jī kiáⁿ A-pí-a."
+    }, 
+    "29": {
+      "mp3": "13/13_006_29.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ Boat-lī, Boat-lī ê kiáⁿ Li̍p-nî, Li̍p-nî ê kiáⁿ Sī-múi, Sī-múi ê kiáⁿ O͘-sat;"
+    }, 
+    "30": {
+      "mp3": "13/13_006_30.mp3", 
+      "text": " O͘-sat ê kiáⁿ Sī-bí-a, Sī-bí-a ê kiáⁿ Hap-ki-ngá, Hap-ki-ngá ê kiáⁿ A-sòe-ngá."
+    }, 
+    "31": {
+      "mp3": "13/13_006_31.mp3", 
+      "text": " Iok-kūi an-siat liáu-āu, Tāi-pi̍t só͘ phài ê lâng tī Iâ-hô-hoa ê chhù-lāi koán-lí chhiùⁿ-koa ê sū chiū-sī chiah-ê."
+    }, 
+    "32": {
+      "mp3": "13/13_006_32.mp3", 
+      "text": " In chiū tī hōe-bō͘ ê thâu-chêng tng chhiùⁿ-koa ê kang, ti̍t-kàu Só͘-lô-bûn tī Iâ-lō͘-sat-léng khí-chō Iâ-hô-hoa ê tiān, in chiū chiàu pan-lia̍t tng-chit."
+    }, 
+    "33": {
+      "mp3": "13/13_006_33.mp3", 
+      "text": " Tng-chit ê lâng kap in ê kiáⁿ-sun kì tī ē-bīn.  Ko-hat ê kiáⁿ-sun-tiong ū chhiùⁿ-koa-ê Hi-bān, Hi-bān sī Iok-ní ê kiáⁿ, Iok-ní sī Sat-bó͘-jíⁿ ê kiáⁿ;"
+    }, 
+    "34": {
+      "mp3": "13/13_006_34.mp3", 
+      "text": " Sat-bó͘-jíⁿ sī Í-lī-ka-ná ê kiáⁿ, Í-lī-ka-ná sī Iâ-lô-hán ê kiáⁿ, Iâ-lô-hán sī Í-lia̍t ê kiáⁿ, Í-lia̍t sī Tô-a ê kiáⁿ;"
+    }, 
+    "35": {
+      "mp3": "13/13_006_35.mp3", 
+      "text": " Tô-a sī So͘-hut ê kiáⁿ, So͘-hut sī Í-lī-ka-ná ê kiáⁿ, Í-lī-ka-ná sī Má-hap ê kiáⁿ, Má-hap sī A-má-sài ê kiáⁿ;"
+    }, 
+    "36": {
+      "mp3": "13/13_006_36.mp3", 
+      "text": " A-má-sài sī Í-lī-ka-ná ê kiáⁿ, Í-lī-ka-ná sī Iok-ní ê kiáⁿ, Iok-ní sī A-sat-lī-ngá ê kiáⁿ, A-sat-lī-ngá sī Se-hoan-ngá ê kiáⁿ;"
+    }, 
+    "37": {
+      "mp3": "13/13_006_37.mp3", 
+      "text": " Se-hoan-ngá sī Tha-hap ê kiáⁿ, Tha-hap sī A-sek ê kiáⁿ, A-sek sī Í-pí-ngá-sat ê kiáⁿ, Í-pí-ngá-sat sī Khó-la̍h ê kiáⁿ;"
+    }, 
+    "38": {
+      "mp3": "13/13_006_38.mp3", 
+      "text": " Khó-la̍h sī Í-su-hap ê kiáⁿ, Í-su-hap sī Ko-hat ê kiáⁿ, Ko-hat sī Lī-bī ê kiáⁿ, Lī-bī sī Í-sek-lia̍t ê kiáⁿ."
+    }, 
+    "39": {
+      "mp3": "13/13_006_39.mp3", 
+      "text": " Hi-bān ê hiaⁿ-tī A-sat, khiā-tī i ê chiàⁿ-pêng-ê, A-sat sī Pí-lī-ka ê kiáⁿ, Pí-lī-ka sī Sī-bí-a ê kiáⁿ;"
+    }, 
+    "40": {
+      "mp3": "13/13_006_40.mp3", 
+      "text": " Sī-bí-a sī Bí-ka-le̍k ê kiáⁿ, Bí-ka-le̍k sī Pa-se-ngá ê kiáⁿ, Pa-se-ngá sī Má-ki-ngá ê kiáⁿ;"
+    }, 
+    "41": {
+      "mp3": "13/13_006_41.mp3", 
+      "text": " Má-ki-ngá sī Í-te̍k-nî ê kiáⁿ, Í-te̍k-nî sī Siā-la̍h ê kiáⁿ, Siā-la̍h sī A-tāi-ngá ê kiáⁿ;"
+    }, 
+    "42": {
+      "mp3": "13/13_006_42.mp3", 
+      "text": " A-tāi-ngá sī Í-thàm ê kiáⁿ, Í-thàm sī Sin-má ê kiáⁿ, Sin-má sī Sī-múi ê kiáⁿ;"
+    }, 
+    "43": {
+      "mp3": "13/13_006_43.mp3", 
+      "text": " Sī-múi sī Ngá-hap ê kiáⁿ, Ngá-hap sī Kek-sūn ê kiáⁿ, Kek-sūn sī Lī-bī ê kiáⁿ."
+    }, 
+    "44": {
+      "mp3": "13/13_006_44.mp3", 
+      "text": " In ê hiaⁿ-tī Bí-la̍h-lī ê kiáⁿ-sun, khiā tī tò-pêng-ê, chiū-sī Ki-sî ê kiáⁿ I-thàm, Ki-sî sī A-pek-tí ê kiáⁿ, A-pek-tí sī Má-lo̍k ê kiáⁿ;"
+    }, 
+    "45": {
+      "mp3": "13/13_006_45.mp3", 
+      "text": " Má-lo̍k sī Hap-sa-pí-ngá ê kiáⁿ, Hap-sa-pí-ngá sī A-má-siā ê kiáⁿ, A-má-siā sī Hi-le̍k-ka ê kiáⁿ;"
+    }, 
+    "46": {
+      "mp3": "13/13_006_46.mp3", 
+      "text": " Hi-le̍k-ka sī Àm-se ê kiáⁿ, Àm-se sī Pa-nî ê kiáⁿ, Pa-nî sī Sa-be̍k ê kiáⁿ;"
+    }, 
+    "47": {
+      "mp3": "13/13_006_47.mp3", 
+      "text": " Sa-be̍k sī Boa̍t-le̍k ê kiáⁿ, Boa̍t-le̍k sī Bó͘-sī ê kiáⁿ, Bó͘-sī sī Bí-la̍h-lī ê kiáⁿ, Bí-la̍h-lī sī Lī-bī ê kiáⁿ."
+    }, 
+    "48": {
+      "mp3": "13/13_006_48.mp3", 
+      "text": " In ê hiaⁿ-tī Lī-bī lâng siū-phài lâi chòe Siōng-tè ê tiān ê hōe-bō͘ it-chhè ê kang."
+    }, 
+    "49": {
+      "mp3": "13/13_006_49.mp3", 
+      "text": " To̍k-to̍k A-lûn kap i ê chèng-kiáⁿ tī sio-chè ê tôaⁿ hiàn-chè, iā tī hiuⁿ-tôaⁿ sio-hiuⁿ, lâi chòe Chì-sèng-só͘ it-chhè ê kang, thòe Í-sek-lia̍t lâng sio̍k-chōe, chiàu Siōng-tè ê lô͘-po̍k Mô͘-se só͘ hoan-hù ê."
+    }, 
+    "50": {
+      "mp3": "13/13_006_50.mp3", 
+      "text": " A-lûn ê kiáⁿ-sun kì tī ē-bīn; i ê kiáⁿ sī Í-lī-a-sat, Í-lī-a-sat ê kiáⁿ sī Hui-nî-hap, Hui-nî-hap ê kiáⁿ sī A-pí-su;"
+    }, 
+    "51": {
+      "mp3": "13/13_006_51.mp3", 
+      "text": " A-pí-su ê kiáⁿ sī Pò͘-ki, Pò͘-ki ê kiáⁿ sī O͘-se, O͘-se ê kiáⁿ sī Se-la̍h-hi-ngá;"
+    }, 
+    "52": {
+      "mp3": "13/13_006_52.mp3", 
+      "text": " Se-la̍h-hi-ngá ê kiáⁿ sī Bí-la̍h-iok, Bí-la̍h-iok ê kiáⁿ sī A-má-lī-ngá, A-má-lī-ngá ê kiáⁿ sī A-hi-tu̍t;"
+    }, 
+    "53": {
+      "mp3": "13/13_006_53.mp3", 
+      "text": " A-hi-tu̍t ê kiáⁿ sī Sat-tok, Sat-tok ê kiáⁿ sī A-hi-má-su."
+    }, 
+    "54": {
+      "mp3": "13/13_006_54.mp3", 
+      "text": " In khiā-khí ê só͘-chāi, chiàu in kéng-lāi ê iâⁿ-chē, kì tī ē-tóe;"
+    }, 
+    "55": {
+      "mp3": "13/13_006_55.mp3", 
+      "text": " A-lûn ê kiáⁿ-sun, Ko-hat cho̍k, tāi-seng liam-khau, ēng Iû-tāi tōe Hi-pek-lûn kap sì-chiu-ûi ê kau-iá hō͘ in;"
+    }, 
+    "56": {
+      "mp3": "13/13_006_56.mp3", 
+      "text": " chóng-sī sio̍k siâⁿ ê chhân-hn̂g kap i ê hiuⁿ-siā lóng sī hō͘ Iâ-hu-nî ê kiáⁿ Ká-le̍k."
+    }, 
+    "57": {
+      "mp3": "13/13_006_57.mp3", 
+      "text": " Iā ēng tô-siám ê siâⁿ, Hi-pek-lûn, hō͘ A-lûn ê kiáⁿ-sun; koh ū Li̍p-ná kap i ê kau-iá, Ngá-thê-jíⁿ, Í-si̍t-thê-bo̍k, kap i ê kau-iá;"
+    }, 
+    "58": {
+      "mp3": "13/13_006_58.mp3", 
+      "text": " Hi-lûn kap i ê kau-iá, Tí-phek kap i ê kau-iá;"
+    }, 
+    "59": {
+      "mp3": "13/13_006_59.mp3", 
+      "text": " A-san kap i ê kau-iá, Pek-sī-be̍k kap i ê kau-iá;"
+    }, 
+    "60": {
+      "mp3": "13/13_006_60.mp3", 
+      "text": " tī Piān-ngá-bín chi-phài ê tōe, ū Ka-pa kap i ê kau-iá, O-le̍k-bia̍t kap i ê kau-iá, A-ná-tu̍t kap i ê kau-iá.  In chiah ê cho̍k só͘ tit-tio̍h ê siâⁿ kiōng cha̍p-saⁿ-ê."
+    }, 
+    "61": {
+      "mp3": "13/13_006_61.mp3", 
+      "text": " Koh ēng liam-khau hō͘ Ko-hat kî-û ê kiáⁿ-sun cha̍p ê siâⁿ, chiū-sī tī Í-hoat-liân ê chi-phài, tī Tàn ê chi-phài, koh tī Má-ná-se pòaⁿ-chi-phài ê tōe."
+    }, 
+    "62": {
+      "mp3": "13/13_006_62.mp3", 
+      "text": " Koh hō͘ Kek-sūn chiah ê kiáⁿ, chiàu in ê cho̍k, tī Í-sat-ka ê chi-phài, tī A-siat ê chi-phài, tī Ná-hut-tha-lī ê chi-phài, tī Pa-san Má-ná-se ê chi-phài chiah ê tōe, cha̍p-saⁿ ê siâⁿ."
+    }, 
+    "63": {
+      "mp3": "13/13_006_63.mp3", 
+      "text": " Koh ēng liam-khau hō͘ Bí-la̍h-lī ê kiáⁿ-sun, chiàu in ê cho̍k, tī Liû-piān ê chi-phài, tī Ka-tek ê chi-phài, tī Se-pò͘-lûn ê chi-phài, hiah ê tōe, cha̍p-jī ê siâⁿ;"
+    }, 
+    "64": {
+      "mp3": "13/13_006_64.mp3", 
+      "text": " Í-sek-lia̍t lâng chiong chiah ê siâⁿ, kap in ê kau-iá, hō͘ Lī-bī lâng."
+    }, 
+    "65": {
+      "mp3": "13/13_006_65.mp3", 
+      "text": " Tī Iû-tāi kiáⁿ-sun ê chi-phài, tī Se-biān kiáⁿ-sun ê chi-phài, tī Piān-ngá-bín kiáⁿ-sun ê chi-phài, hiah ê tōe, ēng só͘ kì-miâ hiah ê siâⁿ, ēng liam-khau hō͘ in."
+    }, 
+    "66": {
+      "mp3": "13/13_006_66.mp3", 
+      "text": " Ko-hat kiáⁿ-sun ê cho̍k-tiong ū-ê tī Í-hoat-liân chi-phài ê tōe tit-tio̍h siâⁿ."
+    }, 
+    "67": {
+      "mp3": "13/13_006_67.mp3", 
+      "text": " In ēng Í-hoat-liân soaⁿ tô-siám ê siâⁿ, Sī-kiàm kap i ê kau-iá, hō͘ i; koh ēng Ki-sek kap i ê kau-iá hō͘ in;"
+    }, 
+    "68": {
+      "mp3": "13/13_006_68.mp3", 
+      "text": " koh hō͘ in Iok-liân kap i ê kau-iá, Pek-hô-lûn kap i ê kau-iá,"
+    }, 
+    "69": {
+      "mp3": "13/13_006_69.mp3", 
+      "text": " A-ngá-lûn kap i ê kau-iá, Ka-tek-lîm-bûn kap i ê kau-iá;"
+    }, 
+    "70": {
+      "mp3": "13/13_006_70.mp3", 
+      "text": " koh hō͘ Ko-hat ê kiáⁿ-sun kî-û ê cho̍k, tī Má-ná-se pòaⁿ-chi-phài ê tōe, ū A-nái kap i ê kau-iá, Pí-liân kap i ê kau-iá."
+    }, 
+    "71": {
+      "mp3": "13/13_006_71.mp3", 
+      "text": " Hō͘ Kek-sūn chiah ê kiáⁿ-sun tī Má-ná-se ke ê pòaⁿ-chi-phài ū Pa-san ê Kho-lân kap i ê kau-iá, A-su-tha-lio̍k kap i ê kau-iá;"
+    }, 
+    "72": {
+      "mp3": "13/13_006_72.mp3", 
+      "text": " koh tī Í-sat-ka chi-phài ê tōe, Ki-te-su kap i ê kau-iá, Tāi-pí-la̍h kap i ê kau-iá;"
+    }, 
+    "73": {
+      "mp3": "13/13_006_73.mp3", 
+      "text": " La̍h-boa̍t kap i ê kau-iá, A-liân kap i ê kau-iá;"
+    }, 
+    "74": {
+      "mp3": "13/13_006_74.mp3", 
+      "text": " tī A-siat chi-phài ê tōe ū Má-sa kap i ê kau-iá, Ap-tùn kap i ê kau-iá;"
+    }, 
+    "75": {
+      "mp3": "13/13_006_75.mp3", 
+      "text": " Hō͘-kat kap i ê kau-iá, Lī-ha̍p kap i ê kau-iá;"
+    }, 
+    "76": {
+      "mp3": "13/13_006_76.mp3", 
+      "text": " tī Ná-hut-tha-lī chi-phài ê tōe, ū Ka-lī-lī ê Ki-te-su kap i ê kau-iá, Hap-bûn kap i ê kau-iá, Ki-lia̍t-têng kap i ê kau-iá."
+    }, 
+    "77": {
+      "mp3": "13/13_006_77.mp3", 
+      "text": " Koh hō͘ Lī-bī chi-phài kî-û ê lâng, chiū-sī Bí-la̍h-lī ê kiáⁿ-sun, tī Se-pò͘-lûn chi-phài ê tōe, ū Lîm-mô͘-ná kap i ê kau-iá, Tha-po̍k kap i ê kau-iá;"
+    }, 
+    "78": {
+      "mp3": "13/13_006_78.mp3", 
+      "text": " koh tī Iok-tàn-gōa, kūn Iâ-lī-ko, Iok-tàn ê tang-pêng, tī Liû-piān chi-phài ê tōe, ū khòng-iá ê Pí-sek kap i ê kau-iá, Ngá-hap-sat kap i ê kau-iá;"
+    }, 
+    "79": {
+      "mp3": "13/13_006_79.mp3", 
+      "text": " Ki-tí-bo̍k kap i ê kau-iá, Bí-hoat-ap kap i ê kau-iá;"
+    }, 
+    "80": {
+      "mp3": "13/13_006_80.mp3", 
+      "text": " koh tī Ka-tek chi-phài ê tōe, ū Ki-lia̍t ê La̍h-boa̍t kap i ê kau-iá, Má-hap-liām kap i ê kau-iá;"
+    }, 
+    "81": {
+      "mp3": "13/13_006_81.mp3", 
+      "text": " Hi-si̍t-pún kap i ê kau-iá, Ngá-siā kap i ê kau-iá."
+    }
+  }, 
+  "7": {
+    "1": {
+      "mp3": "13/13_007_01.mp3", 
+      "text": " Í-sat-ka ê kiáⁿ, Tô-la̍h, Phó͘-óa, Ngá-su̍t, Sim-lông, kiōng sì-lâng."
+    }, 
+    "2": {
+      "mp3": "13/13_007_02.mp3", 
+      "text": " Tô-la̍h ê kiáⁿ sī O͘-se, Lī-hoat-ngá, Iâ-le̍k, Ngá-mái, Ek-tek-sàu, Sī-bó͘-lī, lóng sī in lāu-pē Tô-la̍h ê cho̍k-tiúⁿ, tī in ê sè-tāi chòe tōa khùi-la̍t ê ióng-sū; tng Tāi-pi̍t ê sî in ê lâng-gia̍h kiōng ū nn̄g-bān nn̄g-chheng la̍k-pah lâng."
+    }, 
+    "3": {
+      "mp3": "13/13_007_03.mp3", 
+      "text": " O͘-se ê kiáⁿ; I-su-la̍h-hi; I-su-la̍h-hi ê kiáⁿ; Bí-ka-le̍k, Gô-pa-tí-a, Iok-jíⁿ, I-sī-ngá, kiōng gō͘-lâng; lóng sī chhut-miâ lâng."
+    }, 
+    "4": {
+      "mp3": "13/13_007_04.mp3", 
+      "text": " In só͘ chhōa ê, tī in ê sè-hē, chiàu in lia̍t-chó͘ ê ke, ū kun-peng thang kau-chiàn-ê, kiōng saⁿ-bān la̍k-chheng lâng; in-ūi in ê bó͘ kap kiáⁿ chin-chōe."
+    }, 
+    "5": {
+      "mp3": "13/13_007_05.mp3", 
+      "text": " In ê hiaⁿ-tī, tī Í-sat-ka hiah ê ke, lóng sī tōa ióng-sū, chiàu in ê sè-hē sǹg i, kiōng poeh-bān chhit-chheng lâng."
+    }, 
+    "6": {
+      "mp3": "13/13_007_06.mp3", 
+      "text": " Piān-ngá-bín ê kiáⁿ; Pí-la̍h, Pí-kiat, Iâ-tia̍p, kiōng saⁿ-lâng."
+    }, 
+    "7": {
+      "mp3": "13/13_007_07.mp3", 
+      "text": " Pí-la̍h ê kiáⁿ; Í-su-pún, O͘-se, O͘-siat, Iâ-lī-mô͘, Í-lī, kiōng gō͘-lâng; sī lāu-pē ê cho̍k-tiúⁿ, koh sī tōa ióng-sū; chiàu in ê sè-hē sǹg i, kiōng nn̄g-bān nn̄g-chheng saⁿ-cha̍p-sì lâng."
+    }, 
+    "8": {
+      "mp3": "13/13_007_08.mp3", 
+      "text": " Pí-kiat ê kiáⁿ; Se-bí-la̍h, Iok-a-si, Í-lī-í-siā, Í-lī-iok-nái, Àm-lī, Iâ-lī-mô͘, A-pí-ngá, A-ná-tu̍t, A-la̍h-bia̍t.  Che lóng sī Pí-kiat ê kiáⁿ."
+    }, 
+    "9": {
+      "mp3": "13/13_007_09.mp3", 
+      "text": " Iā sī in lāu-pē ê cho̍k-tiúⁿ, koh sī tōa khùi-la̍t ê ióng-sū; chiàu in ê cho̍k-phó͘, in ê sè-hē lâi sǹg i, ū nn̄g-bān liân nn̄g-pah lâng."
+    }, 
+    "10": {
+      "mp3": "13/13_007_10.mp3", 
+      "text": " Iâ-tia̍p ê kiáⁿ; Pí-le̍k-hán, Pí-le̍k-hán ê kiáⁿ sī Iâ-o͘-si, Piān-ngá-bín, Í-hut, Ki-ná-ná, Sè-thán, Tha-si, A-si-sa-hap."
+    }, 
+    "11": {
+      "mp3": "13/13_007_11.mp3", 
+      "text": " Che lóng sī Iâ-tia̍p ê kiáⁿ, chiàu in lāu-pē ê cho̍k-tiúⁿ, chòe tōa khùi-la̍t ê ióng-sū; in ê siàu-gia̍h sī chi̍t-bān chhit-chheng nn̄g-pah lâng; lóng ōe chiūⁿ-tīn kau-chiàn."
+    }, 
+    "12": {
+      "mp3": "13/13_007_12.mp3", 
+      "text": " Iáu ū Í-jíⁿ ê kiáⁿ, Su-phín, Hō͘-phín, kap A-hek ê kiáⁿ, Hō͘-sin."
+    }, 
+    "13": {
+      "mp3": "13/13_007_13.mp3", 
+      "text": " Ná-hut-tha-lī ê kiáⁿ; Ngá-siat, Ko͘-nî, Iâ-sek, Sa-liông; che sī Phek-la̍h ê kiáⁿ-sun."
+    }, 
+    "14": {
+      "mp3": "13/13_007_14.mp3", 
+      "text": " Má-ná-se ê kiáⁿ; A-su-lia̍t, sī i ê bó͘ só͘ siⁿ ê; i ê sòe-î A-lân lâng siⁿ Ki-lia̍t ê lāu-pē Má-kiat."
+    }, 
+    "15": {
+      "mp3": "13/13_007_15.mp3", 
+      "text": " Má-kiat só͘ chhōa ê bó͘ sī Hō͘-phín Su-phín ê sió-bē, miâ Má-ka.  Má-ná-se ê tē-jī kiáⁿ, miâ Se-lô-hui-hap; Se-lô-hui-hap ū kúi-nā ê cha-bó͘-kiáⁿ."
+    }, 
+    "16": {
+      "mp3": "13/13_007_16.mp3", 
+      "text": " Má-kiat ê bó͘ Má-ka siⁿ chi̍t ê kiáⁿ, hō miâ Pí-lī-si; i ê sió-tī miâ Sī-lī-si; i ê kiáⁿ sī O͘-lân kap Lī-kim."
+    }, 
+    "17": {
+      "mp3": "13/13_007_17.mp3", 
+      "text": " O͘-lân ê kiáⁿ sī Pí-tàn; chiah-ê lóng sī Ki-lia̍t ê kiáⁿ-sun.  Ki-lia̍t sī Má-kiat ê kiáⁿ, Má-kiat sī Má-ná-se ê kiáⁿ."
+    }, 
+    "18": {
+      "mp3": "13/13_007_18.mp3", 
+      "text": " Ki-lia̍t ê chí-bē, Hap-mô͘-lī-kiat, siⁿ I-si-hô, A-pí-í-siā, Má-la̍h."
+    }, 
+    "19": {
+      "mp3": "13/13_007_19.mp3", 
+      "text": " Sī-bí-tāi ê kiáⁿ sī A-hiān, Sī-kiàm, Lī-khek-hi, A-nî-an."
+    }, 
+    "20": {
+      "mp3": "13/13_007_20.mp3", 
+      "text": " Í-hoat-liân ê kiáⁿ sī Su-thê-la̍h; Su-thê-la̍h ê kiáⁿ sī Pí-lia̍t, Pí-lia̍t ê kiáⁿ sī Tha-hap, Tha-hap ê kiáⁿ sī Í-la̍h-tāi, Í-la̍h-tāi ê kiáⁿ sī Tha-hap;"
+    }, 
+    "21": {
+      "mp3": "13/13_007_21.mp3", 
+      "text": " Tha-hap ê kiáⁿ sī Sat-poa̍t, Sat-poa̍t ê kiáⁿ sī Su-thê-la̍h;  Í-hoat-liân koh siⁿ Í-siā, Í-lia̍t, in hō͘ pún-tōe ê Ka-te̍k lâng thâi-sí, in-ūi in lo̍h-khì beh chhiúⁿ in ê cheng-siⁿ."
+    }, 
+    "22": {
+      "mp3": "13/13_007_22.mp3", 
+      "text": " In lāu-pē Í-hoat-liân ūi in pi-ai chōe-chōe ji̍t, i ê hiaⁿ-tī lóng lâi an-ùi i."
+    }, 
+    "23": {
+      "mp3": "13/13_007_23.mp3", 
+      "text": " Í-hoat-liân kap i ê bó͘ tâng-pâng, i ê bó͘ chiū hoâi-īn siⁿ-kiáⁿ; lāu-pē kā i hō miâ kiò Pí-lī-a, in-ūi i ê ke tú-tio̍h kan-khó͘."
+    }, 
+    "24": {
+      "mp3": "13/13_007_24.mp3", 
+      "text": " I ê cha-bó͘-kiáⁿ miâ-kiò Sià-i-la̍h, chiū-sī khí téng-ē ê Pek-hô-lûn kap O͘-soān-sià-í-la̍h ê."
+    }, 
+    "25": {
+      "mp3": "13/13_007_25.mp3", 
+      "text": " I ê kiáⁿ sī Lī-hoat, kap Lī-sek.  Lī-sek ê kiáⁿ sī Tha-la̍h, Tha-la̍h ê kiáⁿ sī Tha-hán."
+    }, 
+    "26": {
+      "mp3": "13/13_007_26.mp3", 
+      "text": " Tha-hán ê kiáⁿ sī La̍h-tàn, La̍h-tàn ê kiáⁿ sī A-bí-hut, A-bí-hut ê kiáⁿ sī Í-lī-sa-má;"
+    }, 
+    "27": {
+      "mp3": "13/13_007_27.mp3", 
+      "text": " Í-lī-sa-má ê kiáⁿ sī Lùn, Lùn ê kiáⁿ sī Iok-su-a."
+    }, 
+    "28": {
+      "mp3": "13/13_007_28.mp3", 
+      "text": " In ê gia̍p kap khiā-khí ê só͘-chāi sī Pek-te̍k-lī, kap i ê hiuⁿ-siā, tang--sì Ná-lân, sai--sì Ki-sek kap i ê hiuⁿ-siā, koh ū Sī-kiàm kap i ê hiuⁿ-siā, Ka-sat kap i ê hiuⁿ-siā."
+    }, 
+    "29": {
+      "mp3": "13/13_007_29.mp3", 
+      "text": " Koh ū óa-kūn Má-ná-se lâng ê kéng-kài, Pek-siān kap i ê hiuⁿ-siā, Tha-la̍p kap i ê hiuⁿ-siā, Bí-kiat-to kap i ê hiuⁿ-siā, To-jíⁿ kap i ê hiuⁿ-siā;  Í-sek-lia̍t ê kiáⁿ Iok-sek ê kiáⁿ-sun khiā-khí chiah ê só͘-chāi."
+    }, 
+    "30": {
+      "mp3": "13/13_007_30.mp3", 
+      "text": " A-siat ê kiáⁿ sī Im-ná, E̍k-si-óa, E̍k-si-úi, Pí-lī-a, koh ū in ê chí-bē Se-la̍h."
+    }, 
+    "31": {
+      "mp3": "13/13_007_31.mp3", 
+      "text": " Pí-lī-a ê kiáⁿ sī Hi-piat, Má-kiat, Má-kiat sī Pí-sat-ui ê lāu-pē."
+    }, 
+    "32": {
+      "mp3": "13/13_007_32.mp3", 
+      "text": " Hi-piat siⁿ Ngá-hut-le̍k, Sok-be̍k, Hô-thán, kap in ê chí-bē Su-ngá."
+    }, 
+    "33": {
+      "mp3": "13/13_007_33.mp3", 
+      "text": " Ngá-hut-le̍k ê kiáⁿ sī Pa-sat, Pin-hap, A-si-hoat; chiah-ê lóng sī Ngá-hut-le̍k ê kiáⁿ."
+    }, 
+    "34": {
+      "mp3": "13/13_007_34.mp3", 
+      "text": " Sok-be̍k ê kiáⁿ sī A-hi, Lô-ka, Iâ-hō͘-pa, A-lân."
+    }, 
+    "35": {
+      "mp3": "13/13_007_35.mp3", 
+      "text": " Sok-be̍k ê hiaⁿ-tī Hi-liân ê kiáⁿ sī Só-hoat, Im-ná, Sī-lī-su, A-boat."
+    }, 
+    "36": {
+      "mp3": "13/13_007_36.mp3", 
+      "text": " Só-hoat ê kiáⁿ sī Su-a, Hap-nî-hut, Su-a-le̍k, Pí-lī, Im-la̍h;"
+    }, 
+    "37": {
+      "mp3": "13/13_007_37.mp3", 
+      "text": " Pí-sek, Hô-tek, San-má, Si-sa, Ek-lân, Pí-la̍h."
+    }, 
+    "38": {
+      "mp3": "13/13_007_38.mp3", 
+      "text": " Ek-thiap ê kiáⁿ sī Iâ-hu-nî, Pí-su-pa, A-la̍h."
+    }, 
+    "39": {
+      "mp3": "13/13_007_39.mp3", 
+      "text": " O͘-la̍h ê kiáⁿ sī A-la̍h, Hàn-nî-gia̍p, Lī-siá."
+    }, 
+    "40": {
+      "mp3": "13/13_007_40.mp3", 
+      "text": " Che lóng sī A-siat ê kiáⁿ-sun, lóng sī in lāu-pē hit-cho̍k ê thâu-lâng, sī te̍k-pia̍t tōa khùi-la̍t ê ióng-sū, iā sī siú-léng-tiong ê chhut-tioh--ê.  Chiàu in ê sè-hē lâi sǹg, ōe chhut-tīn kau-chiàn--ê, in ê siàu-gia̍h sī nn̄g-bān la̍k-chheng lâng."
+    }
+  }, 
+  "8": {
+    "1": {
+      "mp3": "13/13_008_01.mp3", 
+      "text": " Piān-ngá-bín siⁿ tōa-kiáⁿ Pí-la̍h, tē-jī kiáⁿ A-si̍t-pia̍t, tē-saⁿ kiáⁿ A-hap-la̍h;"
+    }, 
+    "2": {
+      "mp3": "13/13_008_02.mp3", 
+      "text": " tē-sì kiáⁿ Lô-hap, tē-gō͘ kiáⁿ La̍h-hoat."
+    }, 
+    "3": {
+      "mp3": "13/13_008_03.mp3", 
+      "text": " Pí-la̍h ê kiáⁿ sī A-tāi, Ki-la̍h, A-pí-hut;"
+    }, 
+    "4": {
+      "mp3": "13/13_008_04.mp3", 
+      "text": " A-pí-su, Nái-bān, A-hô-a;"
+    }, 
+    "5": {
+      "mp3": "13/13_008_05.mp3", 
+      "text": " Ki-la̍h, Sī-hu-hoān, Hō͘-lân."
+    }, 
+    "6": {
+      "mp3": "13/13_008_06.mp3", 
+      "text": " Í-hut ê kiáⁿ chòe Ka-pa khiā-khí ê peh-sìⁿ ê cho̍k-tiúⁿ, siū-lia̍h kàu Má-ná-hat."
+    }, 
+    "7": {
+      "mp3": "13/13_008_07.mp3", 
+      "text": " Koh ū Nái-bān, A-hi-a, Ki-la̍t, i lia̍h in khì; koh siⁿ O͘-sat, A-hi-hut."
+    }, 
+    "8": {
+      "mp3": "13/13_008_08.mp3", 
+      "text": " Chhe in khì liáu-āu, Sa-hap-liân tī Mô͘-ap tōe siⁿ kiáⁿ cha-bó͘-kiáⁿ;  Hō͘-sin kap Pa-la̍h sī i ê bó͘."
+    }, 
+    "9": {
+      "mp3": "13/13_008_09.mp3", 
+      "text": " I tùi i ê bó͘ Hô-tek siⁿ Iok-pa, Sé-pí-ngá, Bí-sa, Má-la̍h-kan;"
+    }, 
+    "10": {
+      "mp3": "13/13_008_10.mp3", 
+      "text": " Iâ-o͘-su, Sa-ka, Bí-má; chiah-ê sī i ê kiáⁿ, lóng sī chòe cho̍k-tiúⁿ."
+    }, 
+    "11": {
+      "mp3": "13/13_008_11.mp3", 
+      "text": " Koh tùi i ê bó͘ Hō͘-sin siⁿ A-pí-tu̍t, Í-lī-pa-le̍k."
+    }, 
+    "12": {
+      "mp3": "13/13_008_12.mp3", 
+      "text": " Í-lī-pa-le̍k ê kiáⁿ sī Hi-pek, Bí-san, Sa-be̍k; Sa-be̍k khí O-lô kap Lô-tek, í-ki̍p i ê hiuⁿ-siā."
+    }, 
+    "13": {
+      "mp3": "13/13_008_13.mp3", 
+      "text": " Koh ū Pí-lī-a kap Sī-má, sī A-ngá-lûn khiā-khí ê peh-sìⁿ ê cho̍k-tiúⁿ; in sī kóaⁿ-tio̍k Ka-te̍k khiā-khí ê peh-sìⁿ--ê."
+    }, 
+    "14": {
+      "mp3": "13/13_008_14.mp3", 
+      "text": " Koh ū A-hi-iok, Sa-soah, Iâ-lī-boa̍t;"
+    }, 
+    "15": {
+      "mp3": "13/13_008_15.mp3", 
+      "text": " Se-pa-tē-ngá, A-la̍h-tek, A-tek;"
+    }, 
+    "16": {
+      "mp3": "13/13_008_16.mp3", 
+      "text": " Bí-ka-le̍k, I-si-pa, Iok-ha̍p, lóng sī Pí-lī-a ê kiáⁿ."
+    }, 
+    "17": {
+      "mp3": "13/13_008_17.mp3", 
+      "text": " Se-pa-tē-ngá, Bí-su-lân, Hi-se-ki, Hi-pek;"
+    }, 
+    "18": {
+      "mp3": "13/13_008_18.mp3", 
+      "text": " I-si-bí-lâi, I-su-lī-a, Iok-pa, lóng sī Í-lī-pa-le̍k ê kiáⁿ."
+    }, 
+    "19": {
+      "mp3": "13/13_008_19.mp3", 
+      "text": " Ngá-kim, Sè-ki-lī, Sat-tí;"
+    }, 
+    "20": {
+      "mp3": "13/13_008_20.mp3", 
+      "text": " Í-lī-nái, Sé-le̍k-thài, Í-lia̍t;"
+    }, 
+    "21": {
+      "mp3": "13/13_008_21.mp3", 
+      "text": " A-tāi-ngá, Pí-la̍h-ngá, Sin-la̍h, lóng sī Sī-múi ê kiáⁿ."
+    }, 
+    "22": {
+      "mp3": "13/13_008_22.mp3", 
+      "text": " I-si-pan, Hi-pek, Í-lia̍t;"
+    }, 
+    "23": {
+      "mp3": "13/13_008_23.mp3", 
+      "text": " A-pek-tùn, Sé-ki-lī, Hap-lân;"
+    }, 
+    "24": {
+      "mp3": "13/13_008_24.mp3", 
+      "text": " Hap-ná-nî-ngá, Í-lân, An-tô-thê-ngá;"
+    }, 
+    "25": {
+      "mp3": "13/13_008_25.mp3", 
+      "text": " Í-hut-tí-ngá, Pí-lô͘-i-le̍k, lóng sī Sa-soah ê kiáⁿ;"
+    }, 
+    "26": {
+      "mp3": "13/13_008_26.mp3", 
+      "text": " San-sī-lâi, Sī-hap-lī, A-tha-lī-ngá;"
+    }, 
+    "27": {
+      "mp3": "13/13_008_27.mp3", 
+      "text": " Ngá-lī-se, Í-lī-a, Sè-ki-lī, lóng sī Iâ-lô-hán ê kiáⁿ."
+    }, 
+    "28": {
+      "mp3": "13/13_008_28.mp3", 
+      "text": " Chiah ê lâng chiàu in ê sè-hē, lóng sī chhut-miâ ê cho̍k-tiúⁿ, khiā-khí tī Iâ-lō͘-sat-léng."
+    }, 
+    "29": {
+      "mp3": "13/13_008_29.mp3", 
+      "text": " Ki-piàn ê lāu-pē khiā-khí Ki-piàn, i ê bó͘ miâ-kiò Má-ka."
+    }, 
+    "30": {
+      "mp3": "13/13_008_30.mp3", 
+      "text": " I ê tōa-kiáⁿ sī A-pek-tùn, koh ū So͘-jíⁿ, Ki-sū, Pa-le̍k, Ná-tap;"
+    }, 
+    "31": {
+      "mp3": "13/13_008_31.mp3", 
+      "text": " Ki-to, A-hi-iok, Sat-ka, Bí-ki-lô;"
+    }, 
+    "32": {
+      "mp3": "13/13_008_32.mp3", 
+      "text": " Bí-ki-lô siⁿ Sī-bí-àm.  Chiah ê lâng kap in ê hiaⁿ-tī khiā-khí tī Iâ-lō͘-sat-léng, tī in hiaⁿ-tī ê tùi-bīn."
+    }, 
+    "33": {
+      "mp3": "13/13_008_33.mp3", 
+      "text": " Nî-jíⁿ siⁿ Ki-sū; Ki-sū siⁿ Sò-lô; Sò-lô siⁿ Iok-ná-tan, Be̍k-ki-su-a, A-pí-ná-ta̍t, I-si-pa-le̍k."
+    }, 
+    "34": {
+      "mp3": "13/13_008_34.mp3", 
+      "text": " Iok-ná-tan ê kiáⁿ sī Bí-le̍k-pa-le̍k; Bí-le̍k-pa-le̍k siⁿ Bí-ka."
+    }, 
+    "35": {
+      "mp3": "13/13_008_35.mp3", 
+      "text": " Bí-ka ê kiáⁿ sī Pí-tun, Bí-le̍k, Tha-lī-a, A-hap-su."
+    }, 
+    "36": {
+      "mp3": "13/13_008_36.mp3", 
+      "text": " A-hap-su siⁿ Iâ-hô-o-ta̍t, Iâ-hô-o-ta̍t siⁿ A-la̍h-bia̍t, A-su-má-ui, Sim-lī; Sim-lī siⁿ Mô͘-sat."
+    }, 
+    "37": {
+      "mp3": "13/13_008_37.mp3", 
+      "text": " Mô͘-sat siⁿ Pí-lī-a; Pí-lī-a ê kiáⁿ sī La̍h-hoat, La̍h-hoat ê kiáⁿ sī Í-lī-a-sat, Í-lī-a-sat ê kiáⁿ sī A-sek."
+    }, 
+    "38": {
+      "mp3": "13/13_008_38.mp3", 
+      "text": " A-sek ū la̍k ê kiáⁿ, in ê miâ sī A-su-lī-kan, Pho-ki-lō͘, Í-si̍t-má-lī, Sī-a-lī-ngá, Gô-pa-tí-ngá, Hap-lân; che lóng sī A-sek ê kiáⁿ."
+    }, 
+    "39": {
+      "mp3": "13/13_008_39.mp3", 
+      "text": " I ê hiaⁿ-tī Í-siat ê kiáⁿ: tōa--ê miâ-kiò O͘-lân, tē-jī--ê Iâ-o͘-sī, tē-saⁿ--ê Í-lī-hoat-lia̍t."
+    }, 
+    "40": {
+      "mp3": "13/13_008_40.mp3", 
+      "text": " O͘-lân ê kiáⁿ lóng sī tōa khùi-la̍t ê ióng-sū, iā sī gâu siā-chìⁿ ê lâng; i ū chōe-chōe kiáⁿ kap sun, kiōng chi̍t-pah gō͘-cha̍p lâng.  Téng-bīn chiah-ê lóng sī Piān-ngá-bín ê kiáⁿ-sun."
+    }
+  }, 
+  "9": {
+    "1": {
+      "mp3": "13/13_009_01.mp3", 
+      "text": " Án-ni Í-sek-lia̍t lâng, chiàu in ê sè-hē só͘ sǹg, khòaⁿ ah, ū kì-chài tī Í-sek-lia̍t lia̍t-ông ê kì-lio̍k; Iû-tāi lâng in-ūi hoān-chōe, chiū siū-lia̍h kàu Pa-pí-lûn."
+    }, 
+    "2": {
+      "mp3": "13/13_009_02.mp3", 
+      "text": " Tāi-seng khiā-khí i ê gia̍p ê ta̍k ê siâⁿ ê lâng, chiū-sī Í-sek-lia̍t lâng, chè-si, Lī-bī lâng, Nî-thê-lêng lâng."
+    }, 
+    "3": {
+      "mp3": "13/13_009_03.mp3", 
+      "text": " Khiā-khí tī Iâ-lō͘-sat-léng--ê, ū Iû-tāi lâng, Piān-ngá-bín lâng, Í-hoat-liân kap Má-ná-se ê lâng."
+    }, 
+    "4": {
+      "mp3": "13/13_009_04.mp3", 
+      "text": " Iû-tāi ê kiáⁿ, Hoat-le̍k-su ê kiáⁿ-sun tiong ū O͘-thài, O͘-thài sī A-bí-hut ê kiáⁿ, A-bí-hut sī Àm-lī ê kiáⁿ, Àm-lī sī Im-lī ê kiáⁿ, Im-lī sī Pa-nî ê kiáⁿ."
+    }, 
+    "5": {
+      "mp3": "13/13_009_05.mp3", 
+      "text": " Sī-lô ê kiáⁿ-sun tiong ū tōa-kiáⁿ, A-sòe-ngá, kap i ê chèng-kiáⁿ."
+    }, 
+    "6": {
+      "mp3": "13/13_009_06.mp3", 
+      "text": " Siā-la̍h ê kiáⁿ-sun tiong ū Iâ-o͘-lī kap i ê hiaⁿ-tī, kiōng la̍k-pah káu-cha̍p lâng."
+    }, 
+    "7": {
+      "mp3": "13/13_009_07.mp3", 
+      "text": " Piān-ngá-bín ê kiáⁿ-sun tiong ū Sat-lō͘, Sat-lō͘ sī bí-su-lân ê kiáⁿ, Bí-su-lân sī Hô-ta̍t-ui-ngá ê kiáⁿ, Hô-ta̍t-ui-ngá sī Hap-se-lô͘ ê kiáⁿ."
+    }, 
+    "8": {
+      "mp3": "13/13_009_08.mp3", 
+      "text": " Koh ū Iâ-lô-hán ê kiáⁿ I-pí-nî-ngá, Bí-ki-li̍p ê sun, O͘-se ê kiáⁿ Í-la̍h, Í-pí-nî-ngá ê cheng-sun, Liû-jíⁿ ê sun, Sī-hoat-thê-ngá ê kiáⁿ, Bí-su-lân;"
+    }, 
+    "9": {
+      "mp3": "13/13_009_09.mp3", 
+      "text": " kap in ê hiaⁿ-tī, chiàu in ê sè-hē, kiōng káu-pah gō͘-cha̍p-la̍k lâng;  chiah-ê lóng sī chiàu in lia̍t-chó͘ ê ke lâi chòe cho̍k-tiúⁿ."
+    }, 
+    "10": {
+      "mp3": "13/13_009_10.mp3", 
+      "text": " Sio̍k chè-si--ê, ū Iâ-tāi-ngá, Iâ-hô-ngá-li̍p, Ngá-kun."
+    }, 
+    "11": {
+      "mp3": "13/13_009_11.mp3", 
+      "text": " Iáu ū koán-lí Siōng-tè ê tiān--ê, Hi-le̍k-ka ê kiáⁿ A-sat-lī-ngá, Hi-le̍k-ka sī Bí-su-lân ê kiáⁿ, Bí-su-lân sī Sat-tok ê kiáⁿ, Sat-tok sī Bí-la̍h-iok ê kiáⁿ, Bí-la̍h-iok sī A-hi-tu̍t ê kiáⁿ."
+    }, 
+    "12": {
+      "mp3": "13/13_009_12.mp3", 
+      "text": " Koh ū Má-ki-ngá ê cheng-sun, Pa-si-hō͘-jíⁿ ê sun, Iâ-lô-hán ê kiáⁿ, A-tāi-ngá; koh ū A-tē-gia̍p ê kiáⁿ Má-sài, A-tē-gia̍p sī Ngá-hi-sè-la̍h ê kiáⁿ, Ngá-hi-sè-la̍h sī Bí-su-lân ê kiáⁿ, Bí-su-lân sī Bí-si̍t-lī-bi̍t ê kiáⁿ, Bí-si̍t-lī-bi̍t sī Im-be̍k ê kiáⁿ."
+    }, 
+    "13": {
+      "mp3": "13/13_009_13.mp3", 
+      "text": " In kap in ê hiaⁿ-tī lóng chòe cho̍k-tiúⁿ, kiōng chi̍t chheng chhit-pah la̍k-cha̍p lâng; lóng ū châi-lêng, gâu chòe Siōng-tè ê chhù chhe-ēng ê kang."
+    }, 
+    "14": {
+      "mp3": "13/13_009_14.mp3", 
+      "text": " Lī-bī lâng Bí-la̍h-lī ê kiáⁿ-sun tiong, ū Hap-sa-pí-ngá ê cheng-sun, Ap-lī-kam ê sun, Hap-su̍t ê kiáⁿ, Sī-má-ngá."
+    }, 
+    "15": {
+      "mp3": "13/13_009_15.mp3", 
+      "text": " Koh ū Poa̍t-pa-kah, Hek-le̍k-si, Ka-la̍h, kap A-sat ê cheng-sun, Sè-ki-lī ê sun, Bí-ka ê kiáⁿ, Má-thàm-ngá."
+    }, 
+    "16": {
+      "mp3": "13/13_009_16.mp3", 
+      "text": " Koh ū Iâ-tō͘-tùn ê cheng-sun, Ka-la̍h ê sun, Sī-má-ngá ê kiáⁿ, Gô-pa-tí. Koh ū Í-lī-ka-ná ê sun, A-sat ê kiáⁿ, Pí-lī-ka; in lóng khiā-khí tī Nî-tô-hoat lâng ê hiuⁿ-siā."
+    }, 
+    "17": {
+      "mp3": "13/13_009_17.mp3", 
+      "text": " Kò͘-mn̂g-ê sī Sa-liông, A-kok, Ta̍t-bûn, A-hi-bān, kap in ê hiaⁿ-tī; Sa-liông chòe in ê thâu."
+    }, 
+    "18": {
+      "mp3": "13/13_009_18.mp3", 
+      "text": " I pêng-sò͘ kò͘-siú ǹg-tang ê mn̂g, ông chhut-ji̍p-ê; in lóng sī Lī-bī cho̍k chiah ê iâⁿ-tiong kò͘-mn̂g--ê."
+    }, 
+    "19": {
+      "mp3": "13/13_009_19.mp3", 
+      "text": " Khó-la̍h ê cheng-sun, Í-pí-ngá-sat ê sun, Khó-lī ê kiáⁿ, Sa-liông, kap i tâng-cho̍k ê hiaⁿ-tī Khó-la̍h lâng, lóng koán-lí chhe-ēng ê kang, kap siú hōe-bō͘ ê mn̂g; in ê chó͘ bat koán-lí Iâ-hô-hoa ê iâⁿ-pôaⁿ, kò͘-siú chhut-ji̍p ê só͘-chāi."
+    }, 
+    "20": {
+      "mp3": "13/13_009_20.mp3", 
+      "text": " Chá Í-lī-a-sat ê kiáⁿ Hui-nî-hap koán-lí in, Iâ-hô-hoa iā kap i tī-teh."
+    }, 
+    "21": {
+      "mp3": "13/13_009_21.mp3", 
+      "text": " Bí-si-lī-bí-ngá ê kiáⁿ Sat-ka-lī-ngá chòe hōe-bō͘ ê kò͘-mn̂g--ê."
+    }, 
+    "22": {
+      "mp3": "13/13_009_22.mp3", 
+      "text": " Siū kéng-soán lâi kò͘-mn̂g--ê, kiōng nn̄g-pah cha̍p-jī lâng.  In tī in ê hiuⁿ-siā, chiàu sè-hē lâi sǹg, sī Tāi-pi̍t kap sian-kiàn-ê Sat-bó͘-jíⁿ só͘ hun-phài lâi tam-tng chit ê chek-jīm--ê."
+    }, 
+    "23": {
+      "mp3": "13/13_009_23.mp3", 
+      "text": " In kap in ê kiáⁿ-sun chiàu in ê pan-lia̍t, kò͘-siú Iâ-hô-hoa ê chhù, chiū-sī hōe-bō͘ hiah ê mn̂g."
+    }, 
+    "24": {
+      "mp3": "13/13_009_24.mp3", 
+      "text": " Tī tang, sai, lâm, pak, sì-hng lóng ū kò͘-mn̂g--ê."
+    }, 
+    "25": {
+      "mp3": "13/13_009_25.mp3", 
+      "text": " In ê hiaⁿ-tī, tiàm tī hiuⁿ-siā--ê, múi chhit-ji̍t lâi kap in pang-chhiú."
+    }, 
+    "26": {
+      "mp3": "13/13_009_26.mp3", 
+      "text": " In-ūi chiah ê kò͘-mn̂g ê thâu sì ê Lī-bī lâng, lóng tam-tng in ê chek-jīm, lâi koán-lí Siōng-tè chhù-lāi chiah ê chàn-pâng kap hú-khò͘."
+    }, 
+    "27": {
+      "mp3": "13/13_009_27.mp3", 
+      "text": " In khiā-khí tī Siōng-tè ê chhù ê sì-ûi, in-ūi hit ê chhù sī kau-tài in, ta̍k chá-khí teh khui-mn̂g-ê iā sī in."
+    }, 
+    "28": {
+      "mp3": "13/13_009_28.mp3", 
+      "text": " In tiong-kan kúi-nā lâng koán-lí ho̍k-sāi ê khì-kū, in-ūi chiàu siàu-gia̍h tòa-ji̍p, iā chiàu siàu-gia̍h tòa-chhut."
+    }, 
+    "29": {
+      "mp3": "13/13_009_29.mp3", 
+      "text": " Kî-tiong iā ū-ê siū siat-li̍p lâi koán-lí hiah ê khì-kū kap sèng-só͘ ê khì-kū, í-ki̍p mī-hún, chiú, iû, jú-hiuⁿ, phang-liāu."
+    }, 
+    "30": {
+      "mp3": "13/13_009_30.mp3", 
+      "text": " Chè-si ê kiáⁿ ê tiong-kan kúi-nā lâng ēng phang-liāu chòe ko-iû."
+    }, 
+    "31": {
+      "mp3": "13/13_009_31.mp3", 
+      "text": " Lī-bī lâng Má-tha-thê-ngá sī Khó-la̍h cho̍k Sa-liông ê tōa-kiáⁿ; i ê chek-jīm sī koán-lí pôaⁿ-lāi só͘ pek ê mi̍h."
+    }, 
+    "32": {
+      "mp3": "13/13_009_32.mp3", 
+      "text": " In tâng-cho̍k ê hiaⁿ-tī, Ko-hat ê kiáⁿ, ū-ê koán-lí pâi-lia̍t ê piáⁿ, ta̍k ê an-hioh-ji̍t pī-pān i."
+    }, 
+    "33": {
+      "mp3": "13/13_009_33.mp3", 
+      "text": " Chiah-ê tam-tng chhiùⁿ-koa-ê sī Lī-bī lâng chiah ê cho̍k-tiúⁿ, khiā-khí tī tiān-piⁿ ê sió-chhù, mî-ji̍t tng-chit, bô chòe pa̍t-hāng ê kang."
+    }, 
+    "34": {
+      "mp3": "13/13_009_34.mp3", 
+      "text": " Téng-bīn chiah-ê lóng sī Lī-bī lâng ê cho̍k-tiúⁿ, tī in ê sè-tāi chòe chhut-miâ, khiā-khí tī Iâ-lō͘-sat-léng."
+    }, 
+    "35": {
+      "mp3": "13/13_009_35.mp3", 
+      "text": " Ki-piàn ê lāu-pē Iâ-lī khiā-khí Ki-piàn, i ê bó͘ Má-ka."
+    }, 
+    "36": {
+      "mp3": "13/13_009_36.mp3", 
+      "text": " I ê tōa-kiáⁿ sī Iâ-pek-tùn, koh ū So͘-jíⁿ, Ki-sū, Pa-le̍k, Nî-jíⁿ, Ná-tap;"
+    }, 
+    "37": {
+      "mp3": "13/13_009_37.mp3", 
+      "text": " Ki-to, A-hi-iok, Sat-ka-lī-ngá, Bí-ki-lô."
+    }, 
+    "38": {
+      "mp3": "13/13_009_38.mp3", 
+      "text": " Bí-ki-lô siⁿ Sī-bí-àm;  Chiah ê lâng kap in ê hiaⁿ-tī khiā-khí tī Iâ-lō͘-sat-léng, tī in ê hiaⁿ-tī ê tùi-bīn."
+    }, 
+    "39": {
+      "mp3": "13/13_009_39.mp3", 
+      "text": " Nî-jíⁿ siⁿ Ki-sū, Ki-sū siⁿ Sò-lô, Sò-lô siⁿ Iok-ná-tan, Be̍k-ki-su-a, A-pí-ná-ta̍t, I-si-pa-le̍k."
+    }, 
+    "40": {
+      "mp3": "13/13_009_40.mp3", 
+      "text": " Iok-ná-tan ê kiáⁿ, sī Bí-le̍k-pa-le̍k, Bí-le̍k-pa-le̍k siⁿ Bí-ka."
+    }, 
+    "41": {
+      "mp3": "13/13_009_41.mp3", 
+      "text": " Bí-ka ê kiáⁿ sī Pí-tun, Bí-le̍k, Tha-lī-a, A-ha̍p-su."
+    }, 
+    "42": {
+      "mp3": "13/13_009_42.mp3", 
+      "text": " A-ha̍p-su siⁿ Ngá-la̍h, Ngá-la̍h siⁿ A-la̍h-bia̍t, A-su-má-ui, Sim-lī; Sim-lī siⁿ Mô͘-sat."
+    }, 
+    "43": {
+      "mp3": "13/13_009_43.mp3", 
+      "text": " Mô͘-sat siⁿ Pí-nî-a; Pí-nî-a siⁿ Lī-hoat-ngá, Lī-hoat-ngá ê kiáⁿ sī Í-lī-a-sat, Í-lī-a-sat ê kiáⁿ sī A-sek."
+    }, 
+    "44": {
+      "mp3": "13/13_009_44.mp3", 
+      "text": " A-sek ū la̍k ê kiáⁿ, in ê miâ sī A-su-lī-kan, Hô-ki-lō͘, Í-si̍t-má-lī, Sī-a-lī-ngá, Gô-pa-tí-ngá, Hap-lân; che lóng sī A-sek ê kiáⁿ."
+    }
+  }, 
+  "10": {
+    "1": {
+      "mp3": "13/13_010_01.mp3", 
+      "text": " Hui-lī-sū lâng kap Í-sek-lia̍t lâng kau-chiàn; Í-sek-lia̍t lâng tī Hui-lī-sū lâng ê bīn-chêng tô-cháu, tī Ki-lī-pho soaⁿ siū thâi-sí."
+    }, 
+    "2": {
+      "mp3": "13/13_010_02.mp3", 
+      "text": " Hui-lī-sū lâng jip-kūn Sò-lô kap i hiah ê kiáⁿ; Hui-lī-sū lâng chiū thâi-sí Sò-lô ê kiáⁿ Iok-ná-tan, A-pí-ná-ta̍t, Be̍k-ki-su-a."
+    }, 
+    "3": {
+      "mp3": "13/13_010_03.mp3", 
+      "text": " Kau-chiàn ê tīn-sè tùi-tī Sò-lô chin gûi-kip, siā-chìⁿ ê lâng siā-i, khùn-khó͘ kàu-ke̍k."
+    }, 
+    "4": {
+      "mp3": "13/13_010_04.mp3", 
+      "text": " Sò-lô chiū kā hit ê kia̍h i ê chiàn-khì-ê kóng, Lí pu̍ih-chhut lí ê to, kā góa chha̍k--sí, bián-tit hiah ê bô siū kat-lé ê lâng lâi lêng-jio̍k góa; hit ê kia̍h i ê chiàn-khì-ê m̄-ài, in-ūi chin kiaⁿ.  Sò-lô chiū kia̍h i ê to, chiong seng-khu àⁿ tī téng-bīn lâi chhìⁿ-sí."
+    }, 
+    "5": {
+      "mp3": "13/13_010_05.mp3", 
+      "text": " Kia̍h i ê chiàn-khì ê lâng khòaⁿ-kìⁿ Sò-lô í-keng sí, iā chhìⁿ tī to--nih lâi sí."
+    }, 
+    "6": {
+      "mp3": "13/13_010_06.mp3", 
+      "text": " Án-ni Sò-lô kap i saⁿ ê kiáⁿ sí, choân-ke chòe chi̍t-ē sí."
+    }, 
+    "7": {
+      "mp3": "13/13_010_07.mp3", 
+      "text": " Khiā-khí soaⁿ-kok ê Í-sek-lia̍t lâng khòaⁿ-kìⁿ kun-peng tô-cháu, Sò-lô kap i ê kiáⁿ lóng sí, iā pàng-sak in ê siâⁿ tô-cháu.  Hui-lī-sū lâng chiū lâi khiā-khí--i."
+    }, 
+    "8": {
+      "mp3": "13/13_010_08.mp3", 
+      "text": " Keh-ji̍t Hui-lī-sū lâng lâi chhiúⁿ pak hiah ê siū-thâi ê lâng, chhē-tio̍h Sò-lô kap i ê kiáⁿ, sí tī Ki-lī-pho soaⁿ."
+    }, 
+    "9": {
+      "mp3": "13/13_010_09.mp3", 
+      "text": " In chiū pak--i, the̍h i ê thâu-khak kap kun-chong, chhe lâng kàu Hui-lī-sū tōe ê sì-kéng, pò siau-sit hō͘ in ê ngó͘-siōng kap in ê peh-sìⁿ."
+    }, 
+    "10": {
+      "mp3": "13/13_010_10.mp3", 
+      "text": " Ēng i ê kun-chong hē tī in ê siōng-tè ê biō, tiàu i ê thâu-khak tī Tāi-kún ê biō."
+    }, 
+    "11": {
+      "mp3": "13/13_010_11.mp3", 
+      "text": " Ki-lia̍t ê Ngá-pí lâng thiaⁿ-kìⁿ Hui-lī-sū lâng só͘ khoán-thāi Sò-lô it-chhè ê sū."
+    }, 
+    "12": {
+      "mp3": "13/13_010_12.mp3", 
+      "text": " In ê chèng ióng-sū chiū khí--lâi, chiong Sò-lô ê sin-si kap i hiah ê kiáⁿ ê sin-si tòa kàu Ngá-pí;  koh chòng i ê kut-hâi tī Ngá-pí ê siōng-chhiū-kha, kìm-chia̍h chhit-ji̍t."
+    }, 
+    "13": {
+      "mp3": "13/13_010_13.mp3", 
+      "text": " Án-ni Sò-lô sí, in-ūi i hoān-chōe tī Iâ-hô-hoa, ūi-tio̍h i bô siú Iâ-hô-hoa ê bēng-lēng, koh in-ūi i khì chhē kúi chiūⁿ-sin ê hū-jîn-lâng, lâi mn̄g--i;"
+    }, 
+    "14": {
+      "mp3": "13/13_010_14.mp3", 
+      "text": " iā bô mn̄g Iâ-hô-hoa; só͘-í I thâi-sí i, chiong i ê kok kui hō͘ Iâ-se ê kiáⁿ Tāi-pi̍t."
+    }
+  }, 
+  "11": {
+    "1": {
+      "mp3": "13/13_011_01.mp3", 
+      "text": " Í-sek-lia̍t chèng-lâng chiū chū-chi̍p kàu Hi-pek-lûn kìⁿ Tāi-pi̍t kóng, Khòaⁿ ah, goán sī lí ê kut-jio̍k."
+    }, 
+    "2": {
+      "mp3": "13/13_011_02.mp3", 
+      "text": " Chiông-chêng Sò-lô chòe ông ê sî, chhōa Í-sek-lia̍t lâng chhut-ji̍p--ê, iā sī lí; koh Iâ-hô-hoa lí ê Siōng-tè bat tùi lí kóng, Lí beh chiàu-kò͘ Góa ê peh-sìⁿ Í-sek-lia̍t, iā beh chòe Góa ê peh-sìⁿ Í-sek-lia̍t ê jîn-kun."
+    }, 
+    "3": {
+      "mp3": "13/13_011_03.mp3", 
+      "text": " Tùi án-ni Í-sek-lia̍t chèng tiúⁿ-ló kàu Hi-pek-lûn kìⁿ ông; Tāi-pi̍t chiū tī Hi-pek-lûn, tī Iâ-hô-hoa ê bīn-chêng, kap in li̍p-iok; in chiū ēng iû boah Tāi-pi̍t chòe Í-sek-lia̍t ông, chiàu Iâ-hô-hoa thok-tiōng Sat-bó͘-jíⁿ só͘ kóng--ê."
+    }, 
+    "4": {
+      "mp3": "13/13_011_04.mp3", 
+      "text": " Tāi-pi̍t kap Í-sek-lia̍t lâng khì kàu Iâ-lō͘-sat-léng, chiū-sī Iâ-pò͘-su.  Hit-sî pún-tōe ê Iâ-pò͘-su lâng khiā-khí tī-hia."
+    }, 
+    "5": {
+      "mp3": "13/13_011_05.mp3", 
+      "text": " Khiā-khí tī Iâ-pò͘-su ê lâng kā Tāi-pi̍t kóng, Lí bōe-ōe ji̍p chia.  Chóng-sī Tāi-pi̍t kong-chhú Sek-an ê ōe-só͘, chòe Tāi-pi̍t ê siâⁿ."
+    }, 
+    "6": {
+      "mp3": "13/13_011_06.mp3", 
+      "text": " Tāi-pi̍t kóng, Chòe-thâu kong-kek Iâ-pò͘-su lâng--ê, beh chòe siú-léng, chòe goân-sòe;  Sé-ló͘-ngá ê kiáⁿ Iok-ap tāi-seng chiūⁿ-khì, chiū chòe siú-léng."
+    }, 
+    "7": {
+      "mp3": "13/13_011_07.mp3", 
+      "text": " Tāi-pi̍t khiā-khí tī ōe-só͘, só͘-í in kiò i chòe Tāi-pi̍t ê siâⁿ."
+    }, 
+    "8": {
+      "mp3": "13/13_011_08.mp3", 
+      "text": " I khí siâⁿ ê sì-ûi, chiū-sī tùi Bí-lô khí kàu i ê sì-ûi;  kî-û--ê, Iok-ap siu-lí--i."
+    }, 
+    "9": {
+      "mp3": "13/13_011_09.mp3", 
+      "text": " Tāi-pi̍t ti̍t-ti̍t khah kiông-tōa, in-ūi bān-kun ê Iâ-hô-hoa kap i tī-teh."
+    }, 
+    "10": {
+      "mp3": "13/13_011_10.mp3", 
+      "text": " Ē-tóe só͘ kì sī Tāi-pi̍t ióng-sū ê thâu-lâng; in kap Í-sek-lia̍t chèng-lâng hùn-ióng, pang-chān i tit-tio̍h kok, siat-li̍p i chòe-ông, chiàu Iâ-hô-hoa só͘ lūn Í-sek-lia̍t ê ōe."
+    }, 
+    "11": {
+      "mp3": "13/13_011_11.mp3", 
+      "text": " Tāi-pi̍t ióng-sū ê siàu-gia̍h kì tī ē-tóe; Hap-kek-mô͘-nî lâng Ngá-sok-pan, i sī chiah ê chiòng ê siú-léng, i bat chòe chi̍t-sî kia̍h-chhiuⁿ thâi-sí saⁿ-pah lâng."
+    }, 
+    "12": {
+      "mp3": "13/13_011_12.mp3", 
+      "text": " Tē-jī sī A-ha̍p lâng, To-to ê kiáⁿ Í-lī-a-sat; i sī saⁿ ê ióng-sū ê chi̍t-ê."
+    }, 
+    "13": {
+      "mp3": "13/13_011_13.mp3", 
+      "text": " I bat kap Tāi-pi̍t tī Pa-su-ta̍t-bín, Hui-lī-sū lâng chū-chi̍p tī-hia beh kau-chiàn, tī-hia ū chi̍t khu hn̂g tōa-be̍h móa-móa; chèng peh-sìⁿ chiū tī Hui-lī-sū lâng ê bīn-chêng tô-cháu."
+    }, 
+    "14": {
+      "mp3": "13/13_011_14.mp3", 
+      "text": " In khiā tī hit khu hn̂g-tiong lâi pó-hō͘--i. sòa phah-sí Hui-lī-sū lâng; Iâ-hô-hoa chín-kiù in, hō͘ in tōa khah-iâⁿ."
+    }, 
+    "15": {
+      "mp3": "13/13_011_15.mp3", 
+      "text": " Saⁿ-cha̍p ê thâu-lâng tiong ū saⁿ-lâng lo̍h-khì chio̍h-pôaⁿ hia, ji̍p A-thó͘-lân ê tōng kìⁿ Tāi-pi̍t; Hui-lī-sū ê kun-tūi chat-iâⁿ tī Lī-hoa̍t-im ê soaⁿ-kok."
+    }, 
+    "16": {
+      "mp3": "13/13_011_16.mp3", 
+      "text": " Hit-sî Tāi-pi̍t tī ōe-só͘, Hui-lī-sū lâng ê peng-iâⁿ tī Pek-lī-hêng."
+    }, 
+    "17": {
+      "mp3": "13/13_011_17.mp3", 
+      "text": " Tāi-pi̍t him-soān kóng, Sím-mi̍h lâng ōe chiong Pek-lī-hêng siâⁿ-mn̂g-piⁿ ê chíⁿ-chúi, chhiūⁿ lâi hō͘ góa lim?"
+    }, 
+    "18": {
+      "mp3": "13/13_011_18.mp3", 
+      "text": " Chí(**Chit) saⁿ-lâng chiū tùi Hui-lī-sū ê kun-iâⁿ chhiong--kè-khì, tùi Pek-lī-hêng siâⁿ-mn̂g-piⁿ ê chíⁿ chhiūⁿ-chúi, tòa lâi hō͘ Tāi-pi̍t; i m̄ lim, piàⁿ tī Iâ-hô-hoa bīn-chêng, kóng,"
+    }, 
+    "19": {
+      "mp3": "13/13_011_19.mp3", 
+      "text": " Góa ê Siōng-tè ah, góa koat-toàn m̄-thang chòe án-ni; chiah ê lâng bô kò͘ sìⁿ-miā, góa kiám káⁿ lim in ê huih mah? In-ūi in bô kò͘ sìⁿ-miā khì chhiūⁿ--lâi. Só͘-í i m̄ lim--i. Chiah ê sū sī chí(**chit) saⁿ ê ióng-sū chòe--ê."
+    }, 
+    "20": {
+      "mp3": "13/13_011_20.mp3", 
+      "text": " Iok-ap ê hiaⁿ-tī A-pí-su sī hit saⁿ ê ióng-sū tiong ê thâu; in-ūi i kia̍h-chhiuⁿ kong-kek saⁿ-pah lâng lâi thâi-sí, chiū tī chí(**chit) saⁿ-lâng tiong tit-tio̍h miâ."
+    }, 
+    "21": {
+      "mp3": "13/13_011_21.mp3", 
+      "text": " Saⁿ-lâng tiong i pí hit nn̄g-ê khah chhut-tioh, chiū chòe in ê thâu; chóng-sī bōe pí-tit khí-thâu ê saⁿ-lâng."
+    }, 
+    "22": {
+      "mp3": "13/13_011_22.mp3", 
+      "text": " Ū Kah-siat lâng Iâ-hô-iâ-tāi ê kiáⁿ, Pí-ná-ngá, bat chòe-chhut chōe-chōe tōa-sū--ê, thâi-sí Mô͘-ap lâng A-lī-i-le̍k ê nn̄g ê kiáⁿ; koh tī lo̍h-seh ê sî, lo̍h khiⁿ-lāi thâi-sí chi̍t chiah sai."
+    }, 
+    "23": {
+      "mp3": "13/13_011_23.mp3", 
+      "text": " Koh thâi-sí chi̍t ê Ai-ki̍p ê tōa-hàn lâng, ū gō͘ tiú ê koâiⁿ; Ai-ki̍p lâng chhiú--nih ū chhiuⁿ, tōa chhin-chhiūⁿ pò͘-kui(**ki) ê niû; Pí-ná-ngá kia̍h-koáiⁿ lo̍h-khì chih--i, chhiúⁿ Ai-ki̍p lâng chhiú-lāi ê chhiuⁿ, chiah ēng i ê chhiuⁿ thâi-sí i."
+    }, 
+    "24": {
+      "mp3": "13/13_011_24.mp3", 
+      "text": " Chiah-ê sī Iâ-hô-iâ-tāi ê kiáⁿ Pí-ná-ngá só͘ kiâⁿ ê sū, chiū tī saⁿ ê ióng-sū tiong tit-tio̍h miâ."
+    }, 
+    "25": {
+      "mp3": "13/13_011_25.mp3", 
+      "text": " I pí saⁿ-cha̍p ê ióng-sū khah chhut-tioh; chóng-sī bōe pí-tit chêng saⁿ ê ióng-sū; Tāi-pi̍t siat-li̍p i chòe sī-ōe-tiúⁿ."
+    }, 
+    "26": {
+      "mp3": "13/13_011_26.mp3", 
+      "text": " Kun-tūi tiong ê ióng-sū, ū Iok-ap ê hiaⁿ-tī A-sat-hek, Pek-lī-hêng lâng, To-to ê kiáⁿ I-le̍k-hap-lân;"
+    }, 
+    "27": {
+      "mp3": "13/13_011_27.mp3", 
+      "text": " Hap-lu̍t lâng Sa-má, Pí-lûn lâng Hi-lī-su;"
+    }, 
+    "28": {
+      "mp3": "13/13_011_28.mp3", 
+      "text": " Thê-ko-a lâng Ek-kiat ê kiáⁿ Í-la̍h, A-ná-tu̍t lâng A-pí-í-siā;"
+    }, 
+    "29": {
+      "mp3": "13/13_011_29.mp3", 
+      "text": " Hō͘-sa lâng Se-pí-kai, A-ha̍p lâng Í-lâi;"
+    }, 
+    "30": {
+      "mp3": "13/13_011_30.mp3", 
+      "text": " Nî-to-hoat lâng Má-khap-lâi, Nî-to-hoat lâng Pa-ná ê kiáⁿ Hi-li̍p;"
+    }, 
+    "31": {
+      "mp3": "13/13_011_31.mp3", 
+      "text": " Piān-ngá-bín cho̍k, Ki-pí-a lâng Lī-pài ê kiáⁿ Í-thài, Pí-la̍h-tùn lâng Pí-ná-ngá;"
+    }, 
+    "32": {
+      "mp3": "13/13_011_32.mp3", 
+      "text": " sio̍k Ka-si̍t chiah ê khoe ê lâng Hō͘-lâi, A-la̍h-pa lâng A-pí;"
+    }, 
+    "33": {
+      "mp3": "13/13_011_33.mp3", 
+      "text": " Pa-lō͘-bí lâng A-su-má-hut, Sa-pún lâng I-lī-ngá-hap-pa;"
+    }, 
+    "34": {
+      "mp3": "13/13_011_34.mp3", 
+      "text": " Ki-sun lâng Hap-chhim ê chèng-kiáⁿ, Hap-la̍h lâng Sa-ki ê kiáⁿ Iok-ná-tan;"
+    }, 
+    "35": {
+      "mp3": "13/13_011_35.mp3", 
+      "text": " Hap-la̍h lâng Sa-kah ê kiáⁿ A-hi-àm, Ngô͘-jíⁿ ê kiáⁿ Í-lī-hoat-le̍k;"
+    }, 
+    "36": {
+      "mp3": "13/13_011_36.mp3", 
+      "text": " Bí-ki-la̍h lâng Hi-hut, Pí-lûn lâng A-hi-ngá;"
+    }, 
+    "37": {
+      "mp3": "13/13_011_37.mp3", 
+      "text": " Ka-bi̍t lâng Hi-su-lô, I-su-pài ê kiáⁿ Ná-lâi;"
+    }, 
+    "38": {
+      "mp3": "13/13_011_38.mp3", 
+      "text": " Ná-tan ê hiaⁿ-tī Iok-jíⁿ, Hap-ki-lī ê kiáⁿ Bî-pek-hap;"
+    }, 
+    "39": {
+      "mp3": "13/13_011_39.mp3", 
+      "text": " A-bûn lâng Sé-le̍k, Pí-lio̍k lâng Ná-hap-lâi, Ná-hap-lâi sī kā Sé-ló͘-ngá ê kiáⁿ Iok-ap kia̍h chiàn-khì--ê;"
+    }, 
+    "40": {
+      "mp3": "13/13_011_40.mp3", 
+      "text": " Í-thiap lâng Í-la̍h, Í-thiap lâng Ka-li̍p;"
+    }, 
+    "41": {
+      "mp3": "13/13_011_41.mp3", 
+      "text": " Hek-lâng O͘-lī-à, A-lâi ê kiáⁿ Sat-poa̍t;"
+    }, 
+    "42": {
+      "mp3": "13/13_011_42.mp3", 
+      "text": " Liû-piān lâng Sī-sat ê kiáⁿ, A-tē-ná, i sī Liû-piān chi-phài tiong chi̍t-ê cho̍k-tiúⁿ, chhōa saⁿ-cha̍p lâng;"
+    }, 
+    "43": {
+      "mp3": "13/13_011_43.mp3", 
+      "text": " Má-ka ê kiáⁿ Hap-lân, Bî-te̍k-nî lâng Iok-sa-hoat;"
+    }, 
+    "44": {
+      "mp3": "13/13_011_44.mp3", 
+      "text": " A-si-tha-la̍h lâng O͘-se-a, A-lô-jíⁿ lâng, Hô-thán ê kiáⁿ Sa-má, Iâ-lī;"
+    }, 
+    "45": {
+      "mp3": "13/13_011_45.mp3", 
+      "text": " Thê-sé lâng Sin-lī ê kiáⁿ Iâ-tia̍p, kap i ê hiaⁿ-tī Iok-hap;"
+    }, 
+    "46": {
+      "mp3": "13/13_011_46.mp3", 
+      "text": " Má-hap-bī lâng Í-lī-gia̍p, I-lī-ná-an ê kiáⁿ Iâ-lī-pài, Iok-sa-bī-ngá, Mô͘-ap lâng I-te̍k-má;"
+    }, 
+    "47": {
+      "mp3": "13/13_011_47.mp3", 
+      "text": " Í-lī-gia̍p, Gô-pī-tek, kap Bí-só-pat lâng Ngá-se-gia̍p."
+    }
+  }, 
+  "12": {
+    "1": {
+      "mp3": "13/13_012_01.mp3", 
+      "text": " Tāi-pi̍t in-ūi kiaⁿ Ki-sū ê kiáⁿ Sò-lô, siú-teh m̄-káⁿ chhut-khì ê sî, ū chiah ê ióng-sū lâi kàu Sé-kek-la̍h chhē--i, pang-chān i kau-chiàn."
+    }, 
+    "2": {
+      "mp3": "13/13_012_02.mp3", 
+      "text": " In gâu khui-keng, ōe ēng tò-chhiú chiàⁿ-chhiú hiat chio̍h-thâu siā-chìⁿ; lóng sī Piān-ngá-bín lâng Sò-lô ê tâng-cho̍k."
+    }, 
+    "3": {
+      "mp3": "13/13_012_03.mp3", 
+      "text": " Thâu-chi̍t-ê sī A-hi-í-siā, koh ū Iok-a-si, lóng sī Ki-pí-a lâng Sī-má ê kiáⁿ; koh ū Iâ-siat kap Pí-le̍k, sī A-su-má-ui ê kiáⁿ; koh ū Pí-la̍h-ka kap A-ná-tu̍t lâng Iâ-hō͘;"
+    }, 
+    "4": {
+      "mp3": "13/13_012_04.mp3", 
+      "text": " Ki-piàn lâng Í-si̍t-mái-ngá, tī saⁿ-cha̍p lâng tiong sī ióng-sū, iā teh koán hit saⁿ-cha̍p lâng.  Koh ū Iâ-lī-bí, Ngá-hap-sek, Iok-hap-lân, kap Ki-tek-la̍h lâng Iok-sat-poa̍t;"
+    }, 
+    "5": {
+      "mp3": "13/13_012_05.mp3", 
+      "text": " I-lī-o͘-sài, Iâ-lī-mô͘, Pí-a-lī-ngá, Sī-má-lī-ngá, Hap-lu̍t-hut lâng Sī-hoat-thê-ngá;"
+    }, 
+    "6": {
+      "mp3": "13/13_012_06.mp3", 
+      "text": " Khó-la̍h lâng Í-lī-ka-ná, Iâ-se-a, A-sat-lia̍t, Iok-í-siā, Ngá-sok-pan;"
+    }, 
+    "7": {
+      "mp3": "13/13_012_07.mp3", 
+      "text": " Ki-to lâng Iâ-lô-hán ê kiáⁿ Iû-la̍h, kap Se-pa-tē-ngá."
+    }, 
+    "8": {
+      "mp3": "13/13_012_08.mp3", 
+      "text": " Ka-tek chi-phài ū kúi-nā lâng kàu khòng-iá ê ōe-só͘, kui-óa Tāi-pi̍t; in lóng sī ióng-sū chiàn-sū, ōe chhut-tīn, giâ pîn-pâi, kia̍h chhiuⁿ, in ê bīn chhin-chhiūⁿ sai ê bīn, gâu cháu chhin-chhiūⁿ soaⁿ--nih ê lo̍k."
+    }, 
+    "9": {
+      "mp3": "13/13_012_09.mp3", 
+      "text": " Thâu-chi̍t-ê Í-siat, tē-jī Gô-pa-tí-ná, tē-saⁿ Í-lī-ap;"
+    }, 
+    "10": {
+      "mp3": "13/13_012_10.mp3", 
+      "text": " tē-sì Bî-si-má-ná, tē-gō͘ Iâ-lī-bí;"
+    }, 
+    "11": {
+      "mp3": "13/13_012_11.mp3", 
+      "text": " tē-la̍k A-thài, tē-chhit Í-lī-gia̍p;"
+    }, 
+    "12": {
+      "mp3": "13/13_012_12.mp3", 
+      "text": " tē-poeh Iok-hap-lân, tē-káu Í-lī-sat-pa;"
+    }, 
+    "13": {
+      "mp3": "13/13_012_13.mp3", 
+      "text": " tē-cha̍p Iâ-lī-bí, tē-cha̍p-it Boa̍t-pa-nāi."
+    }, 
+    "14": {
+      "mp3": "13/13_012_14.mp3", 
+      "text": " Chiah-ê lóng sī Ka-tek lâng, iā lóng sī kun-tiúⁿ; siōng-bōe--ê ōe tí-tng chi̍t-pah lâng, siōng-ōe--ê ōe tí-tng chi̍t-chheng lâng."
+    }, 
+    "15": {
+      "mp3": "13/13_012_15.mp3", 
+      "text": " Chiaⁿ-ge̍h Iok-tàn hô-chúi tiòng-móa siang-pêng hōaⁿ ê sî, in kè-hô, hō͘ it-chhè tiàm tī soaⁿ-kok ê lâng cháu-tang cháu-sai."
+    }, 
+    "16": {
+      "mp3": "13/13_012_16.mp3", 
+      "text": " Koh ū Piān-ngá-bín Iû-tāi lâng lâi kàu ōe-só͘, chhē Tāi-pi̍t."
+    }, 
+    "17": {
+      "mp3": "13/13_012_17.mp3", 
+      "text": " Tāi-pi̍t chhut-khì ngiâ-chih in; tùi in kóng, Lín nā sī ūi-tio̍h pêng-an lâi pang-chān góa, góa kap lín ê sim chiū saⁿ-khè-ha̍p; chóng-sī lín nā beh chiong góa bô-chōe ê lâng, bōe tī tùi-te̍k ê chhiú, goān lán lia̍t-chó͘ ê Siōng-tè kàm-chhat chek-hoa̍t."
+    }, 
+    "18": {
+      "mp3": "13/13_012_18.mp3", 
+      "text": " Hit-sî Siōng-tè ê Sîn lîm-kàu chiah ê chiòng ê thâu-lâng A-má-sat, i chiū kóng, Tāi-pi̍t ah, goán sī kui tī lí--ê, Iâ-se ê kiáⁿ ah, goán sī pang-chān lí--ê; goān lí pêng-pêng an-an, goān pang-chān lí--ê, iā tit-tio̍h pêng-an; in-ūi lí ê Siōng-tè pang-chān lí.  Tāi-pi̍t chiū siu-liû in, siat-li̍p in chòe kun-tiúⁿ."
+    }, 
+    "19": {
+      "mp3": "13/13_012_19.mp3", 
+      "text": " Tāi-pi̍t chiông-chêng kap Hui-lī-sū chhut-tīn beh kong-kek Sò-lô ê sî,  ū Má-ná-se chi-phài kúi-nā lâng lâi kui-óa--i, chóng-sī kàu-bé in bô pang-chān in, in-ūi Hui-lī-sū ê thâu-lâng ū gī-lūn tio̍h hō͘ i tò--khì, kóng, I tek-khak kui i ê chú-lâng Sò-lô, tì-kàu lán ê thâu-khak gûi-hiám."
+    }, 
+    "20": {
+      "mp3": "13/13_012_20.mp3", 
+      "text": " Hit-sî Tāi-pi̍t khì Sé-kek-la̍h, ū Má-ná-se lâng ê chhian-chóng, Ap-ná, Iok-sat-poa̍t, Iâ-tia̍p, Bí-ka-le̍k, Iok-sat-poa̍t, Í-lī-hō͘, Sé-le̍k-thài, lóng lâi kui-óa i."
+    }, 
+    "21": {
+      "mp3": "13/13_012_21.mp3", 
+      "text": " Chiah ê lâng pang-chān Tāi-pi̍t kong-kek thó͘-húi, in lóng sī tōa khùi-la̍t ê ióng-sū, koh chòe kun-tiúⁿ."
+    }, 
+    "22": {
+      "mp3": "13/13_012_22.mp3", 
+      "text": " Hit-sî ji̍t-ji̍t ū lâng kui-óa Tāi-pi̍t, beh pang-chān i, chiū chiâⁿ-chòe tōa kun-tūi, chhin-chhiūⁿ Siōng-tè ê kun-tūi chi̍t-iūⁿ."
+    }, 
+    "23": {
+      "mp3": "13/13_012_23.mp3", 
+      "text": " Pī-pān kau-chiàn ê kun-tūi kàu Hi-pek-lûn kìⁿ Tāi-pi̍t, beh chiàu Iâ-hô-hoa ê ōe î-sóa Sò-lô ê kok-ūi hō͘ Tāi-pi̍t, in ê siàu-gia̍h kì tī ē-bīn."
+    }, 
+    "24": {
+      "mp3": "13/13_012_24.mp3", 
+      "text": " Iû-tāi chi-phài, giâ pîn-pâi kia̍h chhiuⁿ pī-pān kau-chiàn ê, ū la̍k-chheng poeh-pah lâng."
+    }, 
+    "25": {
+      "mp3": "13/13_012_25.mp3", 
+      "text": " Se-biān ê chi-phài, ōe chhut-tīn ê ióng-sū, ū chhit-chheng chi̍t-pah lâng."
+    }, 
+    "26": {
+      "mp3": "13/13_012_26.mp3", 
+      "text": " Lī-bī chi-phài sì-chheng la̍k-pah lâng."
+    }, 
+    "27": {
+      "mp3": "13/13_012_27.mp3", 
+      "text": " Iâ-hô-iâ-tāi sī A-lûn ê ke ê siú-léng, tè-i--ê ū saⁿ-chheng chhit-pah lâng."
+    }, 
+    "28": {
+      "mp3": "13/13_012_28.mp3", 
+      "text": " Koh ū siàu-liân lâng Sat-tok sī tōa ióng-sū, kap i pún-ke ê cho̍k-tiúⁿ jī-cha̍p-jī lâng."
+    }, 
+    "29": {
+      "mp3": "13/13_012_29.mp3", 
+      "text": " Piān-ngá-bín ê chi-phài, chiū-sī Sò-lô ê tâng-cho̍k, saⁿ-chheng lâng; in-ūi kàu hit-sî, chit-cho̍k tōa-pòaⁿ iáu-kú iòng-hō͘ Sò-lô ê ke."
+    }, 
+    "30": {
+      "mp3": "13/13_012_30.mp3", 
+      "text": " Í-hoat-liân chi-phài ê tōa ióng-sū, tī pún-cho̍k chhut-miâ--ê, ū nn̄g-bān liân poeh-pah lâng."
+    }, 
+    "31": {
+      "mp3": "13/13_012_31.mp3", 
+      "text": " Má-ná-se pòaⁿ-chi-phài kì-miâ--ê, kiōng chi̍t-bān poeh-chheng, lóng lâi siat-li̍p Tāi-pi̍t chòe-ông."
+    }, 
+    "32": {
+      "mp3": "13/13_012_32.mp3", 
+      "text": " Í-sat-ka chi-phài ū tì-sek, bat sî-sè, chai Í-sek-lia̍t só͘ tio̍h kiâⁿ--ê, in ê thâu-lâng ū nn̄g-pah; in ê hiaⁿ-tī lóng thàn in ê bēng-lēng."
+    }, 
+    "33": {
+      "mp3": "13/13_012_33.mp3", 
+      "text": " Se-pò͘-lûn ū ōe-chhut-tīn--ê, lóng gâu kau-chiàn, ōe ēng ta̍k-iūⁿ ê kun-khì--ê, ū gō͘-bān lâng; in ōe pâi tūi-ngó͘, bô nn̄g-iūⁿ sim."
+    }, 
+    "34": {
+      "mp3": "13/13_012_34.mp3", 
+      "text": " Sio̍k Ná-hut-tha-lī--ê, ū chi̍t-chheng ê kun-tiúⁿ; giâ pîn-pâi kia̍h chhiuⁿ lâi tè in ê, ū saⁿ-bān chhit-chheng lâng."
+    }, 
+    "35": {
+      "mp3": "13/13_012_35.mp3", 
+      "text": " Tàn ê chi-phài, ōe pâi-tīn ê, nn̄g-bān poeh-chheng la̍k-pah lâng."
+    }, 
+    "36": {
+      "mp3": "13/13_012_36.mp3", 
+      "text": " Sio̍k A-siat--ê, ōe chhut-kun pâi-tīn--ê, ū sì-bān lâng."
+    }, 
+    "37": {
+      "mp3": "13/13_012_37.mp3", 
+      "text": " Iok-tàn-hô ê tang-pêng, Liû-piān lâng, Ka-tek lâng, Má-ná-se pòaⁿ-chi-phài ê lâng, kia̍h ta̍k-iūⁿ ê kun-khì lâi kau-chiàn--ê, ū cha̍p-jī-bān lâng."
+    }, 
+    "38": {
+      "mp3": "13/13_012_38.mp3", 
+      "text": " Chiah ê chiàn-sū lóng ōe pâi tūi-ngó͘, sêng-si̍t sim kàu Hi-pek-lûn, beh siat-li̍p Tāi-pi̍t chòe Í-sek-lia̍t choân-kok ê ông; Í-sek-lia̍t kî-û ê lâng, iā tâng chi̍t-iūⁿ ê sim, beh siat-li̍p Tāi-pi̍t chòe-ông."
+    }, 
+    "39": {
+      "mp3": "13/13_012_39.mp3", 
+      "text": " In tiàm hia saⁿ-ji̍t kú, kap Tāi-pi̍t saⁿ-kap tiàm, iā lim iā chia̍h, in-ūi in ê hiaⁿ-tī kā in pī-pān piān-piān."
+    }, 
+    "40": {
+      "mp3": "13/13_012_40.mp3", 
+      "text": " Óa-kūn in ê lâng, ti̍t kàu Í-sat-ka, Se-pò͘-lûn, Ná-hut-tha-lī ê lâng, chiong lû, lo̍k-tô, lô, gû, chài mī-hún chia̍h-mi̍h, kap bû-hoa-kó-piáⁿ, phû-tô-koaⁿ, chiú, iû, lâi hia; iā ū tòa gû iûⁿ, lóng chin-chōe; in-ūi tī Í-sek-lia̍t tiong ū tōa hoaⁿ-hí."
+    }
+  }, 
+  "13": {
+    "1": {
+      "mp3": "13/13_013_01.mp3", 
+      "text": " Tāi-pi̍t kap chiah ê chhian-chóng pé-chóng, kap chiah ê thâu-lâng chham-siông."
+    }, 
+    "2": {
+      "mp3": "13/13_013_02.mp3", 
+      "text": " Tāi-pi̍t tùi Í-sek-lia̍t choân-hōe kóng, Lín nā lia̍h-chòe hó, koh sī chhut tī Iâ-hô-hoa lán ê Siōng-tè ê ì-sù, taⁿ lán chiū chhe lâng piàn kiâⁿ Í-sek-lia̍t choân-tōe, kìⁿ lán hiah-ê iáu-chhun ê hiaⁿ-tī, kap tiàm-tī ū kau-iá ê siâⁿ ê chè-si Lī-bī lâng, hō͘ in lóng chū-chi̍p kàu lán chia."
+    }, 
+    "3": {
+      "mp3": "13/13_013_03.mp3", 
+      "text": " Lán chiū thang tòa lán ê Siōng-tè ê iok-kūi kàu lán chia; in-ūi Sò-lô ê sî-chūn, lán bô ēng hit-ê lâi mn̄g Siōng-tè."
+    }, 
+    "4": {
+      "mp3": "13/13_013_04.mp3", 
+      "text": " Choân-hōe lóng kóng, Thang án-ni kiâⁿ; chèng peh-sìⁿ lóng khòaⁿ chit ê tāi-chì chòe hó."
+    }, 
+    "5": {
+      "mp3": "13/13_013_05.mp3", 
+      "text": " Tùi án-ni Tāi-pi̍t tiàu Í-sek-lia̍t lâng, tùi Ai-ki̍p Se-hat ê khoe, ti̍t-kàu Hap-má chhut-ji̍p ê só͘-chāi, beh tòa Siōng-tè ê iok-kūi, tùi Ki-lia̍t-iâ-lîm lâi."
+    }, 
+    "6": {
+      "mp3": "13/13_013_06.mp3", 
+      "text": " Tāi-pi̍t kap Í-sek-lia̍t chèng-lâng chiū kàu Pa-la̍h, chiū-sī sio̍k Iû-tāi ê Ki-lia̍t-iâ-lîm, ài beh tùi hia tòa hit-ê tiàm tī ki-lō͘-peng tiong-kan Iâ-hô-hoa Siōng-tè ê iok-kūi, chiū-sī ēng I miâ lâi chheng-ho͘--ê."
+    }, 
+    "7": {
+      "mp3": "13/13_013_07.mp3", 
+      "text": " In ēng sin ê chhia chài Siōng-tè ê iok-kūi, tùi A-pí-ná-ta̍t ê chhù chhut-lâi, O͘-sat kap A-hi-iok kóaⁿ-chhia."
+    }, 
+    "8": {
+      "mp3": "13/13_013_08.mp3", 
+      "text": " Tāi-pi̍t kap Í-sek-lia̍t chèng-lâng tī Siōng-tè ê bīn-chêng chīn-la̍t chhiùⁿ-koa, ēng khîm, sek, lô, kó͘, hō-thâu, chok-ga̍k thiàu-bú."
+    }, 
+    "9": {
+      "mp3": "13/13_013_09.mp3", 
+      "text": " Kàu Ki-tùn ê gō͘-kak-tiûⁿ, in-ūi gû tio̍h-tak, O͘-sat chhun-chhiú hōaⁿ hit ê kūi."
+    }, 
+    "10": {
+      "mp3": "13/13_013_10.mp3", 
+      "text": " Iâ-hô-hoa siū-khì O͘-sat, in-ūi i chhun-chhiú hōaⁿ iok-kūi, chiū phah i; i chiū sí tī-hia, tī Siōng-tè ê bīn-chêng."
+    }, 
+    "11": {
+      "mp3": "13/13_013_11.mp3", 
+      "text": " Tāi-pi̍t in-ūi Iâ-hô-hoa phah O͘-sat, chiū bô hoaⁿ-hí, hō hit ê só͘-chāi chòe Pí-lia̍t-su-o͘-sat, ti̍t-kàu kin-á-ji̍t."
+    }, 
+    "12": {
+      "mp3": "13/13_013_12.mp3", 
+      "text": " Hit-ji̍t Tāi-pi̍t kiaⁿ Siōng-tè, chiū kóng, Góa thái-thó thang tòa Siōng-tè ê iok-kūi kàu góa ê só͘-chāi?"
+    }, 
+    "13": {
+      "mp3": "13/13_013_13.mp3", 
+      "text": " Tùi án-ni Tāi-pi̍t bô tòa iok-kūi kàu Tāi-pi̍t ê siâⁿ, ka-kī ê só͘-chāi; chiū choán kàu Ka-te̍k lâng Gô-pia̍t-í-tong ê ke."
+    }, 
+    "14": {
+      "mp3": "13/13_013_14.mp3", 
+      "text": " Siōng-tè ê iok-kūi tī Gô-pia̍t-í-tong ê ke, tī i ê chhù saⁿ-ge̍h-ji̍t kú;  Iâ-hô-hoa sù-hok tī Gô͘-pia̍t-í-tong ê ke, kap i it-chhè só͘-ū--ê."
+    }
+  }, 
+  "14": {
+    "1": {
+      "mp3": "13/13_014_01.mp3", 
+      "text": " Chhui-lô ông Hi-lân chhe sù-chiá tòa pek-hiuⁿ-chhâ, kap thô͘-chúi sai-hū, chòe-ba̍k sai-hū, kàu Tāi-pi̍t hia, beh kā i khí chhù."
+    }, 
+    "2": {
+      "mp3": "13/13_014_02.mp3", 
+      "text": " Tāi-pi̍t chai Iâ-hô-hoa tiāⁿ-tio̍h siat-li̍p i chòe Í-sek-lia̍t ông, koh ūi-tio̍h I ê peh-sìⁿ Í-sek-lia̍t ê iân-kò͘, lâi heng-khí i ê kok."
+    }, 
+    "3": {
+      "mp3": "13/13_014_03.mp3", 
+      "text": " Tāi-pi̍t tī Iâ-lō͘-sat-léng koh chhōa kúi-nā ê bó͘.  Tāi-pi̍t koh siⁿ kiáⁿ cha-bó͘-kiáⁿ."
+    }, 
+    "4": {
+      "mp3": "13/13_014_04.mp3", 
+      "text": " Tī Iâ-lō͘-sat-léng só͘ siⁿ chiah ê kiáⁿ ê miâ kì tī ē-tóe: Sa-bó͘-a, Sok-pa, Ná-tan, Só͘-lô-bûn;"
+    }, 
+    "5": {
+      "mp3": "13/13_014_05.mp3", 
+      "text": " Ek-hat, Í-lī-su-a, Í-hoat-lia̍t;"
+    }, 
+    "6": {
+      "mp3": "13/13_014_06.mp3", 
+      "text": " Lô-ka, Nî-húi, Ngá-hui-a;"
+    }, 
+    "7": {
+      "mp3": "13/13_014_07.mp3", 
+      "text": " Í-lī-sa-má, Pí-lī-ngá-tāi, Í-lī-hoat-lia̍t."
+    }, 
+    "8": {
+      "mp3": "13/13_014_08.mp3", 
+      "text": " Hui-lī-sū lâng thiaⁿ-kìⁿ Tāi-pi̍t siū boah-iû chòe Í-sek-lia̍t choân-kok ê ông, Hui-lī-sū lâng chiū lóng chiūⁿ-lâi chhē Tāi-pi̍t; Tāi-pi̍t thiaⁿ-kìⁿ chiū chhut-khì tí-te̍k i."
+    }, 
+    "9": {
+      "mp3": "13/13_014_09.mp3", 
+      "text": " Hui-lī-sū lâng lâi, pâi-lia̍t tī Lī-hoa̍t-im ê soaⁿ-kok."
+    }, 
+    "10": {
+      "mp3": "13/13_014_10.mp3", 
+      "text": " Tāi-pi̍t mn̄g Siōng-tè kóng, Góa tio̍h chiūⁿ-khì kong-kek Hui-lī-sū lâng mah?  Lí beh chiong in kau tī góa ê chhiú mah?  Iâ-hô-hoa kóng, Tio̍h chiūⁿ-khì, in-ūi Góa beh chiong in kau tī lí ê chhiú."
+    }, 
+    "11": {
+      "mp3": "13/13_014_11.mp3", 
+      "text": " In chiūⁿ-lâi Pa-le̍k-pí-la̍h-sim, Tāi-pi̍t tī-hia phah in; Tāi-pi̍t kóng, Siōng-tè ēng góa ê chhiú chhiong-sòaⁿ góa ê tùi-te̍k, chhin-chhiūⁿ chúi chhiong-sòaⁿ chi̍t-iūⁿ; in-ūi án-ni kiò hit só͘-chāi chòe Pa-le̍k-pí-la̍h-sim."
+    }, 
+    "12": {
+      "mp3": "13/13_014_12.mp3", 
+      "text": " Hui-lī-sū lâng pàng-hē in ê siōng-tè tī-hia; Tāi-pi̍t bēng-lēng lâng ēng hé sio i."
+    }, 
+    "13": {
+      "mp3": "13/13_014_13.mp3", 
+      "text": " Hui-lī-sū lâng koh pâi-lia̍t tī soaⁿ-kok;"
+    }, 
+    "14": {
+      "mp3": "13/13_014_14.mp3", 
+      "text": " Tāi-pi̍t koh mn̄g Siōng-tè, Siōng-tè kā i kóng, M̄-thang chiūⁿ-khì tui-jip; tio̍h siám tùi piⁿ-á;  tī sng-châi-chhiū ê tùi-bīn lâi kong-kek in."
+    }, 
+    "15": {
+      "mp3": "13/13_014_15.mp3", 
+      "text": " Lí thiaⁿ-kìⁿ sng-châi chhiū-bé ū kha-pō͘ ê siaⁿ, chiū tio̍h chhut-khì kau-chiàn; in-ūi Siōng-tè chòe lí ê thâu-chêng chhut-khì beh phah Hui-lī-sū lâng."
+    }, 
+    "16": {
+      "mp3": "13/13_014_16.mp3", 
+      "text": " Tāi-pi̍t chiū chun-thàn Siōng-tè só͘ hoan-hù; in phah Hui-lī-sū lâng ê kun-tūi, tùi Ki-piàn kàu Ki-sek."
+    }, 
+    "17": {
+      "mp3": "13/13_014_17.mp3", 
+      "text": " Tāi-pi̍t ê miâ-siaⁿ chiū pò-iông ta̍k só͘-chāi; Iâ-hô-hoa hō͘ lia̍t-kok lóng kiaⁿ i."
+    }
+  }, 
+  "15": {
+    "1": {
+      "mp3": "13/13_015_01.mp3", 
+      "text": " Tāi-pi̍t chiū ūi ka-kī khí kúi-nā keng chhù tī Tāi-pi̍t ê siâⁿ; koh ūi Siōng-tè ê iok-kūi pī-pān chi̍t só͘-chāi kā i tah pò͘-pîⁿ."
+    }, 
+    "2": {
+      "mp3": "13/13_015_02.mp3", 
+      "text": " Hit-sî Tāi-pi̍t kóng, Tû--khì Lī-bī lâng í-gōa, bô lâng thang kng Siōng-tè ê iok-kūi, in-ūi Iâ-hô-hoa kéng in kng Siōng-tè ê iok-kūi, koh ho̍k-sāi I ti̍t-kàu éng-oán."
+    }, 
+    "3": {
+      "mp3": "13/13_015_03.mp3", 
+      "text": " Tāi-pi̍t chū-chi̍p Í-sek-lia̍t chèng-lâng kàu Iâ-lō͘-sat-léng, ài chiong Iâ-hô-hoa ê iok-kūi kng kàu i só͘ kā i pī-pān ê só͘-chāi."
+    }, 
+    "4": {
+      "mp3": "13/13_015_04.mp3", 
+      "text": " Tāi-pi̍t koh chū-chi̍p A-lûn ê kiáⁿ-sun kap Lī-bī lâng."
+    }, 
+    "5": {
+      "mp3": "13/13_015_05.mp3", 
+      "text": " Ko-hat ê kiáⁿ-sun tiong ū thâu-lâng, O͘-lia̍t, kap i ê hiaⁿ-tī chi̍t-pah jī-cha̍p lâng."
+    }, 
+    "6": {
+      "mp3": "13/13_015_06.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ-sun tiong ū thâu-lâng A-sòe-ngá, kap i ê hiaⁿ-tī nńg-pah jī-cha̍p lâng."
+    }, 
+    "7": {
+      "mp3": "13/13_015_07.mp3", 
+      "text": " Kek-sūn ê kiáⁿ-sun tiong ū thâu-lâng Iok-jíⁿ, kap i ê hiaⁿ-tī chi̍t-pah saⁿ-cha̍p lâng."
+    }, 
+    "8": {
+      "mp3": "13/13_015_08.mp3", 
+      "text": " Í-lī-sat-hoán ê kiáⁿ-sun tiong ū thâu-lâng Sī-má-ngá, kap i ê hiaⁿ-tī nn̄g-pah lâng."
+    }, 
+    "9": {
+      "mp3": "13/13_015_09.mp3", 
+      "text": " Hi-pek-lûn kiáⁿ-sun tiong ū thâu-lâng Í-lia̍t, kap i ê hiaⁿ-tī poeh-cha̍p lâng."
+    }, 
+    "10": {
+      "mp3": "13/13_015_10.mp3", 
+      "text": " O͘-siat ê kiáⁿ-sun tiong, ū thâu-lâng A-bí-ná-ta̍t, kap i ê hiaⁿ-tī chi̍t-pah cha̍p-jī lâng."
+    }, 
+    "11": {
+      "mp3": "13/13_015_11.mp3", 
+      "text": " Tāi-pi̍t tiàu chè-si Sat-tok kap A-pí-a-tha, í-ki̍p Lī-bī lâng O͘-lia̍t, A-sòe-ngá, Iok-jíⁿ, Sī-má-ngá, Í-lia̍t, A-bí-ná-ta̍t chiah ê lâng lâi."
+    }, 
+    "12": {
+      "mp3": "13/13_015_12.mp3", 
+      "text": " Tùi in kóng, Lín sī Lī-bī lâng ê cho̍k-tiúⁿ, lín kap lín ê hiaⁿ-tī tio̍h ka-kī chheng-khì, chiah thang chiong Iâ-hô-hoa Í-sek-lia̍t Siōng-tè ê iok-kūi, kng kàu góa só͘ kā i pī-pān ê só͘-chāi."
+    }, 
+    "13": {
+      "mp3": "13/13_015_13.mp3", 
+      "text": " In-ūi lín chiông-chêng bô án-ni chòe, lán ê Siōng-tè Iâ-hô-hoa í-keng chek-hoa̍t lán, in-ūi lán bô chiàu tiāⁿ-tio̍h ê lē chhē I."
+    }, 
+    "14": {
+      "mp3": "13/13_015_14.mp3", 
+      "text": " Tùi án-ni chè-si kap Lī-bī lâng chheng-khì ka-kī, beh chiong Í-sek-lia̍t ê Siōng-tè Iâ-hô-hoa ê iok-kūi kng chiūⁿ--lâi."
+    }, 
+    "15": {
+      "mp3": "13/13_015_15.mp3", 
+      "text": " Lī-bī ê kiáⁿ-sun chiū ēng kǹg kng Siōng-tè ê iok-kūi tī keng-thâu-téng, chiàu Mô͘-se thàn Iâ-hô-hoa ê ōe só͘ bēng-lēng--ê."
+    }, 
+    "16": {
+      "mp3": "13/13_015_16.mp3", 
+      "text": " Tāi-pi̍t kah Lī-bī ê cho̍k-tiúⁿ, hun-phài in chhiùⁿ-koa ê hiaⁿ-tī chok-ga̍k, ēng sek kap khîm kap nâ-poa̍h, hoaⁿ-hí chhut-siaⁿ lâi chhiùⁿ."
+    }, 
+    "17": {
+      "mp3": "13/13_015_17.mp3", 
+      "text": " Tùi án-ni, Lī-bī lâng hun-phài Iok-jíⁿ ê kiáⁿ Hi-bān, kap i hiaⁿ-tī tiong Pí-lī-ka ê kiáⁿ A-sat, kap in tâng-cho̍k ê hiaⁿ-tī Bí-la̍h-lī ê kiáⁿ-sun tiong Kó͘-sa-ngá ê kiáⁿ Í-thàm."
+    }, 
+    "18": {
+      "mp3": "13/13_015_18.mp3", 
+      "text": " Koh ū tē-jī pan ê hiaⁿ-tī Sat-ka-lī-ngá, Piān, Ngá-siat, Sī-bí-la̍h-boa̍t, Iâ-iat, O͘-nî, Í-lī-ap, Pí-ná-ngá, Má-se-ngá, Má-tha-thê-ngá, Í-lī-hui-lī-hō͘, Bî-khek-nî-ngá, kap kò͘-mn̂g ê Gô-pia̍t-í-tong kap Iâ-lī."
+    }, 
+    "19": {
+      "mp3": "13/13_015_19.mp3", 
+      "text": " Án-ni phài chhiùⁿ-koa ê Hi-bān, A-sat, Í-thàm, phah nâ-poa̍h chhut tōa-siaⁿ."
+    }, 
+    "20": {
+      "mp3": "13/13_015_20.mp3", 
+      "text": " Phài Sat-ka-lī-ngá, Ngá-siat, Sī-bí-la̍h-boa̍t, Iâ-iat, O͘-nî, Í-lī-ap, Má-se-ngá, Pí-ná-ngá, tôaⁿ-sek, i ê siaⁿ-im chheng-liāng."
+    }, 
+    "21": {
+      "mp3": "13/13_015_21.mp3", 
+      "text": " Koh phài Má-tha-thê-ngá, Í-lī-hui-lī-hō͘, Bî-khek-nî-ngá, Gô-pia̍t-í-tong, Iâ-lī, A-sat-se-ngá, chòe-thâu tôaⁿ-khîm, tiāu ēng tē-poeh."
+    }, 
+    "22": {
+      "mp3": "13/13_015_22.mp3", 
+      "text": " Lī-bī lâng ê thâu-lâng Ki-ná-nî-ngá sī koán-lí chhiùⁿ-koa;  koh kà lâng chhiùⁿ-koa, in-ūi i cheng-thong chit-ê."
+    }, 
+    "23": {
+      "mp3": "13/13_015_23.mp3", 
+      "text": " Pí-lī-ka, Í-lī-ka-ná, sī iok-kūi chêng kò͘-mn̂g--ê."
+    }, 
+    "24": {
+      "mp3": "13/13_015_24.mp3", 
+      "text": " Chè-si Si-pa-nî, Iok-sa-hoat, Ná-tàn-gia̍p, A-má-sài, Sat-ka-lī-ngá, Pí-ná-a, I-lī-í-siā, tī Siōng-tè ê iok-kūi chêng pûn hō-thâu; Gô-pia̍t-í-tong kap Iâ-hi-a iā sī iok-kūi chêng kò͘-mn̂g--ê."
+    }, 
+    "25": {
+      "mp3": "13/13_015_25.mp3", 
+      "text": " Tùi án-ni Tāi-pi̍t kap Í-sek-lia̍t ê tiúⁿ-ló kap chhian-chóng, lóng khì Gô-pia̍t-í-tong ê ke, hoaⁿ-hí kng Iâ-hô-hoa ê iok-kūi tùi hia chiūⁿ-lâi."
+    }, 
+    "26": {
+      "mp3": "13/13_015_26.mp3", 
+      "text": " Siōng-tè pang-chān kng Iâ-hô-hoa iok-kūi ê Lī-bī lâng, in chiū hiàn kang ê gû chhit-chiah, kang ê iûⁿ chhit-chiah."
+    }, 
+    "27": {
+      "mp3": "13/13_015_27.mp3", 
+      "text": " Tāi-pi̍t chhēng iù-tōe-pò͘ ê tn̂g-saⁿ; kng iok-kūi ê Lī-bī lâng, kap chhiùⁿ-koa ê, í-ki̍p koán-lí chhiùⁿ-koa ê Ki-ná-nî-ngá, liân chhiùⁿ-koa ê lâng lóng sī án-ni; Tāi-pi̍t koh chhēng iù-tōe-pò͘ ê í-hut-tek."
+    }, 
+    "28": {
+      "mp3": "13/13_015_28.mp3", 
+      "text": " Án-ni Í-sek-lia̍t chèng-lâng chhut tōa-siaⁿ, pûn sàu-kak, pûn hō-thâu, phah nâ-poa̍h, tôaⁿ-khîm kap sek, kng Iâ-hô-hoa ê iok-kūi chiūⁿ--lâi."
+    }, 
+    "29": {
+      "mp3": "13/13_015_29.mp3", 
+      "text": " Iâ-hô-hoa ê iok-kūi kàu Tāi-pi̍t siâⁿ ê sî, Sò-lô ê cha-bó͘-kiáⁿ Bí-kah tùi thang-á-lāi teh-khòaⁿ, khòaⁿ-kìⁿ Tāi-pi̍t ông tiô-thiàu thiàu-bú; sim-lāi chiū khòaⁿ-khin i."
+    }
+  }, 
+  "16": {
+    "1": {
+      "mp3": "13/13_016_01.mp3", 
+      "text": " In kng Siōng-tè ê iok-kūi, hē tī Tāi-pi̍t só͘ kā i tah ê pò͘-pîⁿ-lāi;  iā hiàn sio-chè kap pêng-an-chè tī Siōng-tè ê bīn-chêng."
+    }, 
+    "2": {
+      "mp3": "13/13_016_02.mp3", 
+      "text": " Tāi-pi̍t hiàn sio-chè kap pêng-an-chè bêng-pe̍k, chiū ēng Iâ-hô-hoa ê miâ kā peh-sìⁿ chiok-hok."
+    }, 
+    "3": {
+      "mp3": "13/13_016_03.mp3", 
+      "text": " Koh pun hō͘ Í-sek-lia̍t ê chèng-lâng, bô-lūn lâm-lú, ta̍k-lâng hō͘ in chi̍t ê piáⁿ, chi̍t tè bah, chi̍t ê phû-tô-piáⁿ."
+    }, 
+    "4": {
+      "mp3": "13/13_016_04.mp3", 
+      "text": " Tāi-pi̍t phài kúi-nā ê Lī-bī lâng tī Iâ-hô-hoa ê iok-kūi chêng ho̍k-sāi, lâi kì-liām chheng-siā o-ló Iâ-hô-hoa Í-sek-lia̍t ê Siōng-tè."
+    }, 
+    "5": {
+      "mp3": "13/13_016_05.mp3", 
+      "text": " Chòe-thâu-ê sī A-sat, tē-jī-ê sī Sat-ka-lī-ngá, koh ū Ngá-siat, Sī-bí-la̍h-boa̍t, Iâ-iat, Má-tha-thê-ngá, Í-lī-ap, Pí-ná-ngá, Gô-pia̍t-í-tong, Iâ-lī, tôaⁿ-sek tôaⁿ-khîm; chí-ū A-sat phah tōa-siaⁿ ê nâ-poa̍h."
+    }, 
+    "6": {
+      "mp3": "13/13_016_06.mp3", 
+      "text": " Chè-si Pí-ná-ngá kap Ngá-khap-sek siông-siông tī Siōng-tè ê iok-kūi chêng pûn hō-thâu."
+    }, 
+    "7": {
+      "mp3": "13/13_016_07.mp3", 
+      "text": " Hit-ji̍t Tāi-pi̍t khí-thâu tiāⁿ-tio̍h ēng A-sat kap i ê hiaⁿ-tī kám-siā Iâ-hô-hoa."
+    }, 
+    "8": {
+      "mp3": "13/13_016_08.mp3", 
+      "text": " Lín tio̍h kám-siā Iâ-hô-hoa, kiû-kiò I ê miâ;  Tī bān peh-sìⁿ ê tiong-kan pò-iông I ê só͘-chòe."
+    }, 
+    "9": {
+      "mp3": "13/13_016_09.mp3", 
+      "text": " Tio̍h ǹg I gîm-si, ǹg I chhiùⁿ-koa o-ló,  Tâm-lūn I it-chhè kî-biāu ê só͘-kiâⁿ."
+    }, 
+    "10": {
+      "mp3": "13/13_016_10.mp3", 
+      "text": " Tio̍h in-ūi I sèng-miâ lâi khoa-kháu;  Chhē Iâ-hô-hoa ê lâng, sim-lāi tio̍h hoaⁿ-hí."
+    }, 
+    "11": {
+      "mp3": "13/13_016_11.mp3", 
+      "text": " Tio̍h chhē Iâ-hô-hoa kap I ê koân-lêng;  Siông-siông chhē kìⁿ I ê bīn."
+    }, 
+    "12": {
+      "mp3": "13/13_016_12.mp3", 
+      "text": ""
+    }, 
+    "13": {
+      "mp3": "13/13_016_13.mp3", 
+      "text": " I ê lô͘-po̍k Í-sek-lia̍t ê hō͘-è,  I só͘ kéng Ngá-kok ê kiáⁿ-sun ah,  Lín tio̍h siàu-liām I só͘ chòe kî-biāu ê sū,  Kap I ê sîn-jiah, kap I ê chhùi phòaⁿ-toàn ê ōe."
+    }, 
+    "14": {
+      "mp3": "13/13_016_14.mp3", 
+      "text": " I sī Iâ-hô-hoa, lán ê Siōng-tè,  Choân-tōe lóng ū I ê phòaⁿ-toàn."
+    }, 
+    "15": {
+      "mp3": "13/13_016_15.mp3", 
+      "text": " Tio̍h kì-liām I ê iok ti̍t-kàu éng-oán,  I só͘ hoan-hù ê ōe ti̍t-kàu bān-tāi;"
+    }, 
+    "16": {
+      "mp3": "13/13_016_16.mp3", 
+      "text": " Chiū-sī kap A-pek-la̍h-hán só͘ li̍p ê iok,  Tùi Í-sat só͘ chiù ê chōa;"
+    }, 
+    "17": {
+      "mp3": "13/13_016_17.mp3", 
+      "text": " I koh chiong chit ê iok tùi Ngá-kok tiāⁿ-tio̍h chòe lu̍t-lē,  Tùi Í-sek-lia̍t tiāⁿ-tio̍h chòe éng-oán ê iok,"
+    }, 
+    "18": {
+      "mp3": "13/13_016_18.mp3", 
+      "text": " Kóng, Góa beh chiong Ka-lâm tōe siúⁿ-sù lí,  Chòe lín sán-gia̍p ê hūn-gia̍h."
+    }, 
+    "19": {
+      "mp3": "13/13_016_19.mp3", 
+      "text": " Tng-sî lín ê jîn-teng iú-hān;  Siàu-gia̍h chió-chió, koh tī-hia chòe chhut-gōa;"
+    }, 
+    "20": {
+      "mp3": "13/13_016_20.mp3", 
+      "text": " In tùi chit-cho̍k kiâⁿ kàu hit-cho̍k,  Tùi chit-kok kàu pa̍t ê peh-sìⁿ."
+    }, 
+    "21": {
+      "mp3": "13/13_016_21.mp3", 
+      "text": " I bô iông-ún sím-mi̍h lâng khi-hū in;  Ūi-tio̍h in ê iân-kò͘ khiàn-chek kun-ông;"
+    }, 
+    "22": {
+      "mp3": "13/13_016_22.mp3", 
+      "text": " Kóng, M̄-thang bong-tio̍h Góa siū-boah-iû-ê,  Iā m̄-thang pháiⁿ khoán-thāi Góa ê sian-ti."
+    }, 
+    "23": {
+      "mp3": "13/13_016_23.mp3", 
+      "text": " Choân-tōe lóng tio̍h ǹg Iâ-hô-hoa chhiùⁿ-koa,  Ji̍t-ji̍t thoân-pò I ê kiù-un."
+    }, 
+    "24": {
+      "mp3": "13/13_016_24.mp3", 
+      "text": " Tī lia̍t-pang ê tiong-kan kóng-khí I ê êng-kng,  Tī bān peh-sìⁿ ê tiong-kan kóng-khí I kî-biāu ê só͘-chòe."
+    }, 
+    "25": {
+      "mp3": "13/13_016_25.mp3", 
+      "text": " In-ūi Iâ-hô-hoa chòe tōa, eng-kai siū ke̍k-tōa ê o-ló;  I tī chèng siōng-tè ê téng-bīn eng-kai siū kèng-ùi."
+    }, 
+    "26": {
+      "mp3": "13/13_016_26.mp3", 
+      "text": " In-ūi lia̍t-pang ê siōng-tè lóng sī hu-ké,  To̍k-to̍k Iâ-hô-hoa chhòng-chō chiah ê thiⁿ."
+    }, 
+    "27": {
+      "mp3": "13/13_016_27.mp3", 
+      "text": " Tī I ê bīn-chêng ū chun-kùi kap ui-giâm;  Tī I ê só͘-chāi ū koân-lêng kap hoaⁿ-hí."
+    }, 
+    "28": {
+      "mp3": "13/13_016_28.mp3", 
+      "text": " Peh-sìⁿ-tiong ê ta̍k-cho̍k ah, lín tio̍h chiong koân-lêng êng-kng,  Kui hō͘ Iâ-hô-hoa, kui hō͘ Iâ-hô-hoa."
+    }, 
+    "29": {
+      "mp3": "13/13_016_29.mp3", 
+      "text": " Ēng I ê miâⁿ só͘ eng-kai tit-tio̍h ê êng-kng kui hō͘ Iâ-hô-hoa;  Tòa lé-mi̍h lâi kàu I ê bīn-chêng;  Tio̍h ēng sèng-kiat ê chng-thāⁿ kèng-pài Iâ-hô-hoa."
+    }, 
+    "30": {
+      "mp3": "13/13_016_30.mp3", 
+      "text": " Choân-tōe tī I ê bīn-chêng ngia̍uh-ngia̍uh-chhoah;  Sè-kài kian-kò͘ bōe iô-tāng."
+    }, 
+    "31": {
+      "mp3": "13/13_016_31.mp3", 
+      "text": " Goān thiⁿ hoaⁿ-hí, tōe khoài-lo̍k;  Tī lia̍t-pang-tiong tio̍h kóng, Iâ-hô-hoa chòe-ông."
+    }, 
+    "32": {
+      "mp3": "13/13_016_32.mp3", 
+      "text": " Goān hái kap kî-tiong só͘ chhiong-móa--ê lóng chhut tōa-siaⁿ;  Goān chhân-hn̂g kap kî-tiong só͘-ū-ê lóng khoài-lo̍k;"
+    }, 
+    "33": {
+      "mp3": "13/13_016_33.mp3", 
+      "text": " Hit-sî chhiū-nâ-lāi ê chhiū-ba̍k beh tī Iâ-hô-hoa ê bīn-chêng chhut hoaⁿ-hí ê siaⁿ,  In-ūi I lâi beh sím-phòaⁿ choân-tōe."
+    }, 
+    "34": {
+      "mp3": "13/13_016_34.mp3", 
+      "text": " Lín tio̍h kám-siā Iâ-hô-hoa; in-ūi I sī hó;  I ê chû-ài éng-oán tī-teh."
+    }, 
+    "35": {
+      "mp3": "13/13_016_35.mp3", 
+      "text": " Tio̍h kóng, Chín-kiù goán ê Siōng-tè, kiû Lí kiù goán,  Chū-chi̍p goán, kiù goán thoat-lī lia̍t-pang lâng,  Thang hō͘ goán chiok-siā Lí ê sèng-miâ,  Lia̍h Lí ê siū o-ló chòe tāi-ia̍t."
+    }, 
+    "36": {
+      "mp3": "13/13_016_36.mp3", 
+      "text": " Tio̍h o-ló Iâ-hô-hoa, Í-sek-lia̍t ê Siōng-tè;  Tùi éng-oán kàu éng-oán.\tChèng peh-sìⁿ lóng kóng, A-bēng, koh o-ló Iâ-hô-hoa."
+    }, 
+    "37": {
+      "mp3": "13/13_016_37.mp3", 
+      "text": " Tāi-pi̍t lâu A-sat kap i ê hiaⁿ-tī tī Iâ-hô-hoa ê iok-kūi chêng, siông-siông ho̍k-sāi tī iok-kūi chêng, chiàu ta̍k-ji̍t ê kang só͘ tio̍h chòe--ê."
+    }, 
+    "38": {
+      "mp3": "13/13_016_38.mp3", 
+      "text": " Koh lâu Gô-pia̍t-í-tong kap in ê hiaⁿ-tī la̍k-cha̍p-poeh lâng, í-ki̍p Iâ-tō͘-tùn ê kiáⁿ Gô-pia̍t-í-tong kap Hô-sat chòe kò͘-mn̂g--ê."
+    }, 
+    "39": {
+      "mp3": "13/13_016_39.mp3", 
+      "text": " Iā lâu chè-si Sat-tok kap i ê hiaⁿ-tī chèng chè-si, tī Ki-piàn koâiⁿ ê só͘-chāi, Iâ-hô-hoa ê hōe-bō͘ chêng;"
+    }, 
+    "40": {
+      "mp3": "13/13_016_40.mp3", 
+      "text": " thang tī sio-chè ê tôaⁿ téng, ta̍k-ji̍t chá-àm hiàn sio-chè hō͘ Iâ-hô-hoa, chiàu Iâ-hô-hoa bēng-lēng Í-sek-lia̍t lâng ê lu̍t-hoat it-chhè só͘ kì-chài--ê."
+    }, 
+    "41": {
+      "mp3": "13/13_016_41.mp3", 
+      "text": " Kap in chòe-tīn ê, ū Hi-bān, Iâ-tō͘-tùn, kap kî-û siū kéng-soán kì-miâ--ê, thang kám-siā Iâ-hô-hoa, in-ūi I ê chû-ài éng-oán tī-teh."
+    }, 
+    "42": {
+      "mp3": "13/13_016_42.mp3", 
+      "text": " Kap in chòe-tīn-ê ū Hi-bān, Iâ-tō͘-tùn, sī ēng hō-thâu kap nâ-poa̍h, í-ki̍p Siōng-tè ê ga̍k-khì, lâi hō͘ hiah ê chhiùⁿ-koa--ê; Iâ-tō͘-tùn ê kiáⁿ-sun sī chòe kò͘-mn̂g--ê."
+    }, 
+    "43": {
+      "mp3": "13/13_016_43.mp3", 
+      "text": " Tùi án-ni chèng peh-sìⁿ ta̍k-lâng tò-khì in ê ke;  Tāi-pi̍t iā tò-khì, kā i ê ke chiok-hok."
+    }
+  }, 
+  "17": {
+    "1": {
+      "mp3": "13/13_017_01.mp3", 
+      "text": " Tāi-pi̍t tiàm tī i ê kiong-lāi; Tāi-pi̍t tùi sian-ti Ná-tan kóng, Khòaⁿ ah, góa tiàm tī pek-hiuⁿ-chhâ ê kiong-lāi, chóng-sī Iâ-hô-hoa ê iok-kūi tī tiùⁿ-pâng lāi."
+    }, 
+    "2": {
+      "mp3": "13/13_017_02.mp3", 
+      "text": " Ná-tan kā Tāi-pi̍t kóng, Kìⁿ-nā tī lí sim-lāi só͘ siūⁿ--ê, thang kiâⁿ i, in-ūi Siōng-tè kap lí tī-teh."
+    }, 
+    "3": {
+      "mp3": "13/13_017_03.mp3", 
+      "text": " Hit-mî Siōng-tè ê ōe lîm-kàu Ná-tan kóng,"
+    }, 
+    "4": {
+      "mp3": "13/13_017_04.mp3", 
+      "text": " Lí khì kā Góa ê lô͘-po̍k Tāi-pi̍t kóng, Iâ-hô-hoa án-ni kóng, Lí bōe-tit-thang khí chhù hō͘ Góa tiàm."
+    }, 
+    "5": {
+      "mp3": "13/13_017_05.mp3", 
+      "text": " In-ūi tùi Góa chhōa Í-sek-lia̍t chiūⁿ-lâi ê ji̍t kàu kin-á-ji̍t, Góa bē-bat khiā-khí chhù-lāi, sī tùi chit ê pò͘-pîⁿ kàu hit ê pò͘-pîⁿ, tùi chit ê tiùⁿ-pâng kàu hit ê tiùⁿ-pâng."
+    }, 
+    "6": {
+      "mp3": "13/13_017_06.mp3", 
+      "text": " Kìⁿ-nā Góa kap Í-sek-lia̍t lâng só͘ kàu ê só͘-chāi, tī Góa só͘ hoan-hù chiàu-kò͘ Góa ê peh-sìⁿ Í-sek-lia̍t ê sū-su tiong, Góa kiám bat tùi in chi̍t-lâng kóng, Lí siáⁿ-sū bô kā Góa khí pek-hiuⁿ-chhâ ê chhù ah?"
+    }, 
+    "7": {
+      "mp3": "13/13_017_07.mp3", 
+      "text": " Taⁿ lí tio̍h khì kā Góa ê lô͘-po̍k Tāi-pi̍t kóng, Bān-kun ê Iâ-hô-hoa án-ni kóng, Góa bat tī iûⁿ-tiâu, tùi lí teh kò͘-iûⁿ lâi tiàu lí, chòe Góa ê peh-sìⁿ Í-sek-lia̍t ê jîn-kun."
+    }, 
+    "8": {
+      "mp3": "13/13_017_08.mp3", 
+      "text": " Kìⁿ-nā lí só͘ bat khì ê só͘-chāi, Góa siông-siông kap lí tī-teh, tī lí ê bīn-chêng châu-bia̍t lí lóng-chóng ê tùi-te̍k; Góa beh hō͘ lí tōa chhut-miâ, chhin-chhiūⁿ tōe-chiūⁿ chiah ê úi-jîn ê miâ-siaⁿ."
+    }, 
+    "9": {
+      "mp3": "13/13_017_09.mp3", 
+      "text": " Koh Góa beh kā Góa ê peh-sìⁿ Í-sek-lia̍t tiāⁿ-tio̍h chi̍t ê só͘-chāi, lâi chai-pôe in, hō͘ in khiā-khí ka-kī ê só͘-chāi, bô koh chhian-sóa; hiong-ok ê lâng iā bô chhin-chhiūⁿ khí-thâu hām-hāi in;"
+    }, 
+    "10": {
+      "mp3": "13/13_017_10.mp3", 
+      "text": " ia̍h bô chhin-chhiūⁿ Góa bēng-lēng sū-su tī-lí Góa ê peh-sìⁿ Í-sek-lia̍t ê sî chi̍t-iūⁿ;  Góa beh hō͘ lí ê tùi-te̍k lóng hâng-ho̍k.  Koh góa kā lí kóng, Iâ-hô-hoa beh kā lí kiàn-li̍p chi̍t ê ke."
+    }, 
+    "11": {
+      "mp3": "13/13_017_11.mp3", 
+      "text": " Kàu lí ê ji̍t-chí móa-chiok, tò-khì lí ê lia̍t-chó͘ hia, Góa beh hō͘ lí ê hō͘-è sòa-chiap lí ê ūi; Góa iā beh kian-kò͘ i ê kok-ūi."
+    }, 
+    "12": {
+      "mp3": "13/13_017_12.mp3", 
+      "text": " I beh kā Góa khí chhù;  Góa beh kian-kò͘ i ê chō-ūi kàu éng-oán."
+    }, 
+    "13": {
+      "mp3": "13/13_017_13.mp3", 
+      "text": " Góa beh chòe i ê Pē, i beh chòe Góa ê kiáⁿ; Góa bô beh hō͘ Góa ê chû-ài lī-khui i, chhin-chhiūⁿ Góa chêng hō͘ i lī-khui hit ê lí í-chiūⁿ ê ông."
+    }, 
+    "14": {
+      "mp3": "13/13_017_14.mp3", 
+      "text": " Góa iā beh éng-oán kian-kò͘ i tī Góa ê ke, tī Góa ê kok; i ê chō-ūi iā beh kian-kò͘ kàu éng-oán."
+    }, 
+    "15": {
+      "mp3": "13/13_017_15.mp3", 
+      "text": " Ná-tan chiū chiàu chiah ê ōe, chiah ê be̍k-sī, khì kā Tāi-pi̍t kóng."
+    }, 
+    "16": {
+      "mp3": "13/13_017_16.mp3", 
+      "text": " Tāi-pi̍t ông chiū ji̍p-khì, chē tī Iâ-hô-hoa ê bīn-chêng, kóng, Iâ-hô-hoa Siōng-tè ah, góa sī sím-mi̍h lâng, góa sī sím-mi̍h hō ê ke, Lí chiah chhōa góa kàu chit ê tē-pō͘ ah?"
+    }, 
+    "17": {
+      "mp3": "13/13_017_17.mp3", 
+      "text": " Siōng-tè ah, Lí khòaⁿ chit-ê, iáu lia̍h-chòe sió-khóa, in-ūi Lí koh lūn-kàu Lí ê lô͘-po̍k ê ke kàu tī kú-tn̂g;  Iâ-hô-hoa Siōng-tè ah, Lí khoán-thāi góa chhin-chhiūⁿ chun-kùi ê lâng ê tē-ūi."
+    }, 
+    "18": {
+      "mp3": "13/13_017_18.mp3", 
+      "text": " Tāi-pi̍t iáu ū sím-mi̍h ōe thang tùi Lí kóng kàu Lí ê lô͘-po̍k só͘ tit-tio̍h ê chun-kùi?  in-ūi Lí chai Lí ê lô͘-po̍k."
+    }, 
+    "19": {
+      "mp3": "13/13_017_19.mp3", 
+      "text": " Iâ-hô-hoa ah, in-ūi Lí ê lô͘-po̍k ê iân-kò͘, koh chiàu Lí ê sim-ì, Lí ū kiâⁿ chit ê tōa-sū, koh hián-chhut chiah ê tōa-sū."
+    }, 
+    "20": {
+      "mp3": "13/13_017_20.mp3", 
+      "text": " Iâ-hô-hoa ah, chiàu goán ê hī-khang só͘ thiaⁿ-kìⁿ--ê, bô chi̍t-ê chhin-chhiūⁿ Lí, Lí í-gōa bô pa̍t ê Siōng-tè."
+    }, 
+    "21": {
+      "mp3": "13/13_017_21.mp3", 
+      "text": " Tōe-chiūⁿ ū toh-lo̍h chi̍t-kok chhin-chhiūⁿ Lí ê peh-sìⁿ Í-sek-lia̍t, chiū-sī Siōng-tè chá-ji̍t khì kiù-sio̍k i chòe ka-kī ê peh-sìⁿ, hō͘ Lí tùi ke̍k-tōa koh thang kiaⁿ ê sū tit-tio̍h miâ, in-ūi kóaⁿ-tio̍k lia̍t-kok lī-khui Lí ê peh-sìⁿ, chiū-sī Lí só͘ kiù-sio̍k chhut Ai-ki̍p--ê, ê bīn-chêng."
+    }, 
+    "22": {
+      "mp3": "13/13_017_22.mp3", 
+      "text": " In-ūi Lí hō͘ Lí ê peh-sìⁿ Í-sek-lia̍t chòe Lí ê peh-sìⁿ, ti̍t-kàu éng-oán; Iâ-hô-hoa ah, Lí iā chòe in ê Siōng-tè."
+    }, 
+    "23": {
+      "mp3": "13/13_017_23.mp3", 
+      "text": " Iâ-hô-hoa ah, taⁿ Lí só͘ lūn-kàu Lí ê lô͘-po̍k kap i ê ke ê ōe, goān i kian-kò͘ kàu éng-oán; kiû Lí chiàu Lí só͘ kóng lâi kiâⁿ."
+    }, 
+    "24": {
+      "mp3": "13/13_017_24.mp3", 
+      "text": " Goān Lí ê miâ éng-oán kian-kò͘, siū chun chòe-tōa, kóng, Bān-kun ê Iâ-hô-hoa sī Í-sek-lia̍t ê Siōng-tè, sī chòe Í-sek-lia̍t ê Siōng-tè; Lí ê lô͘-po̍k Tāi-pi̍t ê ke beh tī Lí ê bīn-chêng kian-kò͘."
+    }, 
+    "25": {
+      "mp3": "13/13_017_25.mp3", 
+      "text": " Góa ê Siōng-tè ah, in-ūi Lí ū khé-sī Lí ê lô͘-po̍k chai, Lí beh kā i kiàn-li̍p chi̍t ê ke, só͘-í Lí ê lô͘-po̍k hó-táⁿ tī Lí ê bīn-chêng kî-tó."
+    }, 
+    "26": {
+      "mp3": "13/13_017_26.mp3", 
+      "text": " Iâ-hô-hoa ah, chí-ū Lí sī Siōng-tè;  Lí ēng chit ê hok-khì èng-ún Lí ê lô͘-po̍k."
+    }, 
+    "27": {
+      "mp3": "13/13_017_27.mp3", 
+      "text": " Taⁿ Lí hoaⁿ-hí sù-hok Lí ê lô͘-po̍k ê ke, hō͘ i éng-oán tī Lí ê bīn-chêng.  Iâ-hô-hoa ah, in-ūi Lí í-keng sù-hok, tek-khak éng-oán tit-tio̍h hok-khì."
+    }
+  }, 
+  "18": {
+    "1": {
+      "mp3": "13/13_018_01.mp3", 
+      "text": " Chit-tia̍p liáu-āu Tāi-pi̍t phah Hui-lī-sū lâng, hō͘ in hâng-ho̍k; koh tùi Hui-lī-sū lâng ê chhiú chhú Ka-te̍k kap i ê hiuⁿ-lí."
+    }, 
+    "2": {
+      "mp3": "13/13_018_02.mp3", 
+      "text": " Koh phah Mô͘-ap, Mô͘-ap lâng chiū ho̍k-sāi Tāi-pi̍t, lâi chìn-kòng i."
+    }, 
+    "3": {
+      "mp3": "13/13_018_03.mp3", 
+      "text": " Só-pa ông Hap-tāi-lī-siā khì Pek-la̍h hô, beh kian-kò͘ i ê kok-koân, Tāi-pi̍t chiū phah i, ti̍t-kàu Hap-má."
+    }, 
+    "4": {
+      "mp3": "13/13_018_04.mp3", 
+      "text": " Tāi-pi̍t chhiúⁿ i ê chiàn-chhia chi̍t-chheng tiuⁿ, bé-peng chhit-chheng, pō͘-peng nn̄g-bān; thoa-chhia ê bé, Tāi-pi̍t chiū koah i tōa-thúi ê kun; kî-tiong chí-ū lâu chi̍t-pah tiuⁿ chhia ê bé."
+    }, 
+    "5": {
+      "mp3": "13/13_018_05.mp3", 
+      "text": " Tāi-má-sek ê A-lân lâng lâi pang-chān Só-pa ông Hap-tāi-lī-siā, Tāi-pi̍t chiū thâi A-lân lâng, nn̄g-bān nn̄g-chheng lâng."
+    }, 
+    "6": {
+      "mp3": "13/13_018_06.mp3", 
+      "text": " Tùi án-ni Tāi-pi̍t tī Tāi-má-sek ê A-lân tōe siat-li̍p hông-siú ê peng-iâⁿ; A-lân lâng chiū hâng-ho̍k Tāi-pi̍t lâi chìn-kòng i.  Tāi-pi̍t bô-lūn toh-lo̍h khì, Iâ-hô-hoa lóng hō͘ i tek-sèng."
+    }, 
+    "7": {
+      "mp3": "13/13_018_07.mp3", 
+      "text": " Tāi-pi̍t chhiúⁿ Hap-tāi-lī-siā chiah ê lô͘-po̍k kim ê pîn-pâi, tòa-kàu Iâ-lō͘-sat-léng."
+    }, 
+    "8": {
+      "mp3": "13/13_018_08.mp3", 
+      "text": " Tāi-pi̍t koh tùi Hap-tāi-lī-siā só͘ koán ê Thê-pa kap Kun nn̄g ê siâⁿ, chhiúⁿ chōe-chōe tâng, chiū-sī Só͘-lô-bûn só͘ ēng lâi chō tâng-hái kap thiāu, í-ki̍p chiah ê tâng-khì--ê."
+    }, 
+    "9": {
+      "mp3": "13/13_018_09.mp3", 
+      "text": " Hap-má ông To-o͘ thiaⁿ-kìⁿ Tāi-pi̍t phah-iâⁿ Hap-tāi-lī-siā ê choân-kun,"
+    }, 
+    "10": {
+      "mp3": "13/13_018_10.mp3", 
+      "text": " chiū chhe i ê kiáⁿ Hap-to-lân khì kìⁿ Tāi-pi̍t ông, kā i chhéng-an, iā kā i chiok-hok, in-ūi i ū kap Hap-tāi-lī-siā kau-chiàn lâi khah-iâⁿ i; pún-jiân Hap-tāi-lī-siā kap To-o͘ siông-siông ū kau-chiàn ê iân-kò͘. Hap-to-lân sòa tòa kim, gûn, tâng, chiah ê khì-kū."
+    }, 
+    "11": {
+      "mp3": "13/13_018_11.mp3", 
+      "text": " Tāi-pi̍t ông chiong chiah ê khì-kū, kap tùi ta̍k-kok tòa-lâi ê kim gûn, lóng hun-piat chòe-sèng hiàn-hō͘ Iâ-hô-hoa, chiū-sī i tùi Í-tong, Mô͘-ap, A-bûn cho̍k, Hui-lī-sū lâng, A-má-le̍k só͘ chhiúⁿ-lâi--ê."
+    }, 
+    "12": {
+      "mp3": "13/13_018_12.mp3", 
+      "text": " Sé-ló͘-ngá ê kiáⁿ A-pí-su tī Iâm ê soaⁿ-kok thâi Í-tong lâng chi̍t-bān poeh-chheng."
+    }, 
+    "13": {
+      "mp3": "13/13_018_13.mp3", 
+      "text": " I tī Í-tong tōe siat-li̍p hông-siú ê peng-iâⁿ; Í-tong lâng chiū lóng hâng-ho̍k Tāi-pi̍t.  Tāi-pi̍t bô-lūn toh-lo̍h khì, Iâ-hô-hoa lóng hō͘ i tek-sèng."
+    }, 
+    "14": {
+      "mp3": "13/13_018_14.mp3", 
+      "text": " Tāi-pi̍t chòe Í-sek-lia̍t choân-kok ê ông, koh tī chèng peh-sìⁿ ê tiong-kan péng-kong kiâⁿ-gī."
+    }, 
+    "15": {
+      "mp3": "13/13_018_15.mp3", 
+      "text": " Sé-ló͘-ngá ê kiáⁿ Iok-ap chòe goân-sòe, A-hi-lu̍t ê kiáⁿ Iok-sa-hoat chòe sú-koaⁿ."
+    }, 
+    "16": {
+      "mp3": "13/13_018_16.mp3", 
+      "text": " A-hi-tu̍t ê kiáⁿ Sat-tok, kap A-pí-a-tha ê kiáⁿ A-hi-bí-le̍k chòe chè-si; Sa-ui-sa chòe su-kì-koaⁿ."
+    }, 
+    "17": {
+      "mp3": "13/13_018_17.mp3", 
+      "text": " Iâ-hô-iâ-tāi ê kiáⁿ Pí-ná-ngá koán-hat Ki-lī-thê lâng kap Pí-lī-thê lâng.  Tāi-pi̍t ê chèng-kiáⁿ lóng tī ông ê sin-piⁿ chòe thâu-lâng."
+    }
+  }, 
+  "19": {
+    "1": {
+      "mp3": "13/13_019_01.mp3", 
+      "text": " Chit-tia̍p liáu-āu, A-bûn lâng ê ông Ná-hat sí, i ê kiáⁿ sòa-chiap i chòe-ông."
+    }, 
+    "2": {
+      "mp3": "13/13_019_02.mp3", 
+      "text": " Tāi-pi̍t kóng, Góa beh hó khoán-thāi Ná-hat ê kiáⁿ Hap-lùn, in-ūi i ê lāu-pē chiông-chêng hó khoán-thāi góa;  Tāi-pi̍t chiū chhe kúi-nā ê sù-chiá, ūi-tio̍h i sí lāu-pē khì an-ùi i.  Tāi-pi̍t ê jîn-sîn kàu A-bûn lâng ê tōe kìⁿ Hap-lùn beh an-ùi i."
+    }, 
+    "3": {
+      "mp3": "13/13_019_03.mp3", 
+      "text": " Chóng-sī A-bûn lâng ê kùi-cho̍k tùi Hap-lùn kóng, Tāi-pi̍t chhe lâng lâi an-ùi lí, phah-sǹg i sī chun-kèng lí ê lāu-pē mah? i ê jîn-sîn lâi kìⁿ lí, kiám m̄-sī beh siông-sè chhâ, húi-bia̍t, thàm-thiaⁿ chit ê tōe mah?"
+    }, 
+    "4": {
+      "mp3": "13/13_019_04.mp3", 
+      "text": " Hap-lùn chiū chiong Tāi-pi̍t ê jîn-sîn thì i ê chhùi-chhiu, chián-tn̄g i ê i-ho̍k ê chi̍t-pòaⁿ, lō͘-hiān i ê ē-thé, chiah hō͘ i khì."
+    }, 
+    "5": {
+      "mp3": "13/13_019_05.mp3", 
+      "text": " Ū lâng ēng chiah ê lâng só͘ tú-tio̍h--ê khì kā Tāi-pi̍t kóng; i chiū chhe lâng khì chih in, in-ūi hiah ê lâng chin kiàn-siàu; ông hoan-hù kóng, Tio̍h chhiáⁿ tiàm Iâ-lī-ko, thèng-hāu chhùi-chhiu hoat-tn̂g, chiah tò-lâi."
+    }, 
+    "6": {
+      "mp3": "13/13_019_06.mp3", 
+      "text": " A-bûn lâng chai tùi in ê só͘-chòe ū hō͘ Tāi-pi̍t iàm-ò͘ⁿ in; Hap-lùn kap A-bûn lâng, chiū kià gûn chi̍t-chheng tha-liân-tek, tùi Bí-só͘-phō-tāi-bí, A-lân-má-ka, Só-pa, chhiàⁿ chiàn-chhia kap bé-peng."
+    }, 
+    "7": {
+      "mp3": "13/13_019_07.mp3", 
+      "text": " Tùi án-ni chhiàⁿ saⁿ-bān nn̄g-chheng tiuⁿ ê chiàn-chhia, kap Má-ka ông í-ki̍p i ê peh-sìⁿ; in chiū lâi chat-iâⁿ tī Bí-tí-pa ê thâu-chêng; A-bûn lâng iā tùi in hiah ê siâⁿ chhut-lâi, chū-chi̍p beh kau-chiàn."
+    }, 
+    "8": {
+      "mp3": "13/13_019_08.mp3", 
+      "text": " Tāi-pi̍t thiaⁿ-kìⁿ, chiū chhe Iok-ap kap ióng-béng ê choân-kun chhut-khì."
+    }, 
+    "9": {
+      "mp3": "13/13_019_09.mp3", 
+      "text": " A-bûn lâng chhut-lâi, pâi-tīn tī siâⁿ-mn̂g chêng; só͘ lâi chiah ê ông lēng-gōa pâi-tīn tī kau-iá."
+    }, 
+    "10": {
+      "mp3": "13/13_019_10.mp3", 
+      "text": " Iok-ap khòaⁿ-kìⁿ tùi-te̍k tī i ê chêng-āu pâi-tīn, chiū tùi Í-sek-lia̍t kun-tiong kéng-soán cheng-peng, hō͘ in pâi-tīn lâi tùi A-lân lâng."
+    }, 
+    "11": {
+      "mp3": "13/13_019_11.mp3", 
+      "text": " Kî-û ê peng kau hō͘ i ê sió-tī A-pí-su, hō͘ i pâi-tīn tùi A-bûn lâng."
+    }, 
+    "12": {
+      "mp3": "13/13_019_12.mp3", 
+      "text": " Koh kóng, A-lân lâng nā khah-kiông góa, lí tio̍h lâi pang-chān góa; A-bûn lâng nā khah-kiông lí, góa chiū pang-chān lí."
+    }, 
+    "13": {
+      "mp3": "13/13_019_13.mp3", 
+      "text": " Tio̍h hó-táⁿ, lán tio̍h ūi lán ê peh-sìⁿ kap lán ê Siōng-tè chiah ê siâⁿ, chòe tāi-tiōng-hu;  goān Iâ-hô-hoa chiàu I só͘ khòaⁿ-chòe hó--ê lâi kiâⁿ."
+    }, 
+    "14": {
+      "mp3": "13/13_019_14.mp3", 
+      "text": " Iok-ap chiū kap tè i ê lâng chìn-chêng, pâi-tīn tī A-lân ê bīn-chêng; A-lân lâng chiū tī i ê bīn-chêng tô-cháu."
+    }, 
+    "15": {
+      "mp3": "13/13_019_15.mp3", 
+      "text": " A-bûn lâng khòaⁿ-kìⁿ A-lân lâng tô-cháu, in ia̍h tī Iok-ap ê sió-tī A-pí-su bīn-chêng tô-cháu ji̍p siâⁿ.  Iok-ap chiū tò-tńg khì Iâ-lō͘-sat-léng."
+    }, 
+    "16": {
+      "mp3": "13/13_019_16.mp3", 
+      "text": " A-lân lâng khòaⁿ-kìⁿ in thâi-su Í-sek-lia̍t lâng, chiū chhe sù-chiá chū-chi̍p Tōa-hô hit-pêng ê A-lân lâng; Hap-tāi-lī-siā ê chiong-kun Sok-hoat chhōa in lâi."
+    }, 
+    "17": {
+      "mp3": "13/13_019_17.mp3", 
+      "text": " Ū lâng thong-ti Tāi-pi̍t, i chiū chū-chi̍p Í-sek-lia̍t chèng-lâng, kè Iok-tàn hô, lâi kàu A-lân lâng hia, pâi-tīn tí-te̍k in; Tāi-pi̍t í-keng pâi-tīn kong-kek A-lân lâng, in chiū kap i kau-chiàn."
+    }, 
+    "18": {
+      "mp3": "13/13_019_18.mp3", 
+      "text": " A-lân lâng tī Í-sek-lia̍t lâng ê bīn-chêng tô-cháu; Tāi-pi̍t thâi A-lân lâng, chhit-chheng tiuⁿ chhia ê peng, koh pō͘-peng sì-bān; ia̍h thâi-sí chiong-kun Sok-hoat."
+    }, 
+    "19": {
+      "mp3": "13/13_019_19.mp3", 
+      "text": " Hap-tāi-lī-siā chiah ê jîn-sîn, khòaⁿ-kìⁿ in thâi-su Í-sek-lia̍t lâng, chiū kap Tāi-pi̍t káng-hô, lâi ho̍k-sāi i; tùi án-ni A-lân lâng bô koh pang-chān A-bûn lâng."
+    }
+  }, 
+  "20": {
+    "1": {
+      "mp3": "13/13_020_01.mp3", 
+      "text": " Nî-thâu lia̍t-ông chhut-lâi kau-chiàn ê sî, Iok-ap chhōa kun-peng húi-hoāi A-bûn lâng ê tōe, ûi-khùn La̍h-pa; Tāi-pi̍t iû-goân tiàm tī Iâ-lō͘-sat-léng.  Iok-ap phah La̍h-pa ê siâⁿ chhia-tó i."
+    }, 
+    "2": {
+      "mp3": "13/13_020_02.mp3", 
+      "text": " Tāi-pi̍t chhiúⁿ in ê ông só͘ tì kim ê bián-liû, chhìn i ê kim tāng chi̍t tha-liân-tek, koh siuⁿ pó-chio̍h; lâng chiong chit ê bián-liû tì tī Tāi-pi̍t ê thâu-khak;  Tāi-pi̍t tùi siâⁿ-lāi chhiúⁿ i ê châi-bu̍t chōe-chōe."
+    }, 
+    "3": {
+      "mp3": "13/13_020_03.mp3", 
+      "text": " Chiong siâⁿ-lāi ê lâng thoa-chhut--lâi, ēng kù-á, ēng thih-pê, ēng pó͘-thâu thâi-sí in;  Tāi-pi̍t ēng án-ni khoán-thāi A-bûn ta̍k ê siâⁿ.  Tāi-pi̍t chiū kap chèng peh-sìⁿ lóng tò-khì Iâ-lō͘-sat-léng."
+    }, 
+    "4": {
+      "mp3": "13/13_020_04.mp3", 
+      "text": " Liáu-āu kap Hui-lī-sū lâng kau-chiàn tī Ki-sek; Hō͘-sa lâng Se-pí-kai thâi-sí tōa-hàn lâng chi̍t ê kiáⁿ, miâ-kiò Se-phài;  Hui-lī-sū lâng chiū hâng-ho̍k."
+    }, 
+    "5": {
+      "mp3": "13/13_020_05.mp3", 
+      "text": " Koh kap Hui-lī-sū lâng kau-chiàn, hit-sî Gâi-jíⁿ ê kiáⁿ I-le̍k-ha̍p-lân thâi-sí Ka-te̍k lâng, Ko-lī-a ê hiaⁿ-tī La̍h-hap-bí; chit-lâng ê chhiuⁿ-pìⁿ tōa chhin-chhiūⁿ pò͘-kui ê te̍k-sim."
+    }, 
+    "6": {
+      "mp3": "13/13_020_06.mp3", 
+      "text": " Koh tī Ka-te̍k kau-chiàn, tī-hia ū chi̍t ê tōa-hàn lâng, chhiú-kha lóng ū la̍k-ki chńg-thâu-á, kiōng ū jī-cha̍p-sì ki, i iā sī tōa-hàn lâng ê kiáⁿ."
+    }, 
+    "7": {
+      "mp3": "13/13_020_07.mp3", 
+      "text": " Chit-lâng bú-bān Í-sek-lia̍t lâng ê sî, Tāi-pi̍t ê hiaⁿ Sī-bí-a ê kiáⁿ Iok-ná-tan thâi-sí i."
+    }, 
+    "8": {
+      "mp3": "13/13_020_08.mp3", 
+      "text": " Chiah ê lâng lóng sī tī Ka-te̍k ê tōa-hàn lâng siⁿ-ê; in lóng sí tī Tāi-pi̍t ê chhiú, kap i ê jîn-sîn ê chhiú."
+    }
+  }, 
+  "21": {
+    "1": {
+      "mp3": "13/13_021_01.mp3", 
+      "text": " Sat-tàn khí-lâi ài hāi Í-sek-lia̍t, ín-iú Tāi-pi̍t sǹg Í-sek-lia̍t lâng ê siàu-gia̍h."
+    }, 
+    "2": {
+      "mp3": "13/13_021_02.mp3", 
+      "text": " Tāi-pi̍t kā Iok-ap kap peh-sìⁿ-tiong ê siú-léng kóng, Lín khì sǹg Í-sek-lia̍t lâng, tùi Pia̍t-sī-pa kàu Tàn, tò-lâi kā góa kóng, hō͘ góa chai in ê siàu-gia̍h."
+    }, 
+    "3": {
+      "mp3": "13/13_021_03.mp3", 
+      "text": " Iok-ap kóng, Goān Iâ-hô-hoa hō͘ I ê peh-sìⁿ pí hiān-kim ke-thiⁿ pah-pē, góa ê chú góa ê ông ah, in kiám bô lóng sī góa ê chú ê peh-sìⁿ mah?  góa ê chú siáⁿ-sū bēng-lēng chit ê tāi-chì? siáⁿ-sū hō͘ Í-sek-lia̍t hoān-chōe ah?"
+    }, 
+    "4": {
+      "mp3": "13/13_021_04.mp3", 
+      "text": " Chóng-sī ông ê ōe iâⁿ-kè Iok-ap.  Iok-ap chiū chhut-khì piàn-kiâⁿ Í-sek-lia̍t tōe, koh tò-lâi Iâ-lō͘-sat-léng."
+    }, 
+    "5": {
+      "mp3": "13/13_021_05.mp3", 
+      "text": " Iok-ap chiū chiong só͘ sǹg peh-sìⁿ ê chóng-gia̍h, pò-kò Tāi-pi̍t.  Í-sek-lia̍t lâng ōe kia̍h-to--ê, chi̍t-pah-cha̍p-bān;  Iû-tāi lâng ōe kia̍h-to--ê, sì-cha̍p-chhit-bān."
+    }, 
+    "6": {
+      "mp3": "13/13_021_06.mp3", 
+      "text": " To̍k-to̍k Lī-bī lâng kap Piān-ngá-bín lâng i bô sǹg chāi-lāi, in-ūi Iok-ap iàm-ò͘ⁿ ông chit ê bēng-lēng."
+    }, 
+    "7": {
+      "mp3": "13/13_021_07.mp3", 
+      "text": " Chit ê sū Siōng-tè khòaⁿ-chòe m̄-hó, chiū phah Í-sek-lia̍t."
+    }, 
+    "8": {
+      "mp3": "13/13_021_08.mp3", 
+      "text": " Tāi-pi̍t tùi Siōng-tè kóng, Góa kiâⁿ chit ê sū, tōa-tōa ū chōe, taⁿ kiû Lí tû-khì Lí ê lô͘-po̍k ê chōe, in-ūi góa só͘ chòe--ê chin gōng."
+    }, 
+    "9": {
+      "mp3": "13/13_021_09.mp3", 
+      "text": " Iâ-hô-hoa hoan-hù Tāi-pi̍t ê sian-kiàn--ê Ka-tek, kóng,"
+    }, 
+    "10": {
+      "mp3": "13/13_021_10.mp3", 
+      "text": " Lí tio̍h khì kā Tāi-pi̍t kóng, Iâ-hô-hoa án-ni kóng, Taⁿ Góa ēng saⁿ-hāng pâi tī lí bīn-chêng, lí kéng chi̍t-hāng, Góa thang kiâⁿ tī lí."
+    }, 
+    "11": {
+      "mp3": "13/13_021_11.mp3", 
+      "text": " Ka-tek chiū lâi kìⁿ Tāi-pi̍t, kā i kóng, Iâ-hô-hoa án-ni kóng, Lí tio̍h ka-kī kéng;"
+    }, 
+    "12": {
+      "mp3": "13/13_021_12.mp3", 
+      "text": " kiám-chhái saⁿ-nî ê ki-hng, á-sī saⁿ-ge̍h-ji̍t kú tú-tio̍h sún-hāi tī lí ê tùi-te̍k ê bīn-chêng, hō͘ kiû-siû ê to-kiàm jip-tio̍h lí, á-sī saⁿ-ji̍t kú Iâ-hô-hoa ê kiàm, chiū-sī un-e̍k tī lí ê kok-lāi, Iâ-hô-hoa ê sù-chiá tī Í-sek-lia̍t ê piàn-kéng teh húi-bia̍t; taⁿ lí tio̍h siūⁿ-khòaⁿ, góa thang ēng sím-mi̍h ōe hê-hok chhe góa--ê."
+    }, 
+    "13": {
+      "mp3": "13/13_021_13.mp3", 
+      "text": " Tāi-pi̍t kā Ka-tek kóng, Góa khùn-pek kàu-ke̍k; góa goān hām-lo̍h tī Iâ-hô-hoa ê chhiú, in-ūi I ê lîn-bín chin-tōa, góa m̄-goān hām-lo̍h tī lâng ê chhiú."
+    }, 
+    "14": {
+      "mp3": "13/13_021_14.mp3", 
+      "text": " Tùi án-ni Iâ-hô-hoa chiū kàng un-e̍k tī Í-sek-lia̍t;  Í-sek-lia̍t lâng sí--ê chhit-bān."
+    }, 
+    "15": {
+      "mp3": "13/13_021_15.mp3", 
+      "text": " Siōng-tè chhe chi̍t ê sù-chiá kàu Iâ-lō͘-sat-léng bia̍t i;  beh bia̍t i ê sî, Iâ-hô-hoa khòaⁿ-kìⁿ, chiū thè-hóe chit ê chai-ē, chiū kā húi-bia̍t ê sù-chiá kóng, Kàu-gia̍h lah, taⁿ thang thêng lí ê chhiú; hit-sî Iâ-hô-hoa ê sù-chiá khiā tī Iâ-pò͘-su lâng O-jíⁿ-lâm ê gō͘-kak-tiûⁿ."
+    }, 
+    "16": {
+      "mp3": "13/13_021_16.mp3", 
+      "text": " Tāi-pi̍t kia̍h-ba̍k khòaⁿ-kìⁿ Iâ-hô-hoa ê sù-chiá khiā tī pòaⁿ-khong-tiong, pu̍ih-to tī chhiú--nih, chhun tī Iâ-lō͘-sat-léng ê téng-bīn.  Tāi-pi̍t kap chiah ê tiúⁿ-ló lóng chhēng môa-saⁿ, bīn phak tī tōe--nih."
+    }, 
+    "17": {
+      "mp3": "13/13_021_17.mp3", 
+      "text": " Tāi-pi̍t tùi Siōng-tè kóng, Hoan-hù sǹg peh-sìⁿ--ê, kiám m̄-sī góa mah? góa hoān-chōe kiâⁿ tōa-pháiⁿ; chóng-sī chiah ê iûⁿ-kûn ū chòe sím-mi̍h ah?  Kiû Iâ-hô-hoa góa ê Siōng-tè, chhun-chhiú tī góa kap góa ê pē ê ke; m̄-thang kong-kek Lí ê peh-sìⁿ, kàng un-e̍k hō͘ in."
+    }, 
+    "18": {
+      "mp3": "13/13_021_18.mp3", 
+      "text": " Tng hit-sî Iâ-hô-hoa ê sù-chiá bēng-lēng Ka-tek khì kā Tāi-pi̍t kóng, Tāi-pi̍t tio̍h chiūⁿ-khì, tī Iâ-pò͘-su lâng O-jíⁿ-lâm ê gō͘-kak-tiûⁿ, kā Iâ-hô-hoa khí chi̍t chō tôaⁿ."
+    }, 
+    "19": {
+      "mp3": "13/13_021_19.mp3", 
+      "text": " Tāi-pi̍t chiū chiàu Ka-tek hōng Iâ-hô-hoa ê miâ só͘ kóng ê ōe chiūⁿ-khì."
+    }, 
+    "20": {
+      "mp3": "13/13_021_20.mp3", 
+      "text": " Hit-sî O-jíⁿ-lâm teh phah-be̍h, oa̍t-thâu khòaⁿ-kìⁿ thiⁿ-sài; kap i tī-teh sì ê kiáⁿ cháu khì bih."
+    }, 
+    "21": {
+      "mp3": "13/13_021_21.mp3", 
+      "text": " Tāi-pi̍t kàu O-jíⁿ-lâm hia; O-jíⁿ-lâm khòaⁿ-kìⁿ Tāi-pi̍t, chiū chhut gō͘-kak-tiûⁿ, àⁿ-thâu pài Tāi-pi̍t."
+    }, 
+    "22": {
+      "mp3": "13/13_021_22.mp3", 
+      "text": " Tāi-pi̍t tùi O-jíⁿ-lâm kóng, Lí ēng chit ê gō͘-kak-tiûⁿ ê tōe hō͘ góa, hō͘ góa tī-hia thang kā Iâ-hô-hoa khí chi̍t chō tôaⁿ; lí tio̍h chiàu chiok-gia̍h ê kè-chîⁿ bōe góa, hō͘ un-e̍k soah, bô hāi peh-sìⁿ."
+    }, 
+    "23": {
+      "mp3": "13/13_021_23.mp3", 
+      "text": " O-jíⁿ-lâm kā Tāi-pi̍t kóng, Lí thang ēng i, goān góa ê chú góa ê ông, chiàu lí só͘ khòaⁿ-chòe hó-ê khì kiâⁿ; lí khòaⁿ, góa ēng gû hō͘ lí chòe sio-chè, ēng phah gō͘-kak ê khì-kū chòe chhâ, ia̍h ēng be̍h chòe sò͘-chè, chiah-ê góa lóng hō͘ lí."
+    }, 
+    "24": {
+      "mp3": "13/13_021_24.mp3", 
+      "text": " Tāi-pi̍t ông kā O-jíⁿ-lâm kóng, M̄-sī án-ni, góa koat-toàn beh ēng chiok-gia̍h ê kè-chîⁿ lâi bóe; in-ūi góa m̄-ài the̍h lí ê mi̍h hō͘ Iâ-hô-hoa, m̄-ài ēng bô khai-hùi lâi hiàn sio-chè."
+    }, 
+    "25": {
+      "mp3": "13/13_021_25.mp3", 
+      "text": " Tùi án-ni Tāi-pi̍t ūi-tio̍h hit tè tōe phêng la̍k-pah sià-khek-le̍k ê kim hō͘ O-jíⁿ-lâm."
+    }, 
+    "26": {
+      "mp3": "13/13_021_26.mp3", 
+      "text": " Tāi-pi̍t tī-hia kā Iâ-hô-hoa khí chi̍t chō tôaⁿ, hiàn sio-chè kap pêng-an-chè;  koh kiû-kiò Iâ-hô-hoa;  I tùi thiⁿ kàng-hé tī chè-tôaⁿ-téng lâi ìn i."
+    }, 
+    "27": {
+      "mp3": "13/13_021_27.mp3", 
+      "text": " Iâ-hô-hoa bēng-lēng sù-chiá, i chiū siu i ê to ji̍p siù."
+    }, 
+    "28": {
+      "mp3": "13/13_021_28.mp3", 
+      "text": " Hit-sî Tāi-pi̍t khòaⁿ-kìⁿ Iâ-hô-hoa tī Iâ-pò͘-su lâng O-jíⁿ-lâm ê gō͘-kak-tiûⁿ ìn i, chiū tī-hia hiàn-chè."
+    }, 
+    "29": {
+      "mp3": "13/13_021_29.mp3", 
+      "text": " In-ūi Mô͘-se tī khòng-iá só͘ chō Iâ-hô-hoa ê hōe-bō͘ kap sio-chè ê tôaⁿ, hit-sî lóng tī Ki-piàn koâiⁿ ê só͘-chāi."
+    }, 
+    "30": {
+      "mp3": "13/13_021_30.mp3", 
+      "text": " Chóng-sī Tāi-pi̍t bōe-ōe chiūⁿ kàu i ê bīn-chêng lâi mn̄g Siōng-tè, in-ūi i kiaⁿ Iâ-hô-hoa sù-chiá ê to."
+    }
+  }, 
+  "22": {
+    "1": {
+      "mp3": "13/13_022_01.mp3", 
+      "text": " Tāi-pi̍t kóng, Che sī Iâ-hô-hoa Siōng-tè ê chhù; chit-ê sī Í-sek-lia̍t sio-chè ê tôaⁿ."
+    }, 
+    "2": {
+      "mp3": "13/13_022_02.mp3", 
+      "text": " Tāi-pi̍t bēng-lēng chū-chi̍p khiā-khí Í-sek-lia̍t tōe ê chhut-gōa lâng; koh phài phah-chio̍h ê sai-hū phah-chio̍h; ài beh khí Siōng-tè ê tiān."
+    }, 
+    "3": {
+      "mp3": "13/13_022_03.mp3", 
+      "text": " Tāi-pi̍t pī-pān thih chin-chōe, chòe mn̂g-sìⁿ ê teng kap saⁿ-liân ê lō͘-ēng; koh pī-pān tâng chin-chōe, kàu bōe chhìn--tit."
+    }, 
+    "4": {
+      "mp3": "13/13_022_04.mp3", 
+      "text": " Ia̍h pī-pān bōe-sǹg--tit ê pek-hiuⁿ-chhâ; in-ūi Se-tùn lâng kap Chhui-lô lâng chài chōe-chōe pek-hiuⁿ-chhâ kàu Tāi-pi̍t hia."
+    }, 
+    "5": {
+      "mp3": "13/13_022_05.mp3", 
+      "text": " Tāi-pi̍t kóng, Góa ê kiáⁿ Só͘-lô-bûn iáu-kú sòe-hàn koh nńg-chiáⁿ; beh kā Iâ-hô-hoa khí ê tiān tio̍h chin súi kàu-ke̍k, hō͘ i miâ-siaⁿ êng-kng kàu tī bān-kok; só͘-í góa taⁿ tio̍h kā i pī-pān.  Tāi-pi̍t chiū tī bē sí ê tāi-seng pī-pān chōe-chōe chhâi-liāu."
+    }, 
+    "6": {
+      "mp3": "13/13_022_06.mp3", 
+      "text": " Tāi-pi̍t chiū kiò i ê kiáⁿ Só͘-lô-bûn lâi, hoan-hù i tio̍h kā Í-sek-lia̍t ê Siōng-tè khí tiān."
+    }, 
+    "7": {
+      "mp3": "13/13_022_07.mp3", 
+      "text": " Kā Só͘-lô-bûn kóng, Góa ê kiáⁿ ah, góa sim-lāi pún siūⁿ,  beh ūi Iâ-hô-hoa góa ê Siōng-tè ê miâ khí tiān."
+    }, 
+    "8": {
+      "mp3": "13/13_022_08.mp3", 
+      "text": " Chóng-sī Iâ-hô-hoa ê ōe lîm-kàu góa kóng, Lí lâu chōe-chōe lâng ê huih, tōa-tōa kau-chiàn, lí bōe-tit-thang ūi Góa ê miâ khí tiān, in-ūi lí tī Góa ê ba̍k-chiu chêng hō͘ chōe-chōe lâng ê huih lâu tī tōe--nih."
+    }, 
+    "9": {
+      "mp3": "13/13_022_09.mp3", 
+      "text": " Khòaⁿ ah, lí beh siⁿ chi̍t ê kiáⁿ, i beh chòe thài-pêng ê lâng, Góa beh hō͘ i thài-pêng, hō͘ sì-ûi chiah ê tùi-te̍k bô kiáu-jiáu i; i ê miâ beh kiò Só͘-lô-bûn; tī i chē-ūi ê ji̍t, Góa beh siúⁿ-sù an-chēng hô-pêng hō͘ Í-sek-lia̍t."
+    }, 
+    "10": {
+      "mp3": "13/13_022_10.mp3", 
+      "text": " I beh ūi Góa ê miâ khí tiān;  i beh chòe Góa ê kiáⁿ, Góa beh chòe i ê pē; Góa beh kian-kò͘ i ê kok-ūi tī Í-sek-lia̍t kàu éng-oán."
+    }, 
+    "11": {
+      "mp3": "13/13_022_11.mp3", 
+      "text": " Góa ê kiáⁿ ah, taⁿ goān Iâ-hô-hoa kap lí tī-teh, hō͘ lí heng-thong, khí lí ê Siōng-tè Iâ-hô-hoa ê tiān, chiàu I só͘ lūn-kàu lí--ê."
+    }, 
+    "12": {
+      "mp3": "13/13_022_12.mp3", 
+      "text": " To̍k-to̍k goān Iâ-hô-hoa siúⁿ-sù lí chhang-miâ tì-hūi, hō͘ lí tī-lí Í-sek-lia̍t, lâi chun-thàn Iâ-hô-hoa lí ê Siōng-tè ê lu̍t-hoat."
+    }, 
+    "13": {
+      "mp3": "13/13_022_13.mp3", 
+      "text": " Lí nā kín-sīn chun-thàn Iâ-hô-hoa só͘ bēng-lēng Mô͘-se kà-sī Í-sek-lia̍t chiah ê lu̍t-lē hoat-tō͘, chiū lí beh heng-thong; lí tio̍h hùn-chì hó-táⁿ, bo̍h-tit kiaⁿ bo̍h-tit lún."
+    }, 
+    "14": {
+      "mp3": "13/13_022_14.mp3", 
+      "text": " Góa tī khùn-khó͘ tiong, ūi Iâ-hô-hoa ê tiān, pī-pān kim cha̍p-bān tha-liân-tek, gûn chi̍t-pah-bān tha-liân-tek, tâng kap thih tāng kàu bōe chhìn--tit, in-ūi chin-chōe; góa iā ū pī-pān chhâ kap chio̍h, lí thang koh ke-thiⁿ i."
+    }, 
+    "15": {
+      "mp3": "13/13_022_15.mp3", 
+      "text": " Koh lí iā ū chōe-chōe sai-hū, phah-chio̍h--ê, chòe-ba̍k--ê, kap ta̍k-hō kang-tiâⁿ-su, thang chòe ta̍k-hō ê kang."
+    }, 
+    "16": {
+      "mp3": "13/13_022_16.mp3", 
+      "text": " Kim, gûn, tâng, thih, chōe kàu bōe sǹg--tit; lí tio̍h khí-lâi chòe; goān Iâ-hô-hoa kap lí tī-teh."
+    }, 
+    "17": {
+      "mp3": "13/13_022_17.mp3", 
+      "text": " Tāi-pi̍t koh hoan-hù Í-sek-lia̍t ê chèng siú-léng pang-chān i ê kiáⁿ Só͘-lô-bûn, kóng,"
+    }, 
+    "18": {
+      "mp3": "13/13_022_18.mp3", 
+      "text": " Iâ-hô-hoa lín ê Siōng-tè kiám bô kap lín tī-teh mah? kiám bô tī sì-ûi siúⁿ-sù lín pêng-an mah? in-ūi I í-keng chiong chit ê tōe khiā-khí ê peh-sìⁿ kau tī góa ê chhiú, chit ê tōe chiū hâng-ho̍k tī Iâ-hô-hoa kap I ê peh-sìⁿ ê bīn-chêng."
+    }, 
+    "19": {
+      "mp3": "13/13_022_19.mp3", 
+      "text": " Taⁿ lín tio̍h tiāⁿ-tio̍h lín ê sim, lín ê ì-sù, chhē Iâ-hô-hoa lín ê Siōng-tè; ia̍h tio̍h khí--lâi, khí-chō Iâ-hô-hoa Siōng-tè ê sèng-só͘, thang chiong Iâ-hô-hoa ê iok-kūi, kap Siōng-tè sèng ê khì-kū, poaⁿ-ji̍p ūi Iâ-hô-hoa ê miâ só͘ beh khí ê tiān."
+    }
+  }, 
+  "23": {
+    "1": {
+      "mp3": "13/13_023_01.mp3", 
+      "text": " Tāi-pi̍t nî lāu, ji̍t-chí móa-chiok, chiū siat-li̍p i ê kiáⁿ Só͘-lô-bûn chòe Í-sek-lia̍t ông."
+    }, 
+    "2": {
+      "mp3": "13/13_023_02.mp3", 
+      "text": " Tāi-pi̍t chū-chi̍p Í-sek-lia̍t ê chèng siú-léng, kap chiah ê chè-si, í-ki̍p Lī-bī lâng."
+    }, 
+    "3": {
+      "mp3": "13/13_023_03.mp3", 
+      "text": " Lī-bī lâng tùi saⁿ-cha̍p hè í-chiūⁿ--ê, lóng kè-sǹg;  chiàu só͘ sǹg ta-po͘-lâng ê gia̍h-sò͘, kiōng saⁿ-bān poeh-chheng."
+    }, 
+    "4": {
+      "mp3": "13/13_023_04.mp3", 
+      "text": " Kî-tiong nn̄g-bān sì-chheng lâng koán-lí Iâ-hô-hoa tiān ê kang, ū la̍k-chheng lâng chòe chit-oân kap sū-su."
+    }, 
+    "5": {
+      "mp3": "13/13_023_05.mp3", 
+      "text": " Ū sì-chheng lâng chòe kò͘-mn̂g--ê; koh sì-chheng lâng chiong góa Tāi-pi̍t só͘ chòe ēng teh o-ló ê ga̍k-khì o-ló Iâ-hô-hoa."
+    }, 
+    "6": {
+      "mp3": "13/13_023_06.mp3", 
+      "text": " Tāi-pi̍t chiàu Lī-bī ê kiáⁿ, Kek-sūn, Ko-hat, Bí-la̍h-lī, lâi pun in ê kiáⁿ-sun ê pan-lia̍t."
+    }, 
+    "7": {
+      "mp3": "13/13_023_07.mp3", 
+      "text": " Sio̍k Kek-sūn ê lâng, La̍h-tàn kap Sī-múi."
+    }, 
+    "8": {
+      "mp3": "13/13_023_08.mp3", 
+      "text": " La̍h-tàn ê kiáⁿ, tōa-ê sī Iâ-iat, koh ū Sè-tàn kap Iok-jíⁿ, kiōng saⁿ-lâng."
+    }, 
+    "9": {
+      "mp3": "13/13_023_09.mp3", 
+      "text": " Sī-múi ê kiáⁿ, Sī-lô-bi̍t, Hap-siat, Hap-lân, kiōng saⁿ-lâng; che sī La̍h-tàn cho̍k ê cho̍k-tiúⁿ."
+    }, 
+    "10": {
+      "mp3": "13/13_023_10.mp3", 
+      "text": " Sī-múi ê kiáⁿ, Ngá-hap, Sè-ná, Iâ-o͘-si, Pí-lī-a, chí(**chit) sì-lâng chiū-sī Sī-múi ê kiáⁿ."
+    }, 
+    "11": {
+      "mp3": "13/13_023_11.mp3", 
+      "text": " Ngá-hap sī tōa-kiáⁿ, tē-jī-ê Se-sat; to̍k-to̍k Iâ-o͘-si, Pí-lī-a ê kiáⁿ-sun bô jōa-chōe, só͘-í sǹg-chòe chi̍t-cho̍k."
+    }, 
+    "12": {
+      "mp3": "13/13_023_12.mp3", 
+      "text": " Ko-hat ê kiáⁿ sī Àm-lân, Í-su-hap, Hi-pek-lûn, O͘-siat, kiōng sì-lâng."
+    }, 
+    "13": {
+      "mp3": "13/13_023_13.mp3", 
+      "text": " Àm-lân ê kiáⁿ, A-lûn, Mô͘-se; A-lûn kap i ê kiáⁿ-sun sī hun-piat kàu tī éng-oán, lâi hun-piat chì-sèng ê mi̍h chòe-sèng, tī Iâ-hô-hoa ê bīn-chêng sio-hiuⁿ, lâi ho̍k-sāi I, hōng I ê miâ chiok-hok, kàu tī éng-oán."
+    }, 
+    "14": {
+      "mp3": "13/13_023_14.mp3", 
+      "text": " Lūn-kàu Siōng-tè ê lô͘-po̍k Mô͘-se, i ê kiáⁿ miâ-jī kì tī Lī-bī ê chi-phài tiong."
+    }, 
+    "15": {
+      "mp3": "13/13_023_15.mp3", 
+      "text": " Mô͘-se ê kiáⁿ sī Kek-sūn kap Í-lī-í-siā."
+    }, 
+    "16": {
+      "mp3": "13/13_023_16.mp3", 
+      "text": " Kek-sūn ê kiáⁿ, tōa-ê sī Sè-pò͘-gia̍p."
+    }, 
+    "17": {
+      "mp3": "13/13_023_17.mp3", 
+      "text": " Í-lī-í-siā ê kiáⁿ, Lī-hap-pí-ngá sī tōa-ê; Í-lī-í-siā bô pa̍t ê kiáⁿ; chóng-sī Lī-hap-pí-ngá ê kiáⁿ chin-chōe."
+    }, 
+    "18": {
+      "mp3": "13/13_023_18.mp3", 
+      "text": " Í-su-hap ê kiáⁿ, tōa-ê Sī-lô-bi̍t."
+    }, 
+    "19": {
+      "mp3": "13/13_023_19.mp3", 
+      "text": " Hi-pek-lûn ê kiáⁿ, tōa-ê Iâ-lī-ngá, tē-jī-ê sī A-má-lī-a, tē-saⁿ-ê sī Ngá-hap-sek, tē-sì sī Iâ-ka-biān."
+    }, 
+    "20": {
+      "mp3": "13/13_023_20.mp3", 
+      "text": " O͘-siat ê kiáⁿ, tōa-ê sī Bí-ka, tē-jī-ê sī Iâ-se-ngá."
+    }, 
+    "21": {
+      "mp3": "13/13_023_21.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ; Boa̍t-lī, Bó͘-sī; Boa̍t-lī ê kiáⁿ; Í-lī-a-sat, Ki-sū."
+    }, 
+    "22": {
+      "mp3": "13/13_023_22.mp3", 
+      "text": " Í-lī-a-sat sí, bô kiáⁿ, chí-ū cha-bó͘-kiáⁿ, in ê hiaⁿ-tī Ki-sū ê kiáⁿ chhōa in."
+    }, 
+    "23": {
+      "mp3": "13/13_023_23.mp3", 
+      "text": " Bó͘-sī ê kiáⁿ sī Boa̍t-le̍k, Í-tek, Iâ-lī-mô͘, kiōng saⁿ-lâng."
+    }, 
+    "24": {
+      "mp3": "13/13_023_24.mp3", 
+      "text": " Téng-bīn só͘ kì lóng sī Lī-bī ê kiáⁿ-sun, chiàu in lāu-pē ê ke lâi chòe cho̍k-tiúⁿ, ūi Iâ-hô-hoa ê chhù lâi chòe chhe-ēng ê kang; ta̍k-lâng tùi jī-cha̍p hè í-chiūⁿ siū-sǹg, lóng chiàu in ê miâ ê siàu-gia̍h lâi kè-sǹg."
+    }, 
+    "25": {
+      "mp3": "13/13_023_25.mp3", 
+      "text": " In-ūi Tāi-pi̍t kóng, Iâ-hô-hoa Í-sek-lia̍t ê Siōng-tè, í-keng hō͘ I ê peh-sìⁿ pêng-an, koh I éng-oán tiàm-tī Iâ-lō͘-sat-léng."
+    }, 
+    "26": {
+      "mp3": "13/13_023_26.mp3", 
+      "text": " Lī-bī lâng iā m̄-bián koh kng hōe-bō͘, kap kî-tiong só͘ ēng lóng-chóng ê khì-kū."
+    }, 
+    "27": {
+      "mp3": "13/13_023_27.mp3", 
+      "text": " In-ūi chiàu Tāi-pi̍t lîm-chiong ê sî só͘ hoan-hù--ê, Lī-bī lâng tùi jī-cha̍p hè í-chiūⁿ lóng siū-sǹg."
+    }, 
+    "28": {
+      "mp3": "13/13_023_28.mp3", 
+      "text": " In-ūi i ê chit sī kun-sûi A-lûn ê kiáⁿ-sun, lâi chòe Iâ-hô-hoa tiān ê kang, chiū-sī tī chiah ê īⁿ kap chiah ê pâng lâi chòe kang, ia̍h hō͘ chiah ê sèng-mi̍h chheng-khì, lâi chòe Iâ-hô-hoa tiān ê kang;"
+    }, 
+    "29": {
+      "mp3": "13/13_023_29.mp3", 
+      "text": " liāu-lí pâi-lia̍t ê piáⁿ, sò͘-chè ê mī-hún, he̍k-sī bô-kàⁿ ê po̍h-piáⁿ, kap tiáⁿ-lāi só͘ pek, í-ki̍p tiau-hô ê mi̍h; koh koán-lí chhìn, niû ê sū."
+    }, 
+    "30": {
+      "mp3": "13/13_023_30.mp3", 
+      "text": " Ta̍k chá-khí khiā-teh lâi kám-siā o-ló Iâ-hô-hoa, ta̍k ê-hng iā sī án-ni."
+    }, 
+    "31": {
+      "mp3": "13/13_023_31.mp3", 
+      "text": " Koh tī an-hioh-ji̍t, ge̍h ê chhoe-it, kap choeh-kî, hiàn chiah ê sio-chè hō͘ Iâ-hô-hoa, chiàu mi̍h ê siàu-gia̍h, chiàu só͘ tiāⁿ-tio̍h ê lē, siông-siông hiàn tī Iâ-hô-hoa ê bīn-chêng."
+    }, 
+    "32": {
+      "mp3": "13/13_023_32.mp3", 
+      "text": " Koh hō͘ i kò͘-siú hōe-bō͘ ê chek-sêng, kap sèng-só͘ ê chek-sêng, í-ki̍p i ê hiaⁿ-tī A-lûn ê kiáⁿ-sun só͘ hō͘ i chòe ê chek-sêng, lâi ho̍k-sāi tī Iâ-hô-hoa ê chhù."
+    }
+  }, 
+  "24": {
+    "1": {
+      "mp3": "13/13_024_01.mp3", 
+      "text": " A-lûn kiáⁿ-sun ê pan-lia̍t kì tī ē-tóe: A-lûn ê kiáⁿ Ná-tap, A-pí-hō͘, Í-lī-a-sat, Í-tha-má."
+    }, 
+    "2": {
+      "mp3": "13/13_024_02.mp3", 
+      "text": " Ná-tap, A-pí-hō͘ pí in lāu-pē khah tāi-seng sí, koh bô kiáⁿ; só͘-í Í-lī-a-sat, Í-tha-má tam-tng chè-si ê chit."
+    }, 
+    "3": {
+      "mp3": "13/13_024_03.mp3", 
+      "text": " Tāi-pi̍t kap Í-lī-a-sat kiáⁿ-sun tiong ê Sat-tok, kap Í-tha-má kiáⁿ-sun tiong ê A-hi-bí-le̍k, chiàu in ê chhù-sū pun in ê pan-lia̍t."
+    }, 
+    "4": {
+      "mp3": "13/13_024_04.mp3", 
+      "text": " Í-lī-a-sat kiáⁿ-sun tiong ê thâu-lâng, pí Í-tha-má kiáⁿ-sun tiong só͘-ū--ê khah-chōe, chiū pun i ê pan tī ē-tóe.  Í-lī-a-sat ê kiáⁿ-sun tiong chòe cho̍k-tiúⁿ--ê ū cha̍p-la̍k lâng; Í-tha-má ê kiáⁿ-sun tiong, chiàu i ê lāu-pē ê ke, ū poeh-lâng."
+    }, 
+    "5": {
+      "mp3": "13/13_024_05.mp3", 
+      "text": " Í-lī-a-sat ê kiáⁿ-sun, Í-tha-má ê kiáⁿ-sun, lóng chiàu thiu-chhiam hun-phài, bô hun chit-ê hit-ê; ū-ê tī Sèng-só͘ chòe siú-léng, ū-ê tī Siōng-tè bīn-chêng chòe siú-léng."
+    }, 
+    "6": {
+      "mp3": "13/13_024_06.mp3", 
+      "text": " Chòe su-kì ê Lī-bī lâng, Ná-tàn-gia̍p ê kiáⁿ Sī-má-ngá, tī ông kap hiah ê siú-léng kap chè-si Sat-tok, A-pí-a-tha ê kiáⁿ A-hi-bí-le̍k, í-ki̍p chè-si kap Lī-bī lâng hiah ê cho̍k-tiúⁿ ê bīn-chêng, kì in ê miâ-jī; tī Í-lī-a-sat ê kiáⁿ-sun tiong chhú chi̍t-cho̍k, tī Í-tha-má ê kiáⁿ-sun tiong chhú chi̍t-cho̍k."
+    }, 
+    "7": {
+      "mp3": "13/13_024_07.mp3", 
+      "text": " Thiu-chhiam tit-tio̍h tē-it--ê, sī Iâ-hô-ngá-li̍p, tē-jī--ê sī Iâ-tāi-ngá;"
+    }, 
+    "8": {
+      "mp3": "13/13_024_08.mp3", 
+      "text": " tē-saⁿ Hap-lîm, tē-sì So-lîm;"
+    }, 
+    "9": {
+      "mp3": "13/13_024_09.mp3", 
+      "text": " tē-gō͘ Má-ki-ngá, tē-la̍k Bí-ngá-bîn;"
+    }, 
+    "10": {
+      "mp3": "13/13_024_10.mp3", 
+      "text": " tē-chhit Hap-ko-su, tē-poeh A-pí-ngá;"
+    }, 
+    "11": {
+      "mp3": "13/13_024_11.mp3", 
+      "text": " tē-káu Iâ-su-a, tē-cha̍p Sī-ka-nî;"
+    }, 
+    "12": {
+      "mp3": "13/13_024_12.mp3", 
+      "text": " tē-cha̍p-it Í-lī-a-si̍t, tē-cha̍p-jī Ngá-kim;"
+    }, 
+    "13": {
+      "mp3": "13/13_024_13.mp3", 
+      "text": " tē-cha̍p-saⁿ Ô͘-pa, tē-cha̍p-sì Iâ-sī-pí-ap;"
+    }, 
+    "14": {
+      "mp3": "13/13_024_14.mp3", 
+      "text": " tē-cha̍p-gō͘ Phek-ka, tē-cha̍p-la̍k Im-be̍k;"
+    }, 
+    "15": {
+      "mp3": "13/13_024_15.mp3", 
+      "text": " tē-cha̍p-chhit Hi-sek, tē-cha̍p-poeh Hap-pi̍t-sek;"
+    }, 
+    "16": {
+      "mp3": "13/13_024_16.mp3", 
+      "text": " tē-cha̍p-káu Pí-tha-hi-ngá, tē-jī-cha̍p Í-se-kiat;"
+    }, 
+    "17": {
+      "mp3": "13/13_024_17.mp3", 
+      "text": " tē-jī-cha̍p-it Ngá-kun, tē-jī-cha̍p-jī Ka-boa̍t;"
+    }, 
+    "18": {
+      "mp3": "13/13_024_18.mp3", 
+      "text": " tē-jī-cha̍p-saⁿ Tē-lâi ngá, tē-jī-cha̍p-sì Má-se-a."
+    }, 
+    "19": {
+      "mp3": "13/13_024_19.mp3", 
+      "text": " Che sī in chòe-kang ê pan-lia̍t, thang ji̍p Iâ-hô-hoa ê chhù, chiàu in ê chó͘ A-lûn chun-thàn Iâ-hô-hoa Í-sek-lia̍t ê Siōng-tè só͘ hoan-hù ê lē."
+    }, 
+    "20": {
+      "mp3": "13/13_024_20.mp3", 
+      "text": " Lī-bī kî-û ê kiáⁿ-sun kì tī ē-tóe: Àm-lân ê kiáⁿ-sun tiong ū Su-pa-gia̍p, Su-pa-gia̍p ê kiáⁿ-sun tiong ū Iâ-hi-tí-a."
+    }, 
+    "21": {
+      "mp3": "13/13_024_21.mp3", 
+      "text": " Lūn-kàu Lī-hap-pí-ngá, Lī-hap-pí-ngá ê kiáⁿ-sun tiong, ū I-sī-ngá chòe-thâu."
+    }, 
+    "22": {
+      "mp3": "13/13_024_22.mp3", 
+      "text": " Í-su-hap ê kiáⁿ-sun tiong ū Sī-lô-mô͘; Sī-lô-mô͘ ê kiáⁿ-sun tiong Ngá-hap."
+    }, 
+    "23": {
+      "mp3": "13/13_024_23.mp3", 
+      "text": " Hi-pek-lûn ê kiáⁿ-sun tiong, tōa-ê Iâ-lī-ngá, tē-jī-ê A-má-lī-a, tē-saⁿ-ê Ngá-hap-sek, tē-sì-ê Iâ-ka-biān."
+    }, 
+    "24": {
+      "mp3": "13/13_024_24.mp3", 
+      "text": " O͘-siat ê kiáⁿ-sun tiong ū Bí-ka;  Bí-ka ê kiáⁿ-sun tiong ū Sa-bi̍t."
+    }, 
+    "25": {
+      "mp3": "13/13_024_25.mp3", 
+      "text": " Bí-ka ê hiaⁿ-tī sī I-sī-ngá;  I-sī-ngá ê kiáⁿ-sun tiong ū Sat-ka-lī-ngá."
+    }, 
+    "26": {
+      "mp3": "13/13_024_26.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ sī Boa̍t-lī, Bó͘-sī;  Ngá-se-ngá ê kiáⁿ ū Pí-ná."
+    }, 
+    "27": {
+      "mp3": "13/13_024_27.mp3", 
+      "text": " Bí-la̍h-lī ê kiáⁿ-sun tiong, ū Ngá-se-ngá ê kiáⁿ Pí-ná, Sok-hâm, Sat-khek, I-pí-lī."
+    }, 
+    "28": {
+      "mp3": "13/13_024_28.mp3", 
+      "text": " Boa̍t-lī ê kiáⁿ sī Í-lī-a-sat, Í-lī-a-sat bô kiáⁿ."
+    }, 
+    "29": {
+      "mp3": "13/13_024_29.mp3", 
+      "text": " Lūn-kàu Ki-sū, Ki-sū ê kiáⁿ-sun tiong ū Iâ-la̍h-bia̍t."
+    }, 
+    "30": {
+      "mp3": "13/13_024_30.mp3", 
+      "text": " Bó͘-sī ê kiáⁿ sī Boa̍t-le̍k, Í-tek, Iâ-lī-mô͘.  chiah-ê sī Lī-bī ê kiáⁿ-sun, chiàu in ê chong-cho̍k."
+    }, 
+    "31": {
+      "mp3": "13/13_024_31.mp3", 
+      "text": " In tī Tāi-pi̍t ông kap Sat-tok, A-hi-bí-le̍k, kap chè-si, í-ki̍p Lī-bī lâng chiah ê cho̍k-tiúⁿ ê bīn-chêng thiu-chhiam, chhin-chhiūⁿ in ê hiaⁿ-tī A-lûn ê kiáⁿ-sun chi̍t-iūⁿ; ta̍k-cho̍k ê chòe-thâu--ê kap i ê sió-tī lóng pîⁿ-pîⁿ."
+    }
+  }, 
+  "25": {
+    "1": {
+      "mp3": "13/13_025_01.mp3", 
+      "text": " Tāi-pi̍t kap chiah ê kun-tiúⁿ chiū tùi A-sat, Hi-bān, kap Iâ-tō͘-tùn ê kiáⁿ-sun tiong hun-phài lâng lâi chòe-kang, lâi tôaⁿ-khîm, tôaⁿ-sek, phah nâ-poa̍h, chhiùⁿ-koa; chòe-kang ê siàu-gia̍h, chiàu in ê chit-hūn, kì tī ē-tóe."
+    }, 
+    "2": {
+      "mp3": "13/13_025_02.mp3", 
+      "text": " Sio̍k A-sat ê kiáⁿ, Sat-khek, Iok-sek, Nî-thài-ngá, A-sat-lī-le̍h; chiah-ê lóng sī A-sat ê kiáⁿ, kui A-sat chí-hui, thàn ông ê bēng-lēng lâi chhiùⁿ-koa."
+    }, 
+    "3": {
+      "mp3": "13/13_025_03.mp3", 
+      "text": " Sio̍k Iâ-tō͘-tùn--ê; Iâ-tō͘-tùn ê kiáⁿ Ki-tāi-lī, Se-lī, Iâ-su-a, Hap-sa-pí-ngá, Má-tha-thê-ngá, Sī-múi, kiōng la̍k lâng, lóng kui in lāu-pē Iâ-tō͘-tùn chí-hui, tôaⁿ-khîm chhiùⁿ-koa lâi kám-siā o-ló Iâ-hô-hoa."
+    }, 
+    "4": {
+      "mp3": "13/13_025_04.mp3", 
+      "text": " Sio̍k Hi-bān--ê: Hi-bān ê kiáⁿ, Pò͘-ki-ngá, Má-thàm-ngá, O͘-siat, Sè-pò͘-gia̍p, Iâ-lī-mô͘, Hap-ná-nî-ngá, Hap-ná-nî, Í-lī-a-tha, Ki-tāi-lī-thê, Lô-bān-thê-í-siā, Iok-si-pí-ka-sa, Má-lô-thê, Hô-thê, Má-hap-siù."
+    }, 
+    "5": {
+      "mp3": "13/13_025_05.mp3", 
+      "text": " Chiah-ê lóng sī Hi-bān ê kiáⁿ; Hi-bān tit-tio̍h Siōng-tè ê be̍k-sī, tī ông ê bīn-chêng chòe sian-kiàn, Siōng-tè heng-khí i ê kak, hō͘ Hi-bān siⁿ cha̍p-sì ê kiáⁿ, saⁿ ê cha-bó͘-kiáⁿ."
+    }, 
+    "6": {
+      "mp3": "13/13_025_06.mp3", 
+      "text": " Chiah-ê lóng kui in lāu-pē chí-hui, tī Iâ-hô-hoa ê tiān chhiùⁿ-koa, phah nâ-poa̍h, tôaⁿ-khîm tôaⁿ-sek, pān-lí Siōng-tè tiān-lāi ê tāi-chì;  A-sat, Iâ-tō͘-tùn, Hi-bān lóng sī ông só͘ bēng-lēng--ê."
+    }, 
+    "7": {
+      "mp3": "13/13_025_07.mp3", 
+      "text": " Án-ni in kap in ê hiaⁿ-tī ha̍k-si̍p o-ló Iâ-hô-hoa ê si, chiū-sī thong-ta̍t--ê, kiōng nn̄g-pah poeh-cha̍p-poeh lâng."
+    }, 
+    "8": {
+      "mp3": "13/13_025_08.mp3", 
+      "text": " Chiah ê lâng, bô-lūn sī-tōa sī-sòe, chòe sian-siⁿ--ê, chòe ha̍k-seng--ê, lóng pîⁿ-pîⁿ liam-khau lâi pun in ê pan."
+    }, 
+    "9": {
+      "mp3": "13/13_025_09.mp3", 
+      "text": " Thiu-tio̍h thâu-ki chhiam--ê, sī A-sat ê kiáⁿ Iok-sek; tē-jī sī Ki-tāi-lī, i kap i ê hiaⁿ-tī kap i ê kiáⁿ, kiōng cha̍p-jī lâng;"
+    }, 
+    "10": {
+      "mp3": "13/13_025_10.mp3", 
+      "text": " tē-saⁿ sī Sat-khek, i kap kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "11": {
+      "mp3": "13/13_025_11.mp3", 
+      "text": " tē-sì sī I-sé-lī, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "12": {
+      "mp3": "13/13_025_12.mp3", 
+      "text": " tē-gō͘ sī Nî-thàm-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "13": {
+      "mp3": "13/13_025_13.mp3", 
+      "text": " tē-la̍k sī Pò͘-ki-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "14": {
+      "mp3": "13/13_025_14.mp3", 
+      "text": " tē-chhit sī Iâ-sat-lī-la̍h, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "15": {
+      "mp3": "13/13_025_15.mp3", 
+      "text": " tē-poeh sī Iâ-su-a, i kap i ê kiáⁿ kap i ê hiaⁿ-tī kiōng cha̍p-jī lâng;"
+    }, 
+    "16": {
+      "mp3": "13/13_025_16.mp3", 
+      "text": " tē-káu sī Má-thàm-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "17": {
+      "mp3": "13/13_025_17.mp3", 
+      "text": " tē-cha̍p sī Sī-múi i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "18": {
+      "mp3": "13/13_025_18.mp3", 
+      "text": " tē-cha̍p-it sī A-sat-lia̍t, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "19": {
+      "mp3": "13/13_025_19.mp3", 
+      "text": " tē-cha̍p-jī sī Hap-sa-pí-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "20": {
+      "mp3": "13/13_025_20.mp3", 
+      "text": " tē-cha̍p-saⁿ sī Su-pa-gia̍p, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "21": {
+      "mp3": "13/13_025_21.mp3", 
+      "text": " tē-cha̍p-sì sī Má-tha-thê-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "22": {
+      "mp3": "13/13_025_22.mp3", 
+      "text": " tē-cha̍p-gō͘ sī Iâ-lī-mô͘, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "23": {
+      "mp3": "13/13_025_23.mp3", 
+      "text": " tē-cha̍p-la̍k sī Hap-ná-nî-ngá, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "24": {
+      "mp3": "13/13_025_24.mp3", 
+      "text": " tē-cha̍p-chhit sī Iok-si-pí-ka-sa, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "25": {
+      "mp3": "13/13_025_25.mp3", 
+      "text": " tē-cha̍p-poeh sī Hap-ná-nî, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "26": {
+      "mp3": "13/13_025_26.mp3", 
+      "text": " tē-cha̍p-káu sī Má-lô-thê, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "27": {
+      "mp3": "13/13_025_27.mp3", 
+      "text": " tē-jī-cha̍p sī Í-lī-a-tha, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "28": {
+      "mp3": "13/13_025_28.mp3", 
+      "text": " tē-jī-cha̍p-it sī Hô-thê, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "29": {
+      "mp3": "13/13_025_29.mp3", 
+      "text": " tē-jī-cha̍p-jī sī Ki-tāi-lī-thê, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "30": {
+      "mp3": "13/13_025_30.mp3", 
+      "text": " tē-jī-cha̍p-saⁿ sī Má-hap-siù, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng;"
+    }, 
+    "31": {
+      "mp3": "13/13_025_31.mp3", 
+      "text": " tē jī-cha̍p-sì sī Lô-bān-thê-í-siā, i kap i ê kiáⁿ kap i ê hiaⁿ-tī, kiōng cha̍p-jī lâng."
+    }
+  }, 
+  "26": {
+    "1": {
+      "mp3": "13/13_026_01.mp3", 
+      "text": " Kò͘-mn̂g ê pan-lia̍t kì tī ē-tóe; Khó-la̍h cho̍k A-sat ê kiáⁿ-sun tiong, ū Khó-lī ê kiáⁿ Bí-si-lī-bí-ngá."
+    }, 
+    "2": {
+      "mp3": "13/13_026_02.mp3", 
+      "text": " Bí-si-lī-bí-ngá ū kiáⁿ, tōa-ê sī Sat-ka-lī-a, tē-jī-ê sī Iâ-tia̍p, tē-saⁿ-ê Se-pa-tē-ngá, tē-sì-ê Iâ-thê-lia̍p;"
+    }, 
+    "3": {
+      "mp3": "13/13_026_03.mp3", 
+      "text": " tē-gō͘-ê Í-lân, tē-la̍k-ê Iok-hap-lân, tē-chhit-ê Í-lī-iok-nái."
+    }, 
+    "4": {
+      "mp3": "13/13_026_04.mp3", 
+      "text": " Gô-pia̍t-í-tong ū kiáⁿ, tōa-ê Sī-má-ngá, tē-jī-ê Iok-sat-poa̍t, tē-saⁿ-ê Iok-a, tē-sì-ê Sa-kah, tē-gō͘-ê Ná-tàn-gia̍p;"
+    }, 
+    "5": {
+      "mp3": "13/13_026_05.mp3", 
+      "text": " tē-la̍k-ê A-bí-lī, tē-chhit-ê Í-sat-ka, tē-poeh-ê Pí-o͘-lī-thài; in-ūi Siōng-tè sù-hok i."
+    }, 
+    "6": {
+      "mp3": "13/13_026_06.mp3", 
+      "text": " I ê kiáⁿ Sī-má-ngá ū siⁿ kúi-nā ê kiáⁿ, sī chiáng-koán in lāu-pē ê ke, in-ūi in sī tōa ióng-sū."
+    }, 
+    "7": {
+      "mp3": "13/13_026_07.mp3", 
+      "text": " Sī-má-ngá ê kiáⁿ sī Gô-tek-nî,  Lī-hoat-ek, Gô-pī-tek, Í-lī-sat-pa, i ê hiaⁿ-tī sī ióng-sū, koh ū Í-lī-hō͘ kap Se-má-ka."
+    }, 
+    "8": {
+      "mp3": "13/13_026_08.mp3", 
+      "text": " Chiah-ê sī Gô-pia̍t-í-tong ê kiáⁿ-sun, in kap in ê kiáⁿ in ê hiaⁿ-tī, sī ióng-sū, ū khùi-la̍t gâu pān tāi-chì--ê, kiōng la̍k-cha̍p-jī lâng, lóng sī Gô-pia̍t-í-tong siⁿ--ê."
+    }, 
+    "9": {
+      "mp3": "13/13_026_09.mp3", 
+      "text": " Bí-si-lī-bí-ngá ê kiáⁿ kap hiaⁿ-tī lóng sī ióng-sū, kiōng cha̍p-poeh lâng."
+    }, 
+    "10": {
+      "mp3": "13/13_026_10.mp3", 
+      "text": " Sio̍k tī Bí-la̍h-lī ê kiáⁿ-sun Hô-sat ū kúi-nā ê kiáⁿ; tōa-ê sī Sin-lī, i pún m̄-sī tōa-kiáⁿ, chóng-sī in lāu-pē siat-li̍p i chòe-tōa;"
+    }, 
+    "11": {
+      "mp3": "13/13_026_11.mp3", 
+      "text": " tē-jī-ê sī Hi-le̍k-ka, tē-saⁿ sī Tí-pa-lī-ngá, tē-sì sī Sat-ka-lī-a; án-ni Hô-sat ê kiáⁿ kap hiaⁿ-tī kiōng cha̍p-saⁿ lâng."
+    }, 
+    "12": {
+      "mp3": "13/13_026_12.mp3", 
+      "text": " Tī chiah ê lâng, chiū-sī thâu-lâng ê tiong-kan, hun-phài kò͘-mn̂g ê pan-lia̍t, tam-tng chit, chhin-chhiūⁿ i ê hiaⁿ-tī chi̍t-iūⁿ, tī Iâ-hô-hoa ê tiān lâi ho̍k-sāi."
+    }, 
+    "13": {
+      "mp3": "13/13_026_13.mp3", 
+      "text": " In bô-lūn tōa-sòe, lóng chiàu in ê chong-cho̍k thiu-chhiam, kò͘-siú ta̍k ê mn̂g."
+    }, 
+    "14": {
+      "mp3": "13/13_026_14.mp3", 
+      "text": " Thiu-chhiam kò͘-siú tang-mn̂g--ê sī Sī-lī-bí-ngá; i ê kiáⁿ Sat-ka-lī-a sī cheng-thong ê bô͘-sū, lâng kā i thiu-chhiam kò͘-siú pak-mn̂g."
+    }, 
+    "15": {
+      "mp3": "13/13_026_15.mp3", 
+      "text": " Gô-pia̍t-í-tong siú lâm-mn̂g; i ê kiáⁿ siú khò͘-pâng."
+    }, 
+    "16": {
+      "mp3": "13/13_026_16.mp3", 
+      "text": " Su-phèng kap Hô-sat kò͘-siú sai-mn̂g, tī óa-kūn Sa-lī-ki mn̂g, thàu-kàu chiūⁿ-khì ê ke-lō͘, pan kap pan saⁿ-tùi."
+    }, 
+    "17": {
+      "mp3": "13/13_026_17.mp3", 
+      "text": " Tī tang-pêng ū la̍k ê Lī-bī lâng, tī pak-pêng ta̍k-ji̍t ū sì-lâng, tī lâm-pêng ta̍k-ji̍t ū sì-lâng, tī khò͘-pâng ū nn̄g-lâng, koh ū nn̄g-lâng saⁿ thòe-ōaⁿ."
+    }, 
+    "18": {
+      "mp3": "13/13_026_18.mp3", 
+      "text": " Tī sai--sì tī Pa-pat, tī tōa ke-lō͘ ū sì ê lâng, tī Pa-pat ū nn̄g-lâng."
+    }, 
+    "19": {
+      "mp3": "13/13_026_19.mp3", 
+      "text": " Chiah-ê sī Khó-la̍h kiáⁿ-sun kap Bí-la̍h-lī ê kiáⁿ-sun kò͘-mn̂g ê pan-lia̍t."
+    }, 
+    "20": {
+      "mp3": "13/13_026_20.mp3", 
+      "text": " Lī-bī lâng ê tiong-kan, A-hi-ngá koán-lí Siōng-tè tiān ê hú-khò͘, kap sèng-mi̍h ê hú-khò͘."
+    }, 
+    "21": {
+      "mp3": "13/13_026_21.mp3", 
+      "text": " Lūn-kàu La̍h-tàn ê kiáⁿ-sun, chiū-sī Kek-sūn lâng La̍h-tàn ê kiáⁿ-sun, lóng sī cho̍k-tiúⁿ, chit ê La̍h-tàn sī Kek-sūn lâng, i ê kiáⁿ sī Iâ-hi-i-lī."
+    }, 
+    "22": {
+      "mp3": "13/13_026_22.mp3", 
+      "text": " Iâ-hi-i-lī ê kiáⁿ; Se-thán kap i ê sió-tī Iok-jíⁿ, chiáng-koán Iâ-hô-hoa tiān-lāi ê hú-khò͘."
+    }, 
+    "23": {
+      "mp3": "13/13_026_23.mp3", 
+      "text": " Àm-lâm cho̍k, Í-su-hap cho̍k, Hi-pek-lûn cho̍k, O͘-siat cho̍k, iā ū chit-hūn;"
+    }, 
+    "24": {
+      "mp3": "13/13_026_24.mp3", 
+      "text": " koh ū Mô͘-se ê sun, Kek-sūn ê kiáⁿ, Sè-pò͘-gia̍p koán-lí hú-khò͘."
+    }, 
+    "25": {
+      "mp3": "13/13_026_25.mp3", 
+      "text": " Iáu ū i ê hiaⁿ-tī Í-lī-í-siā.  Í-lī-í-siā ê kiáⁿ Lī-hap-pí-ngá, Lī-hap-pí-ngá ê kiáⁿ sī Iâ-su-a, Iâ-su-a ê kiáⁿ sī Iok-lân, Iok-lân ê kiáⁿ sī Sè-ki-lī, Sè-ki-lī ê kiáⁿ sī Sī-lô-bi̍t."
+    }, 
+    "26": {
+      "mp3": "13/13_026_26.mp3", 
+      "text": " Chit ê Sī-lô-bi̍t kap i ê hiaⁿ-tī chiáng-koán sèng-mi̍h ê hú-khò͘, chiū-sī Tāi-pi̍t ông kap chèng cho̍k-tiúⁿ, chhian-chóng, pé-chóng, kap kun-tiúⁿ só͘ hiàn-ê."
+    }, 
+    "27": {
+      "mp3": "13/13_026_27.mp3", 
+      "text": " In ēng kau-chiàn ê sî só͘ chhiúⁿ ê mi̍h, chhú i lâi hiàn, thang siu-chéng Iâ-hô-hoa ê tiān."
+    }, 
+    "28": {
+      "mp3": "13/13_026_28.mp3", 
+      "text": " Sian-kiàn ê Sat-bó͘-jíⁿ, Ki-sū ê kiáⁿ Sò-lô, Nî-jíⁿ ê kiáⁿ Ap-nî-jíⁿ, Sé-ló͘-ngá ê kiáⁿ Iok-ap só͘ hiàn ê mi̍h, kap kìⁿ-ū só͘ hiàn ê mi̍h, lóng kui Sī-lô-bi̍t kap i ê hiaⁿ-tī koán-lí."
+    }, 
+    "29": {
+      "mp3": "13/13_026_29.mp3", 
+      "text": " Í-su-hap cho̍k ū Ki-ná-nî-ngá kap i ê chèng-kiáⁿ chòe koaⁿ-tiúⁿ kap sū-su, koán-lí Í-sek-lia̍t ê gōa-sū."
+    }, 
+    "30": {
+      "mp3": "13/13_026_30.mp3", 
+      "text": " Hi-pek-lûn cho̍k ū Hap-sa-pí-ngá kap i ê hiaⁿ-tī, chi̍t-chheng chhit-pah lâng, lóng sī ióng-sū, tī-lí Iok-tàn hô-gōa sai--sì ê Í-sek-lia̍t lâng, koán-lí Iâ-hô-hoa ê sū, kap ho̍k-sāi ông ê chit."
+    }, 
+    "31": {
+      "mp3": "13/13_026_31.mp3", 
+      "text": " Tī Hi-pek-lûn cho̍k tiong, ū Iâ-lī-ngá chòe-thâu, chiū-sī tī Hi-pek-lûn cho̍k-tiong chiàu i lia̍t-chó͘ ê sè-hē, tī Tāi-pi̍t chē-ūi ê tē sì-cha̍p nî, tī Ki-lia̍t ê Ngá-siat, chhē-tio̍h in tiong-kan kúi-nā ê tōa ióng-sū."
+    }, 
+    "32": {
+      "mp3": "13/13_026_32.mp3", 
+      "text": " I ê hiaⁿ-tī ū ióng-kám chòe cho̍k-tiúⁿ, nn̄g-chheng chhit-pah lâng; Tāi-pi̍t ông phài chiah ê lâng koán-hat Liû-piān, Ka-tek, Má-ná-se pòaⁿ-chi-phài, lâi pān-lí Siōng-tè it-chhè ê sū kap ông ê sū."
+    }
+  }, 
+  "27": {
+    "1": {
+      "mp3": "13/13_027_01.mp3", 
+      "text": " Í-sek-lia̍t lâng ê cho̍k-tiúⁿ, chhian-chóng, pé-chóng, kap koaⁿ-tiúⁿ, lóng ū hun-pan tiāⁿ-tio̍h, ta̍k-pan ū nn̄g-bān sì-chheng lâng, choân-nî chiàu ge̍h lûn-liû, thòe-ōaⁿ chhut-ji̍p lâi ho̍k-sāi ông."
+    }, 
+    "2": {
+      "mp3": "13/13_027_02.mp3", 
+      "text": " Chiaⁿ-ge̍h tē-it pan ê pan-tiúⁿ sī Sat-pa-tē-gia̍p ê kiáⁿ Ngá-sok-pan; i ê pan-lāi ū nn̄g-bān sì-chheng lâng;"
+    }, 
+    "3": {
+      "mp3": "13/13_027_03.mp3", 
+      "text": " i sī Hoat-le̍k-su ê kiáⁿ-sun, koán-hat chiaⁿ-ge̍h it-chhè ê kun-tiúⁿ."
+    }, 
+    "4": {
+      "mp3": "13/13_027_04.mp3", 
+      "text": " Jī-ge̍h ê pan-tiúⁿ sī A-hap-hi lâng Tó-tāi, koh ū Bi̍t-ki-lô iā sī hit-pan ê thâu-lâng; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "5": {
+      "mp3": "13/13_027_05.mp3", 
+      "text": " Saⁿ-ge̍h tē-saⁿ ê kun-tiúⁿ sī chè-si-thâu Iâ-hô-iâ-tāi ê kiáⁿ Pí-ná-ngá; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "6": {
+      "mp3": "13/13_027_06.mp3", 
+      "text": " Chit ê Pí-ná-ngá sī saⁿ-cha̍p lâng tiong ê ióng-sū, koán-lí hit saⁿ-cha̍p lâng; i ê pan-lāi koh ū i ê kiáⁿ Àm-bí-sat-poa̍t."
+    }, 
+    "7": {
+      "mp3": "13/13_027_07.mp3", 
+      "text": " Sì-ge̍h tē-sì ê pan-tiúⁿ sī Iok-ap ê sió-tī A-sat-hek; sòa-chiap i--ê, sī i ê kiáⁿ Se-pa-tē-ngá; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "8": {
+      "mp3": "13/13_027_08.mp3", 
+      "text": " Gō͘-ge̍h tē-gō͘ ê pan-tiúⁿ sī I-su-la̍h lâng San-ha̍p; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "9": {
+      "mp3": "13/13_027_09.mp3", 
+      "text": " La̍k-ge̍h tē-la̍k ê pan-tiúⁿ sī Thê-ko-a lâng Ek-kiat ê kiáⁿ Í-la̍h; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "10": {
+      "mp3": "13/13_027_10.mp3", 
+      "text": " Chhit-ge̍h tē-chhit ê pan-tiúⁿ sī Í-hoat-liân cho̍k, Pí-lûn lâng Hi-lī-su; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "11": {
+      "mp3": "13/13_027_11.mp3", 
+      "text": " Poeh-ge̍h tē-poeh ê pan-tiúⁿ sī Siā-la̍h cho̍k Hō͘-sa lâng Se-pí-kai; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "12": {
+      "mp3": "13/13_027_12.mp3", 
+      "text": " Káu-ge̍h tē-káu ê pan-tiúⁿ sī Piān-ngá-bín cho̍k, A-ná-tu̍t lâng A-pí-í-siā; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "13": {
+      "mp3": "13/13_027_13.mp3", 
+      "text": " Cha̍p-ge̍h tē-cha̍p ê pan-tiúⁿ sī Siā-la̍h cho̍k, Nî-tô-hoat lâng, Má-hap-lâi; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "14": {
+      "mp3": "13/13_027_14.mp3", 
+      "text": " Cha̍p-it-ge̍h tē-cha̍p-it ê pan-tiúⁿ sī Í-hoat-liân cho̍k, Pí-la̍h-tùn ê kiáⁿ Pí-ná-ngá; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "15": {
+      "mp3": "13/13_027_15.mp3", 
+      "text": " Cha̍p-jī-ge̍h tē-cha̍p-jī ê pan-tiúⁿ sī Gô-to-lia̍p cho̍k, Nî-tô-hoat lâng Hek-tāi; i ê pan-lāi ū nn̄g-bān sì-chheng lâng."
+    }, 
+    "16": {
+      "mp3": "13/13_027_16.mp3", 
+      "text": " Koán-lí Í-sek-lia̍t chèng chi-phài--ê, kì tī ē-tóe; koán Liû-piān cho̍k--ê, sī Sè-ki-lī ê kiáⁿ, Í-lī-í-siā; koán Se-biān cho̍k--ê, sī Má-ka ê kiáⁿ Sī-hoat-thê-ngá;"
+    }, 
+    "17": {
+      "mp3": "13/13_027_17.mp3", 
+      "text": " koán Lī-bī lâng--ê, sī Ki-bó͘-lī ê kiáⁿ Hap-sa-pí-ngá;  koán A-lûn ê cho̍k--ê sī Sat-tok;"
+    }, 
+    "18": {
+      "mp3": "13/13_027_18.mp3", 
+      "text": " koán Iû-tāi lâng--ê sī Tāi-pi̍t ê hiaⁿ Í-lī-hō͘; koán Í-sat-ka cho̍k--ê, sī Bí-ka-le̍k ê kiáⁿ Àm-lī;"
+    }, 
+    "19": {
+      "mp3": "13/13_027_19.mp3", 
+      "text": " koán Se-pò͘-lûn cho̍k--ê, sī Gô-pa-tē-ngá ê kiáⁿ I-si-má-ngá; koán Ná-hut-tha-lī lâng--ê, sī A-su-lia̍t ê kiáⁿ Iâ-lī-mô͘;"
+    }, 
+    "20": {
+      "mp3": "13/13_027_20.mp3", 
+      "text": " koán Í-hoat-liân cho̍k--ê, sī O-sat-sè-ngá ê kiáⁿ Hô-sè-a; koán Má-ná-se pòaⁿ-chi-phài--ê, sī Pí-tāi-ngá ê kiáⁿ Iok-jíⁿ;"
+    }, 
+    "21": {
+      "mp3": "13/13_027_21.mp3", 
+      "text": " koán Ki-lia̍t tōe Má-ná-se pòaⁿ-chi-phài--ê, sī Sat-ka-lī-a ê kiáⁿ Ek-to; koán Piān-ngá-bín cho̍k--ê, sī Ap-nî-jíⁿ ê kiáⁿ Ngá-se-gia̍p;"
+    }, 
+    "22": {
+      "mp3": "13/13_027_22.mp3", 
+      "text": " koán Tàn cho̍k--ê, sī Iâ-lô-hán ê kiáⁿ A-sat-lia̍t.  Chiah-ê sī Í-sek-lia̍t chèng chi-phài ê siú-léng."
+    }, 
+    "23": {
+      "mp3": "13/13_027_23.mp3", 
+      "text": " Í-sek-lia̍t lâng jī-cha̍p hè lāi--ê, Tāi-pi̍t bô sǹg i; in-ūi Iâ-hô-hoa bat kóng, I beh ke-thiⁿ Í-sek-lia̍t lâng chhin-chhiūⁿ thiⁿ-téng ê chhiⁿ."
+    }, 
+    "24": {
+      "mp3": "13/13_027_24.mp3", 
+      "text": " Sé-ló͘-ngá ê kiáⁿ Iok-ap khí-chhiú sǹg i; chóng-sī tùi chit ê sū ū siū-khì kàu tī Í-sek-lia̍t, só͘-í bô sǹg kàu bêng-pe̍k; i ê siàu-gia̍h iā bô kì tī Tāi-pi̍t ông ê le̍k-tāi chì-lio̍k."
+    }, 
+    "25": {
+      "mp3": "13/13_027_25.mp3", 
+      "text": " Chiáng-koán ông ê hú-khò͘--ê, sī A-tia̍p ê kiáⁿ Ap-su-má-ui; chiáng-koán chhân-iá, siâⁿ-ip, hiuⁿ-chng, ōe-só͘ ê hú-khò͘-ê, sī O͘-se-ngá ê kiáⁿ Iok-ná-tan."
+    }, 
+    "26": {
+      "mp3": "13/13_027_26.mp3", 
+      "text": " Chiáng-koán choh-chhân ê lông-hu, sī Ki-lio̍k ê kiáⁿ Í-su-lī."
+    }, 
+    "27": {
+      "mp3": "13/13_027_27.mp3", 
+      "text": " Chiáng-koán phû-tô-hn̂g--ê, sī La̍h-má lâng Sī-múi, chiáng-koán phû-tô-hn̂g ê chiú-tî, sī Si̍t-hut-bí lâng Sat-pa-tí."
+    }, 
+    "28": {
+      "mp3": "13/13_027_28.mp3", 
+      "text": " Chiáng-koán pîⁿ-iûⁿ ê kaⁿ-ná-chhiū kap sng-châi sī Ki-tē-lí lâng Pa-le̍k-hap-lâm; chiáng-koán iû-tî sī Iok-a-si."
+    }, 
+    "29": {
+      "mp3": "13/13_027_29.mp3", 
+      "text": " Chiáng-koán Sa-lûn chhī gû-kûn--ê, sī Sa-lûn lâng Si-thê-nāi; chiáng-koán soaⁿ-kok chhī gû-kûn--ê, sī A-tē-nāi ê kiáⁿ Sa-hoat."
+    }, 
+    "30": {
+      "mp3": "13/13_027_30.mp3", 
+      "text": " Chiáng-koán lo̍k-tô--ê, sī Í-si̍t-má-lī lâng A-pí-le̍k; koán lû--ê, sī Bí-lûn lâng Iâ-hi-tí-a."
+    }, 
+    "31": {
+      "mp3": "13/13_027_31.mp3", 
+      "text": " Chiáng-koán iûⁿ-kûn--ê, sī Hā-kah lâng Ngá-sek.  Chiah ê lóng sī kā Tāi-pi̍t ông chiáng-koán sán-gia̍p--ê."
+    }, 
+    "32": {
+      "mp3": "13/13_027_32.mp3", 
+      "text": " Tāi-pi̍t ê chek Iok-ná-tan chòe bô͘-sū, chit ê lâng ū tì-hūi koh chòe su-kì; Hap-mô͘-nî ê kiáⁿ Iâ-iat chòe ông chèng-kiáⁿ ê tâng-phōaⁿ."
+    }, 
+    "33": {
+      "mp3": "13/13_027_33.mp3", 
+      "text": " A-hi-to-hut iā chòe ông ê bô͘-sū; A-ki lâng Hō͘-su chòe ông ê pêng-iú."
+    }, 
+    "34": {
+      "mp3": "13/13_027_34.mp3", 
+      "text": " Sòa-chiap A-hi-to-hut--ê, ū Pí-ná-ngá ê kiáⁿ Iâ-hô-iâ-tāi kap A-pí-a-tha; Iok-ap chòe ông ê lio̍k-kun chóng-tiúⁿ."
+    }
+  }, 
+  "28": {
+    "1": {
+      "mp3": "13/13_028_01.mp3", 
+      "text": " Tāi-pi̍t chio-chi̍p Í-sek-lia̍t ê siú-léng, kok chi-phài ê siú-léng, kap lûn-pan ho̍k-sāi ông ê kun-tiúⁿ, chhian-chóng, pé-chóng, chiáng-koán ông kap ông ê kiáⁿ ê sán-gia̍p cheng-siⁿ--ê, kap thài-kàm, í-ki̍p tōa koân-lêng ê, kap tōa koân-lêng ê ióng-sū, lóng kàu Iâ-lō͘-sat-léng."
+    }, 
+    "2": {
+      "mp3": "13/13_028_02.mp3", 
+      "text": " Tāi-pi̍t ông chiū khiā--khí-lâi kóng, Góa ê hiaⁿ-tī, góa ê peh-sìⁿ ah, lín tio̍h thiaⁿ góa ê ōe; góa ê sim pún siūⁿ beh ūi-tio̍h Iâ-hô-hoa ê iok-kūi, koh ūi-tio̍h lán ê Siōng-tè ê kha-ta̍h-í, khí tiān lâi an-tì i; góa í-keng pī-pān beh khí."
+    }, 
+    "3": {
+      "mp3": "13/13_028_03.mp3", 
+      "text": " Chóng-sī Siōng-tè tùi góa kóng, Lí bōe-tit-thang ūi Góa ê miâ khí tiān, in-ūi lí sī chiàn-sū, ū hō͘ lâng lâu-huih."
+    }, 
+    "4": {
+      "mp3": "13/13_028_04.mp3", 
+      "text": " M̄-kú Iâ-hô-hoa Í-sek-lia̍t ê Siōng-tè, tī góa ê pē choân-ke kéng góa chòe Í-sek-lia̍t ông ti̍t-kàu éng-oán; in-ūi I kéng Iû-tāi chòe siú-léng; tī Iû-tāi ê chi-phài tiong kéng góa ê pē ê ke; tī góa ê pē ê chèng-kiáⁿ tiong hoaⁿ-hí góa, siat-li̍p góa chòe Í-sek-lia̍t chèng-lâng ê ông."
+    }, 
+    "5": {
+      "mp3": "13/13_028_05.mp3", 
+      "text": " Iâ-hô-hoa siúⁿ-sù góa chōe-chōe kiáⁿ, tī góa ê kiáⁿ ê tiong-kan, kéng góa ê kiáⁿ Só͘-lô-bûn, tī Iâ-hô-hoa ê kok chē-ūi, tī-lí Í-sek-lia̍t."
+    }, 
+    "6": {
+      "mp3": "13/13_028_06.mp3", 
+      "text": " I koh tùi góa kóng, Lí ê kiáⁿ Só͘-lô-bûn beh khí Góa ê tiān Góa ê īⁿ; in-ūi Góa kéng i chòe Góa ê kiáⁿ, Góa iā beh chòe i ê pē."
+    }, 
+    "7": {
+      "mp3": "13/13_028_07.mp3", 
+      "text": " I nā kú-tn̂g chun-thàn Góa ê kài-bēng hoat-tō͘, chhin-chhiūⁿ kin-á-ji̍t, Góa chiū beh kian-kò͘ i ê kok-ūi, ti̍t-kàu éng-oán."
+    }, 
+    "8": {
+      "mp3": "13/13_028_08.mp3", 
+      "text": " Taⁿ tī Iâ-hô-hoa ê hōe, Í-sek-lia̍t chèng-lâng ê bīn-chêng, lán ê Siōng-tè iā thiaⁿ-kìⁿ, lín tio̍h chhâ-khó lín ê Siōng-tè Iâ-hô-hoa ê kài-bēng lâi chip-siú i; án-ni lín thang hióng-siū chit ê hó ê tōe, lâu hō͘ lín āu-tāi ê kiáⁿ-sun, éng-oán chòe-gia̍p."
+    }, 
+    "9": {
+      "mp3": "13/13_028_09.mp3", 
+      "text": " Góa ê kiáⁿ Só͘-lô-bûn ah, lí tio̍h jīn-bat lí ê pē ê Siōng-tè, sêng-si̍t sim hoaⁿ-hí ho̍k-sāi I; in-ūi Iâ-hô-hoa kàm-chhat chèng-lâng ê sim, chai lóng-chóng ê sim-su liām-thâu; lí nā chhē I, I beh hō͘ lí tú-tio̍h; lí nā pàng-sak I, I beh éng-oán kū-choa̍t lí;"
+    }, 
+    "10": {
+      "mp3": "13/13_028_10.mp3", 
+      "text": " lí tio̍h kín-sīn, in-ūi Iâ-hô-hoa kéng lí khí chhù chòe sèng-só͘; lí tio̍h ióng-kám khì chòe."
+    }, 
+    "11": {
+      "mp3": "13/13_028_11.mp3", 
+      "text": " Tāi-pi̍t chiong tiān-tn̂g ê léng-lông, pâng-keng, hú-khò͘, lâu-koh, lāi-tiān, kap Si-un-só͘ hit-keng, it-chhè ê tô͘-iūⁿ, kau i ê kiáⁿ Só͘-lô-bûn;"
+    }, 
+    "12": {
+      "mp3": "13/13_028_12.mp3", 
+      "text": " koh ēng tùi Sîn só͘ tit-tio̍h it-chhè ê tô͘-iūⁿ, chiū-sī Iâ-hô-hoa tiān ê īⁿ, sì-ûi ê pâng, Siōng-tè tiān ê hú-khò͘, kap sèng-mi̍h ê hú-khò͘ chiah ê tô͘-iūⁿ, lóng kau i;"
+    }, 
+    "13": {
+      "mp3": "13/13_028_13.mp3", 
+      "text": " koh chí-sī i chè-si kap Lī-bī lâng ê pan-lia̍t, kap Iâ-hô-hoa tiān-lāi ho̍k-sāi ê kang, í-ki̍p Iâ-hô-hoa tiān-lāi ho̍k-sāi ê khì-kū;"
+    }, 
+    "14": {
+      "mp3": "13/13_028_14.mp3", 
+      "text": " koh chhìn kim hō͘ i chòe ta̍k-iūⁿ èng-iōng ê kim-khì; ia̍h chhìn gûn hō͘ i, chòe ta̍k-iūⁿ èng-iōng ê gûn-khì;"
+    }, 
+    "15": {
+      "mp3": "13/13_028_15.mp3", 
+      "text": " chiū-sī chiah ê kim teng-tâi kap i ê chóaⁿ, chiū chhìn kim lâi chòe ta̍k ê teng-tâi kap i ê chóaⁿ, koh ēng chòe gûn teng-tâi ê gûn lâi chhìn hō͘ i;  i ê teng-tâi kap i ê chóaⁿ lóng sī án-ni, chiàu ta̍k ê teng-tâi ê lō͘-ēng;"
+    }, 
+    "16": {
+      "mp3": "13/13_028_16.mp3", 
+      "text": " koh chhìn kim hō͘ i lâi chòe pâi-lia̍t piáⁿ ê toh; ia̍h chhìn gûn lâi chòe gûn ê toh;"
+    }, 
+    "17": {
+      "mp3": "13/13_028_17.mp3", 
+      "text": " koh ēng hó-kim hō͘ i chòe bah-chhe, pôaⁿ, poe; koh chhìn kim, hō͘ i thang chòe ta̍k ê kim-óaⁿ, chhìn gûn hō͘ i chòe ta̍k ê gûn-óaⁿ;"
+    }, 
+    "18": {
+      "mp3": "13/13_028_18.mp3", 
+      "text": " koh chhìn hó-kim hō͘ i thang chòe hiuⁿ-tôaⁿ; ia̍h ēng kim chòe ki-lō͘-peng chhia ê khoán-sit, in thí-khui si̍t, jia-khàm Iâ-hô-hoa ê iok-kūi."
+    }, 
+    "19": {
+      "mp3": "13/13_028_19.mp3", 
+      "text": " Tāi-pi̍t kóng, Téng-bīn chiah ê kui-bô͘, lóng sī góa tit-tio̍h Iâ-hô-hoa be̍k-sī siá chhut-lâi--ê."
+    }, 
+    "20": {
+      "mp3": "13/13_028_20.mp3", 
+      "text": " Tāi-pi̍t koh kā i ê kiáⁿ Só͘-lô-bûn kóng, Lí tio̍h ióng-kám chòng-táⁿ khì chòe; bo̍h-tit lún, ia̍h bo̍h-tit kiaⁿ; in-ūi Iâ-hô-hoa Siōng-tè, chiū-sī góa ê Siōng-tè, kap lí tī-teh; I tek-khak bô lī-khui lí, ia̍h bô pàng-sak lí, ti̍t-kàu Iâ-hô-hoa tiān ê kang lóng bêng-pe̍k."
+    }, 
+    "21": {
+      "mp3": "13/13_028_21.mp3", 
+      "text": " Khòaⁿ ah, ū chè-si kap Lī-bī lâng ê ta̍k-pan, ūi-tio̍h beh pān-lí Siōng-tè tiān ta̍k-hāng ê sū; koh ū kî-khiáu ê lâng, tī ta̍k-hāng ê kang hoaⁿ-hí pang-chān lí; ia̍h ū chiah ê siú-léng kap chèng peh-sìⁿ chi̍t-sim thiaⁿ-thàn lí ê bēng-lēng."
+    }
+  }, 
+  "29": {
+    "1": {
+      "mp3": "13/13_029_01.mp3", 
+      "text": " Tāi-pi̍t ông tùi hōe-chiòng kóng, Góa ê kiáⁿ Só͘-lô-bûn sī Siōng-tè te̍k-pia̍t kéng--ê, iáu-kú siàu-liân iù-chíⁿ; chit ê kang-tiâⁿ chin-tōa; in-ūi chit ê tiān m̄-sī ūi-tio̍h lâng, chiū-sī ūi-tio̍h Iâ-hô-hoa Siōng-tè khí--ê."
+    }, 
+    "2": {
+      "mp3": "13/13_029_02.mp3", 
+      "text": " Góa ūi-tio̍h góa ê Siōng-tè ê tiān, í-keng chīn khùi-la̍t, pī-pān kim chòe kim-khì, pī-pān gûn chòe gûn-khì, tâng chòe tâng-khì, thih chòe thih-khì, chhâ chòe chhâ-khì; koh ū âng bé-ló, kap thang siuⁿ ê pó-chio̍h, kng-chio̍h, chhái-sek ê chio̍h, í-ki̍p ta̍k-iūⁿ ê pó-chio̍h, sia̍h-chio̍h ke̍k-chōe."
+    }, 
+    "3": {
+      "mp3": "13/13_029_03.mp3", 
+      "text": " In-ūi góa him-bō͘ góa ê Siōng-tè ê tiān, chiū tī pī-pān khí sèng-tiān ê chhâi-liāu í-gōa, koh ēng góa pún-sin só͘ chek-chū ê kim-gûn, hiàn tī góa Siōng-tè ê chhù;"
+    }, 
+    "4": {
+      "mp3": "13/13_029_04.mp3", 
+      "text": " chiū-sī Gô-hui ê kim, saⁿ-chheng tha-liân-tek ê kim, thoàn-liān ê gûn chhit-chheng tha-liân-tek, lâi an chiah ê chhù-chhiûⁿ;"
+    }, 
+    "5": {
+      "mp3": "13/13_029_05.mp3", 
+      "text": " kim chòe kim-khì, gûn chòe gûn-khì, kap sai-hū ê chhiú só͘ chòe chiah ê kang.  Kin-á-ji̍t ū sím-mi̍h lâng hoaⁿ-hí chiong pún-sin hiàn hō͘ Iâ-hô-hoa ah?"
+    }, 
+    "6": {
+      "mp3": "13/13_029_06.mp3", 
+      "text": " Tùi án-ni chèng cho̍k-tiúⁿ, kap Í-sek-lia̍t ta̍k chi-phài ê siú-léng, chhian-chóng, pé-chóng, í-ki̍p kam(**kàm)-tok hiah-ê kā ông chòe-kang--ê, lóng hoaⁿ-hí lâi hiàn."
+    }, 
+    "7": {
+      "mp3": "13/13_029_07.mp3", 
+      "text": " In ūi-tio̍h Siōng-tè tiān ê lō͘-ēng, hiàn kim gō͘ chheng tha-liân-tek liân chi̍t-bān ta̍t-lī-khek, gûn chi̍t-bān tha-liân-tek, tâng chi̍t-bān poeh chheng tha-liân-tek, thih cha̍p-bān tha-liân-tek."
+    }, 
+    "8": {
+      "mp3": "13/13_029_08.mp3", 
+      "text": " Kìⁿ-nā ū pó-chio̍h--ê, lóng kau-tài Kek-sūn lâng Iâ-iat ê chhiú, sàng-ji̍p Iâ-hô-hoa tiān ê hú-khò͘."
+    }, 
+    "9": {
+      "mp3": "13/13_029_09.mp3", 
+      "text": " In-ūi in kam-sim hiàn, peh-sìⁿ lóng hoaⁿ-hí, in-ūi in chīn-sim hiàn hō͘ Iâ-hô-hoa; Tāi-pi̍t ông iā tōa hoaⁿ-hí kàu-ke̍k."
+    }, 
+    "10": {
+      "mp3": "13/13_029_10.mp3", 
+      "text": " Só͘-í Tāi-pi̍t tī hōe-chiòng ê bīn-chêng o-ló Iâ-hô-hoa;  Tāi-pi̍t kóng, Iâ-hô-hoa goán ê chó͘ Í-sek-lia̍t ê Siōng-tè ah, sī eng-kai o-ló--ê, tùi éng-oán kàu éng-oán;"
+    }, 
+    "11": {
+      "mp3": "13/13_029_11.mp3", 
+      "text": " Iâ-hô-hoa ah, chun-tōa, lêng-le̍k, êng-kng, tek-sèng, ui-giâm lóng sī Lí-ê; hoān-nā tī thiⁿ-téng tōe-ē--ê, lóng sī Lí-ê;  Iâ-hô-hoa ah, kok iā sī Lí-ê, Lí sī chì-koâiⁿ, chòe bān-ū ê thâu."
+    }, 
+    "12": {
+      "mp3": "13/13_029_12.mp3", 
+      "text": " Hó-gia̍h chun-kùi lóng tùi Lí lâi, Lí iā chiáng-koán bān-ū; tī Lí ê chhiú ū tōa koân-lêng tōa khùi-la̍t; hō͘ lâng chun-tōa, hō͘ chèng-lâng tōa khùi-la̍t, lóng chhut tī Lí ê chhiú."
+    }, 
+    "13": {
+      "mp3": "13/13_029_13.mp3", 
+      "text": " Goán ê Siōng-tè ah, taⁿ goán kám-siā Lí, o-ló Lí êng-kng ê miâ;"
+    }, 
+    "14": {
+      "mp3": "13/13_029_14.mp3", 
+      "text": " góa sī sím-mi̍h, góa ê peh-sìⁿ sī sím-mi̍h, goán kéng-jiân ōe án-ni hoaⁿ-hí hōng-hiàn ah?  In-ūi bān-mi̍h lóng tùi Lí lâi, goán ēng Lí ê mi̍h hiàn hō͘ Lí;"
+    }, 
+    "15": {
+      "mp3": "13/13_029_15.mp3", 
+      "text": " goán tī Lí ê bīn-chêng sī chhut-gōa lâng, sī kià-kha--ê, kap goán ê lia̍t-chó͘ chi̍t-poaⁿ-iūⁿ; goán tī sè-kan ê ji̍t-chí chhin-chhiūⁿ iáⁿ, bô thang ǹg-bāng tn̂g-tn̂g tī-teh."
+    }, 
+    "16": {
+      "mp3": "13/13_029_16.mp3", 
+      "text": " Iâ-hô-hoa goán ê Siōng-tè ah, goán pī-pān chiah-ê chōe-chōe chhâi-liāu, beh ūi-tio̍h Lí ê sèng-miâ khí Lí ê tiān, lóng sī tùi Lí lâi, iā lóng sī Lí--ê."
+    }, 
+    "17": {
+      "mp3": "13/13_029_17.mp3", 
+      "text": " Góa ê Siōng-tè ah, góa chai Lí kàm-chhat lâng ê sim, hoaⁿ-hí chèng-ti̍t; lūn-kàu góa, góa ēng chèng-ti̍t ê sim hoaⁿ-hí hiàn che it-chhè ê mi̍h; taⁿ góa khòaⁿ-kìⁿ Lí ê peh-sìⁿ tī-chia, lóng hoaⁿ-hí hiàn hō͘ Lí, góa chiū hoaⁿ-hí."
+    }, 
+    "18": {
+      "mp3": "13/13_029_18.mp3", 
+      "text": " Iâ-hô-hoa, goán lia̍t-chó͘ A-pek-la̍h-hán, Í-sat, Í-sek-lia̍t ê Siōng-tè ah, kiû Lí hō͘ Lí ê peh-sìⁿ siông-siông chûn chit-hō ê sim-su liām-thâu, pī-pān in ê sim kui-ǹg Lí."
+    }, 
+    "19": {
+      "mp3": "13/13_029_19.mp3", 
+      "text": " Koh kiû Lí siúⁿ-sù góa ê kiáⁿ Só͘-lô-bûn sêng-si̍t ê sim, lâi siú Lí ê bēng-lēng, hoat-tō͘, lu̍t-lē, chòe-chiâⁿ che it-chhè ê sū, ēng góa só͘ pī-pān-ê lâi khí tiān."
+    }, 
+    "20": {
+      "mp3": "13/13_029_20.mp3", 
+      "text": " Tāi-pi̍t tùi chiah ê hōe-chiòng kóng, Lín tio̍h o-ló Iâ-hô-hoa lín ê Siōng-tè; tùi án-ni hōe-chiòng o-ló Iâ-hô-hoa in lia̍t-chó͘ ê Siōng-tè, àⁿ-thâu pài Iâ-hô-hoa kap ông."
+    }, 
+    "21": {
+      "mp3": "13/13_029_21.mp3", 
+      "text": " Keh-ji̍t in hiàn-chè hō͘ Iâ-hô-hoa, koh hiàn sio-chè hō͘ Iâ-hô-hoa; chiū-sī hiàn kang ê gû chi̍t-chheng chiah, kang ê mî-iûⁿ chi̍t-chheng chiah, iûⁿ-á chi̍t-chheng chiah, kap i ê koàn-tiān; koh ūi Í-sek-lia̍t ê chèng-lâng hiàn chōe-chōe chè-mi̍h."
+    }, 
+    "22": {
+      "mp3": "13/13_029_22.mp3", 
+      "text": " Hit-ji̍t in tī Iâ-hô-hoa ê bīn-chêng lim-chia̍h tōa-tōa hoaⁿ-hí.  In tē-jī pái siat-li̍p Tāi-pi̍t ê kiáⁿ Só͘-lô-bûn chòe ông, ūi Iâ-hô-hoa ēng iû boah i, hō͘ i chòe kun-ông; ia̍h ēng iû boah Sat-tok chòe chè-si."
+    }, 
+    "23": {
+      "mp3": "13/13_029_23.mp3", 
+      "text": " Tùi án-ni Só͘-lô-bûn chē tī Iâ-hô-hoa só͘ siúⁿ-sù ê ūi, sòa-chiap  i ê lāu-pē Tāi-pi̍t chòe ông, bô m̄ heng-thong; Í-sek-lia̍t chèng-lâng iā lóng thiaⁿ-thàn i."
+    }, 
+    "24": {
+      "mp3": "13/13_029_24.mp3", 
+      "text": " Chèng siú-léng kap ióng-sū, kap Tāi-pi̍t ông ê chèng-kiáⁿ, lóng sūn-ho̍k Só͘-lô-bûn ông."
+    }, 
+    "25": {
+      "mp3": "13/13_029_25.mp3", 
+      "text": " Iâ-hô-hoa hō͘ Só͘-lô-bûn tī Í-sek-lia̍t chèng-lâng ê bīn-chêng, ke̍k-kî chun-tōa; hō͘ i chòe kok-ông ê ui-hong, iâⁿ-kè Í-sek-lia̍t í-chêng ê ông."
+    }, 
+    "26": {
+      "mp3": "13/13_029_26.mp3", 
+      "text": " Iâ-se ê kiáⁿ Tāi-pi̍t chòe Í-sek-lia̍t chèng-lâng ê ông;"
+    }, 
+    "27": {
+      "mp3": "13/13_029_27.mp3", 
+      "text": " i chòe Í-sek-lia̍t ông, le̍k-kè sì-cha̍p nî, tī Hi-pek-lûn chòe-ông chhit-nî, tī Iâ-lō͘-sat-léng chòe-ông saⁿ-cha̍p-saⁿ nî."
+    }, 
+    "28": {
+      "mp3": "13/13_029_28.mp3", 
+      "text": " I chia̍h tn̂g hè-siū; nî-hè, hó-gia̍h, êng-kng lóng móa-chiok, chiū kè-sì; i ê kiáⁿ Só͘-lô-bûn sòa-chiap i chòe-ông."
+    }, 
+    "29": {
+      "mp3": "13/13_029_29.mp3", 
+      "text": " Tāi-pi̍t ông thâu kàu bé ê sū, lóng kì tī sian-kiàn Sat-bó͘-jíⁿ ê chheh, kap sian-ti Ná-tan ê chheh, í-ki̍p sian-kiàn Ka-tek ê chheh."
+    }, 
+    "30": {
+      "mp3": "13/13_029_30.mp3", 
+      "text": " Hiah ê chheh iā kì-chài i tī-lí kok ê sū, kap i ê tōa koân-lêng, í-ki̍p i kap Í-sek-lia̍t, kap sì-hng ê lia̍t-kok, só͘ keng-kè ê sî-sū."
+    }
+  }, 
+  "bookno": 13
+}
