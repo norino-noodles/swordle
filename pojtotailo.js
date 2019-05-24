@@ -32,7 +32,7 @@ function poj_to_tailo(text) {
 
     text = text.replace(new RegExp('([eE])(' + accent + '?)(re)'), '$1$3$2');
 
-    text = text.replace(new RegExp('([oO]' + accent + '?)'), '$1o');
+    text = text.replace(new RegExp('([oO]' + accent + '?)\\u0358'), '$1o');
 
     text = text.replace(new RegExp('(h?)\\u207F'), 'nn$1');
 
