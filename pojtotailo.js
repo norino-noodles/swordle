@@ -1,4 +1,5 @@
-
+// Reference: https://en.wiktionary.org/wiki/Module:nan-pron
+// using function export.poj_to_tl_conv(text)
 
 function poj_to_tailo(text) {
     var accent = '[́̀̂]'
@@ -18,7 +19,7 @@ function poj_to_tailo(text) {
     text = text.normalize('NFD');
 
     text = text.replace('\u4ED4', '\u00E1')
-    
+
     text = text.replace(new RegExp('\(([^\)]+)\)'), (match, p1, offset, string) => {
         return p1 +'-' + p1 + '-' + p1
     });
