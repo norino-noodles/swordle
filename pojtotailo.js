@@ -18,6 +18,7 @@ function poj_to_tailo(text) {
     text = text.normalize('NFD');
 
     text = text.replace('\u4ED4', '\u00E1')
+    
     text = text.replace(new RegExp('\(([^\)]+)\)'), (match, p1, offset, string) => {
         return p1 +'-' + p1 + '-' + p1
     });
@@ -29,9 +30,13 @@ function poj_to_tailo(text) {
     text = text.replace(new RegExp('([oO])(' + accent + '?[ae])'), convert);
 
     text = text.replace(new RegExp('([uU])(' + accent + '?[aei])'), '$1$3$2')
+
     text = text.replace(new RegExp('([eE])(' + accent + '?)(re)'), '$1$3$2')
+
     text = text.replace(new RegExp('([oO])(' + accent + '?)'), '$1o')
+
     text = text.replace(new RegExp('(h?)\U207F'), 'nn$1')
+
     text = text.replace(new RegExp('([cC]h)'), (match, p1, offset, string) => {
         if (match == "ch") {
             return "ts";
