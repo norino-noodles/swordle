@@ -1,0 +1,22 @@
+{
+  "name": "swordle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-static.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norino-noodles/swordle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norino-noodles/swordle/issues"
+  },
+  "homepage": "https://github.com/norino-noodles/swordle#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
